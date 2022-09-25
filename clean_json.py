@@ -5,7 +5,7 @@ import time
 start = time.time()
 
 data = []
-with open('./actual_data.json', encoding="utf8") as f:
+with open('./prelim_data_set_1.json', encoding="utf8") as f:
     for line in f:
         data.append(json.loads(line))
 
@@ -47,10 +47,7 @@ for obj in data:
     except:
         description = ''
 
-    try:
-        type_of_object = obj['_type']
-    except:
-        continue
+
 
     try:
         count = 0
@@ -64,9 +61,13 @@ for obj in data:
     except:
         length_of_images = 0
 
+    try:
+        labels = [{'name': one_label['value'], 'confidence':one_label['details']['confidence']} for one_label in obj['_source']['multimedia'][0]['enhancement']['rekognition'][0]['labels'] ]
+    
+    except:
+        labels = []
 
-
-    new_obj = {'id': id, 'total_views': total_views, 'description': description, 'type': type_of_object, 'image_count': length_of_images}
+    new_obj = {'id': id, 'total_views': total_views, 'description': description, 'image_count': length_of_images, 'labels': labels}
     all_data.append(new_obj)
     # json.dump(new_obj, new_data_file)
 
