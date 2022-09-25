@@ -1,7 +1,7 @@
 import json
   
 # Opening JSON file
-file = open('./output_clean_data.json')
+file = open('./actual_dataset/output_clean_data.json')
   
 # returns JSON object as 
 # a dictionary

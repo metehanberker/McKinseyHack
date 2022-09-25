@@ -71,8 +71,7 @@ for obj in data:
     all_data.append(new_obj)
     # json.dump(new_obj, new_data_file)
 
-    print(counter)
-    counter += 1
+
 
 
 json.dump(all_data, new_data_file)

@@ -1,0 +1,6716 @@
+[
+    {
+        "name": "Kiosk",
+        "total_views": 11201,
+        "num_of_artefacts_tagged_in": 7,
+        "avg_view_per_artefact": 1600.142857142857
+    },
+    {
+        "name": "Utility Pole",
+        "total_views": 20100,
+        "num_of_artefacts_tagged_in": 20,
+        "avg_view_per_artefact": 1005
+    },
+    {
+        "name": "Living Room",
+        "total_views": 10793,
+        "num_of_artefacts_tagged_in": 12,
+        "avg_view_per_artefact": 899.4166666666666
+    },
+    {
+        "name": "Astronaut",
+        "total_views": 12453,
+        "num_of_artefacts_tagged_in": 16,
+        "avg_view_per_artefact": 778.3125
+    },
+    {
+        "name": "Yacht",
+        "total_views": 3740,
+        "num_of_artefacts_tagged_in": 5,
+        "avg_view_per_artefact": 748
+    },
+    {
+        "name": "Gin",
+        "total_views": 5302,
+        "num_of_artefacts_tagged_in": 8,
+        "avg_view_per_artefact": 662.75
+    },
+    {
+        "name": "Train Track",
+        "total_views": 104177,
+        "num_of_artefacts_tagged_in": 170,
+        "avg_view_per_artefact": 612.8058823529411
+    },
+    {
+        "name": "Railway",
+        "total_views": 145072,
+        "num_of_artefacts_tagged_in": 257,
+        "avg_view_per_artefact": 564.4824902723735
+    },
+    {
+        "name": "Rail",
+        "total_views": 96390,
+        "num_of_artefacts_tagged_in": 171,
+        "avg_view_per_artefact": 563.6842105263158
+    },
+    {
+        "name": "Video Camera",
+        "total_views": 14069,
+        "num_of_artefacts_tagged_in": 26,
+        "avg_view_per_artefact": 541.1153846153846
+    },
+    {
+        "name": "Paper Towel",
+        "total_views": 3154,
+        "num_of_artefacts_tagged_in": 6,
+        "avg_view_per_artefact": 525.6666666666666
+    },
+    {
+        "name": "Tissue",
+        "total_views": 3154,
+        "num_of_artefacts_tagged_in": 6,
+        "avg_view_per_artefact": 525.6666666666666
+    },
+    {
+        "name": "Passenger Car",
+        "total_views": 3509,
+        "num_of_artefacts_tagged_in": 7,
+        "avg_view_per_artefact": 501.2857142857143
+    },
+    {
+        "name": "Locomotive",
+        "total_views": 143516,
+        "num_of_artefacts_tagged_in": 316,
+        "avg_view_per_artefact": 454.1645569620253
+    },
+    {
+        "name": "Digital Camera",
+        "total_views": 72370,
+        "num_of_artefacts_tagged_in": 160,
+        "avg_view_per_artefact": 452.3125
+    },
+    {
+        "name": "Studio",
+        "total_views": 2641,
+        "num_of_artefacts_tagged_in": 6,
+        "avg_view_per_artefact": 440.1666666666667
+    },
+    {
+        "name": "Conch",
+        "total_views": 2551,
+        "num_of_artefacts_tagged_in": 6,
+        "avg_view_per_artefact": 425.1666666666667
+    },
+    {
+        "name": "Steam Engine",
+        "total_views": 69425,
+        "num_of_artefacts_tagged_in": 165,
+        "avg_view_per_artefact": 420.75757575757575
+    },
+    {
+        "name": "Moped",
+        "total_views": 3692,
+        "num_of_artefacts_tagged_in": 9,
+        "avg_view_per_artefact": 410.22222222222223
+    },
+    {
+        "name": "Desktop",
+        "total_views": 11041,
+        "num_of_artefacts_tagged_in": 27,
+        "avg_view_per_artefact": 408.9259259259259
+    },
+    {
+        "name": "Hut",
+        "total_views": 2857,
+        "num_of_artefacts_tagged_in": 7,
+        "avg_view_per_artefact": 408.14285714285717
+    },
+    {
+        "name": "Engine",
+        "total_views": 127742,
+        "num_of_artefacts_tagged_in": 314,
+        "avg_view_per_artefact": 406.8216560509554
+    },
+    {
+        "name": "Paint Container",
+        "total_views": 6883,
+        "num_of_artefacts_tagged_in": 17,
+        "avg_view_per_artefact": 404.88235294117646
+    },
+    {
+        "name": "Crib",
+        "total_views": 10417,
+        "num_of_artefacts_tagged_in": 26,
+        "avg_view_per_artefact": 400.65384615384613
+    },
+    {
+        "name": "Vespa",
+        "total_views": 3550,
+        "num_of_artefacts_tagged_in": 9,
+        "avg_view_per_artefact": 394.44444444444446
+    },
+    {
+        "name": "Bedroom",
+        "total_views": 1965,
+        "num_of_artefacts_tagged_in": 5,
+        "avg_view_per_artefact": 393
+    },
+    {
+        "name": "Modern Art",
+        "total_views": 7837,
+        "num_of_artefacts_tagged_in": 20,
+        "avg_view_per_artefact": 391.85
+    },
+    {
+        "name": "Safe",
+        "total_views": 21062,
+        "num_of_artefacts_tagged_in": 56,
+        "avg_view_per_artefact": 376.10714285714283
+    },
+    {
+        "name": "Train",
+        "total_views": 265775,
+        "num_of_artefacts_tagged_in": 715,
+        "avg_view_per_artefact": 371.7132867132867
+    },
+    {
+        "name": "Motor Scooter",
+        "total_views": 3708,
+        "num_of_artefacts_tagged_in": 10,
+        "avg_view_per_artefact": 370.8
+    },
+    {
+        "name": "Sailboat",
+        "total_views": 10231,
+        "num_of_artefacts_tagged_in": 28,
+        "avg_view_per_artefact": 365.39285714285717
+    },
+    {
+        "name": "Skeleton",
+        "total_views": 6171,
+        "num_of_artefacts_tagged_in": 17,
+        "avg_view_per_artefact": 363
+    },
+    {
+        "name": "Microwave",
+        "total_views": 10147,
+        "num_of_artefacts_tagged_in": 28,
+        "avg_view_per_artefact": 362.39285714285717
+    },
+    {
+        "name": "Spoke",
+        "total_views": 78029,
+        "num_of_artefacts_tagged_in": 236,
+        "avg_view_per_artefact": 330.6313559322034
+    },
+    {
+        "name": "Motor",
+        "total_views": 141432,
+        "num_of_artefacts_tagged_in": 440,
+        "avg_view_per_artefact": 321.43636363636364
+    },
+    {
+        "name": "Gear",
+        "total_views": 23155,
+        "num_of_artefacts_tagged_in": 74,
+        "avg_view_per_artefact": 312.9054054054054
+    },
+    {
+        "name": "Sheep",
+        "total_views": 3121,
+        "num_of_artefacts_tagged_in": 10,
+        "avg_view_per_artefact": 312.1
+    },
+    {
+        "name": "Fire Truck",
+        "total_views": 5442,
+        "num_of_artefacts_tagged_in": 18,
+        "avg_view_per_artefact": 302.3333333333333
+    },
+    {
+        "name": "Television",
+        "total_views": 19250,
+        "num_of_artefacts_tagged_in": 66,
+        "avg_view_per_artefact": 291.6666666666667
+    },
+    {
+        "name": "TV",
+        "total_views": 20626,
+        "num_of_artefacts_tagged_in": 71,
+        "avg_view_per_artefact": 290.50704225352115
+    },
+    {
+        "name": "Syrup",
+        "total_views": 7138,
+        "num_of_artefacts_tagged_in": 26,
+        "avg_view_per_artefact": 274.53846153846155
+    },
+    {
+        "name": "Spaceship",
+        "total_views": 1914,
+        "num_of_artefacts_tagged_in": 7,
+        "avg_view_per_artefact": 273.42857142857144
+    },
+    {
+        "name": "Airfield",
+        "total_views": 3235,
+        "num_of_artefacts_tagged_in": 12,
+        "avg_view_per_artefact": 269.5833333333333
+    },
+    {
+        "name": "Pc",
+        "total_views": 21917,
+        "num_of_artefacts_tagged_in": 83,
+        "avg_view_per_artefact": 264.06024096385545
+    },
+    {
+        "name": "Aftershave",
+        "total_views": 4706,
+        "num_of_artefacts_tagged_in": 18,
+        "avg_view_per_artefact": 261.44444444444446
+    },
+    {
+        "name": "Screen",
+        "total_views": 55155,
+        "num_of_artefacts_tagged_in": 213,
+        "avg_view_per_artefact": 258.943661971831
+    },
+    {
+        "name": "Camera",
+        "total_views": 144881,
+        "num_of_artefacts_tagged_in": 560,
+        "avg_view_per_artefact": 258.7160714285714
+    },
+    {
+        "name": "Mountain Bike",
+        "total_views": 5678,
+        "num_of_artefacts_tagged_in": 22,
+        "avg_view_per_artefact": 258.09090909090907
+    },
+    {
+        "name": "Smile",
+        "total_views": 4895,
+        "num_of_artefacts_tagged_in": 19,
+        "avg_view_per_artefact": 257.63157894736844
+    },
+    {
+        "name": "Van",
+        "total_views": 2285,
+        "num_of_artefacts_tagged_in": 9,
+        "avg_view_per_artefact": 253.88888888888889
+    },
+    {
+        "name": "Airport",
+        "total_views": 3284,
+        "num_of_artefacts_tagged_in": 13,
+        "avg_view_per_artefact": 252.6153846153846
+    },
+    {
+        "name": "Monitor",
+        "total_views": 41165,
+        "num_of_artefacts_tagged_in": 169,
+        "avg_view_per_artefact": 243.57988165680473
+    },
+    {
+        "name": "Table Lamp",
+        "total_views": 8247,
+        "num_of_artefacts_tagged_in": 34,
+        "avg_view_per_artefact": 242.55882352941177
+    },
+    {
+        "name": "Seasoning",
+        "total_views": 7208,
+        "num_of_artefacts_tagged_in": 30,
+        "avg_view_per_artefact": 240.26666666666668
+    },
+    {
+        "name": "Cell Phone",
+        "total_views": 60117,
+        "num_of_artefacts_tagged_in": 257,
+        "avg_view_per_artefact": 233.9182879377432
+    },
+    {
+        "name": "Towel",
+        "total_views": 3503,
+        "num_of_artefacts_tagged_in": 15,
+        "avg_view_per_artefact": 233.53333333333333
+    },
+    {
+        "name": "Biplane",
+        "total_views": 9426,
+        "num_of_artefacts_tagged_in": 41,
+        "avg_view_per_artefact": 229.90243902439025
+    },
+    {
+        "name": "Mobile Phone",
+        "total_views": 60193,
+        "num_of_artefacts_tagged_in": 262,
+        "avg_view_per_artefact": 229.74427480916032
+    },
+    {
+        "name": "Perfume",
+        "total_views": 5032,
+        "num_of_artefacts_tagged_in": 22,
+        "avg_view_per_artefact": 228.72727272727272
+    },
+    {
+        "name": "Projector",
+        "total_views": 4289,
+        "num_of_artefacts_tagged_in": 19,
+        "avg_view_per_artefact": 225.73684210526315
+    },
+    {
+        "name": "Beer Bottle",
+        "total_views": 7881,
+        "num_of_artefacts_tagged_in": 35,
+        "avg_view_per_artefact": 225.17142857142858
+    },
+    {
+        "name": "Mannequin",
+        "total_views": 1776,
+        "num_of_artefacts_tagged_in": 8,
+        "avg_view_per_artefact": 222
+    },
+    {
+        "name": "Scoreboard",
+        "total_views": 1771,
+        "num_of_artefacts_tagged_in": 8,
+        "avg_view_per_artefact": 221.375
+    },
+    {
+        "name": "Heater",
+        "total_views": 4816,
+        "num_of_artefacts_tagged_in": 22,
+        "avg_view_per_artefact": 218.9090909090909
+    },
+    {
+        "name": "Space Heater",
+        "total_views": 4816,
+        "num_of_artefacts_tagged_in": 22,
+        "avg_view_per_artefact": 218.9090909090909
+    },
+    {
+        "name": "Display",
+        "total_views": 31706,
+        "num_of_artefacts_tagged_in": 145,
+        "avg_view_per_artefact": 218.66206896551725
+    },
+    {
+        "name": "Assembly Line",
+        "total_views": 2403,
+        "num_of_artefacts_tagged_in": 11,
+        "avg_view_per_artefact": 218.45454545454547
+    },
+    {
+        "name": "Terminal",
+        "total_views": 6543,
+        "num_of_artefacts_tagged_in": 30,
+        "avg_view_per_artefact": 218.1
+    },
+    {
+        "name": "Printer",
+        "total_views": 2942,
+        "num_of_artefacts_tagged_in": 14,
+        "avg_view_per_artefact": 210.14285714285714
+    },
+    {
+        "name": "Train Station",
+        "total_views": 4404,
+        "num_of_artefacts_tagged_in": 21,
+        "avg_view_per_artefact": 209.71428571428572
+    },
+    {
+        "name": "Wheel",
+        "total_views": 286653,
+        "num_of_artefacts_tagged_in": 1367,
+        "avg_view_per_artefact": 209.6949524506218
+    },
+    {
+        "name": "Bomber",
+        "total_views": 1456,
+        "num_of_artefacts_tagged_in": 7,
+        "avg_view_per_artefact": 208
+    },
+    {
+        "name": "Bulldozer",
+        "total_views": 4265,
+        "num_of_artefacts_tagged_in": 21,
+        "avg_view_per_artefact": 203.0952380952381
+    },
+    {
+        "name": "Trophy",
+        "total_views": 10129,
+        "num_of_artefacts_tagged_in": 50,
+        "avg_view_per_artefact": 202.58
+    },
+    {
+        "name": "Interior Design",
+        "total_views": 29497,
+        "num_of_artefacts_tagged_in": 149,
+        "avg_view_per_artefact": 197.96644295302013
+    },
+    {
+        "name": "Gong",
+        "total_views": 1362,
+        "num_of_artefacts_tagged_in": 7,
+        "avg_view_per_artefact": 194.57142857142858
+    },
+    {
+        "name": "Tricycle",
+        "total_views": 2722,
+        "num_of_artefacts_tagged_in": 14,
+        "avg_view_per_artefact": 194.42857142857142
+    },
+    {
+        "name": "Remote Control",
+        "total_views": 2526,
+        "num_of_artefacts_tagged_in": 13,
+        "avg_view_per_artefact": 194.30769230769232
+    },
+    {
+        "name": "Armchair",
+        "total_views": 3494,
+        "num_of_artefacts_tagged_in": 18,
+        "avg_view_per_artefact": 194.11111111111111
+    },
+    {
+        "name": "Aerial View",
+        "total_views": 2695,
+        "num_of_artefacts_tagged_in": 14,
+        "avg_view_per_artefact": 192.5
+    },
+    {
+        "name": "Robot",
+        "total_views": 4807,
+        "num_of_artefacts_tagged_in": 25,
+        "avg_view_per_artefact": 192.28
+    },
+    {
+        "name": "Bus",
+        "total_views": 5415,
+        "num_of_artefacts_tagged_in": 29,
+        "avg_view_per_artefact": 186.72413793103448
+    },
+    {
+        "name": "Microphone",
+        "total_views": 2785,
+        "num_of_artefacts_tagged_in": 15,
+        "avg_view_per_artefact": 185.66666666666666
+    },
+    {
+        "name": "Wheelchair",
+        "total_views": 924,
+        "num_of_artefacts_tagged_in": 5,
+        "avg_view_per_artefact": 184.8
+    },
+    {
+        "name": "Antenna",
+        "total_views": 2727,
+        "num_of_artefacts_tagged_in": 15,
+        "avg_view_per_artefact": 181.8
+    },
+    {
+        "name": "Toaster",
+        "total_views": 1087,
+        "num_of_artefacts_tagged_in": 6,
+        "avg_view_per_artefact": 181.16666666666666
+    },
+    {
+        "name": "Warplane",
+        "total_views": 1988,
+        "num_of_artefacts_tagged_in": 11,
+        "avg_view_per_artefact": 180.72727272727272
+    },
+    {
+        "name": "Atlas",
+        "total_views": 8736,
+        "num_of_artefacts_tagged_in": 49,
+        "avg_view_per_artefact": 178.28571428571428
+    },
+    {
+        "name": "Computer Keyboard",
+        "total_views": 43051,
+        "num_of_artefacts_tagged_in": 242,
+        "avg_view_per_artefact": 177.89669421487602
+    },
+    {
+        "name": "Factory",
+        "total_views": 18701,
+        "num_of_artefacts_tagged_in": 106,
+        "avg_view_per_artefact": 176.4245283018868
+    },
+    {
+        "name": "Room",
+        "total_views": 18050,
+        "num_of_artefacts_tagged_in": 104,
+        "avg_view_per_artefact": 173.55769230769232
+    },
+    {
+        "name": "Lathe",
+        "total_views": 46179,
+        "num_of_artefacts_tagged_in": 267,
+        "avg_view_per_artefact": 172.95505617977528
+    },
+    {
+        "name": "Keyboard",
+        "total_views": 43047,
+        "num_of_artefacts_tagged_in": 249,
+        "avg_view_per_artefact": 172.87951807228916
+    },
+    {
+        "name": "Rocket",
+        "total_views": 2416,
+        "num_of_artefacts_tagged_in": 14,
+        "avg_view_per_artefact": 172.57142857142858
+    },
+    {
+        "name": "Vessel",
+        "total_views": 19140,
+        "num_of_artefacts_tagged_in": 112,
+        "avg_view_per_artefact": 170.89285714285714
+    },
+    {
+        "name": "Oven",
+        "total_views": 16092,
+        "num_of_artefacts_tagged_in": 96,
+        "avg_view_per_artefact": 167.625
+    },
+    {
+        "name": "Bike",
+        "total_views": 32331,
+        "num_of_artefacts_tagged_in": 193,
+        "avg_view_per_artefact": 167.5181347150259
+    },
+    {
+        "name": "Earring",
+        "total_views": 1160,
+        "num_of_artefacts_tagged_in": 7,
+        "avg_view_per_artefact": 165.71428571428572
+    },
+    {
+        "name": "Tripod",
+        "total_views": 10034,
+        "num_of_artefacts_tagged_in": 61,
+        "avg_view_per_artefact": 164.49180327868854
+    },
+    {
+        "name": "Lawn Mower",
+        "total_views": 2623,
+        "num_of_artefacts_tagged_in": 16,
+        "avg_view_per_artefact": 163.9375
+    },
+    {
+        "name": "Map",
+        "total_views": 11472,
+        "num_of_artefacts_tagged_in": 70,
+        "avg_view_per_artefact": 163.88571428571427
+    },
+    {
+        "name": "Destroyer",
+        "total_views": 816,
+        "num_of_artefacts_tagged_in": 5,
+        "avg_view_per_artefact": 163.2
+    },
+    {
+        "name": "Digital Watch",
+        "total_views": 1285,
+        "num_of_artefacts_tagged_in": 8,
+        "avg_view_per_artefact": 160.625
+    },
+    {
+        "name": "Billboard",
+        "total_views": 1269,
+        "num_of_artefacts_tagged_in": 8,
+        "avg_view_per_artefact": 158.625
+    },
+    {
+        "name": "Dinghy",
+        "total_views": 1584,
+        "num_of_artefacts_tagged_in": 10,
+        "avg_view_per_artefact": 158.4
+    },
+    {
+        "name": "Tractor",
+        "total_views": 4586,
+        "num_of_artefacts_tagged_in": 29,
+        "avg_view_per_artefact": 158.13793103448276
+    },
+    {
+        "name": "Pedal",
+        "total_views": 2835,
+        "num_of_artefacts_tagged_in": 18,
+        "avg_view_per_artefact": 157.5
+    },
+    {
+        "name": "Electronics",
+        "total_views": 382304,
+        "num_of_artefacts_tagged_in": 2458,
+        "avg_view_per_artefact": 155.5345809601302
+    },
+    {
+        "name": "Ship",
+        "total_views": 14208,
+        "num_of_artefacts_tagged_in": 92,
+        "avg_view_per_artefact": 154.43478260869566
+    },
+    {
+        "name": "Vehicle",
+        "total_views": 429391,
+        "num_of_artefacts_tagged_in": 2793,
+        "avg_view_per_artefact": 153.73827425707125
+    },
+    {
+        "name": "Transportation",
+        "total_views": 433114,
+        "num_of_artefacts_tagged_in": 2840,
+        "avg_view_per_artefact": 152.5049295774648
+    },
+    {
+        "name": "Turbine",
+        "total_views": 915,
+        "num_of_artefacts_tagged_in": 6,
+        "avg_view_per_artefact": 152.5
+    },
+    {
+        "name": "Sewing",
+        "total_views": 6997,
+        "num_of_artefacts_tagged_in": 46,
+        "avg_view_per_artefact": 152.1086956521739
+    },
+    {
+        "name": "Jaw",
+        "total_views": 6074,
+        "num_of_artefacts_tagged_in": 40,
+        "avg_view_per_artefact": 151.85
+    },
+    {
+        "name": "Computer Hardware",
+        "total_views": 44183,
+        "num_of_artefacts_tagged_in": 291,
+        "avg_view_per_artefact": 151.8316151202749
+    },
+    {
+        "name": "Phone",
+        "total_views": 71223,
+        "num_of_artefacts_tagged_in": 470,
+        "avg_view_per_artefact": 151.53829787234042
+    },
+    {
+        "name": "Missile",
+        "total_views": 1656,
+        "num_of_artefacts_tagged_in": 11,
+        "avg_view_per_artefact": 150.54545454545453
+    },
+    {
+        "name": "Globe",
+        "total_views": 8275,
+        "num_of_artefacts_tagged_in": 56,
+        "avg_view_per_artefact": 147.76785714285714
+    },
+    {
+        "name": "Refrigerator",
+        "total_views": 2312,
+        "num_of_artefacts_tagged_in": 16,
+        "avg_view_per_artefact": 144.5
+    },
+    {
+        "name": "Motorcycle",
+        "total_views": 11700,
+        "num_of_artefacts_tagged_in": 81,
+        "avg_view_per_artefact": 144.44444444444446
+    },
+    {
+        "name": "Bicycle",
+        "total_views": 36030,
+        "num_of_artefacts_tagged_in": 250,
+        "avg_view_per_artefact": 144.12
+    },
+    {
+        "name": "Machine",
+        "total_views": 559925,
+        "num_of_artefacts_tagged_in": 3891,
+        "avg_view_per_artefact": 143.90259573374453
+    },
+    {
+        "name": "Couch",
+        "total_views": 4452,
+        "num_of_artefacts_tagged_in": 31,
+        "avg_view_per_artefact": 143.61290322580646
+    },
+    {
+        "name": "Propeller",
+        "total_views": 5136,
+        "num_of_artefacts_tagged_in": 36,
+        "avg_view_per_artefact": 142.66666666666666
+    },
+    {
+        "name": "Stove",
+        "total_views": 2416,
+        "num_of_artefacts_tagged_in": 17,
+        "avg_view_per_artefact": 142.11764705882354
+    },
+    {
+        "name": "Sewing Machine",
+        "total_views": 5096,
+        "num_of_artefacts_tagged_in": 36,
+        "avg_view_per_artefact": 141.55555555555554
+    },
+    {
+        "name": "Watercraft",
+        "total_views": 21909,
+        "num_of_artefacts_tagged_in": 155,
+        "avg_view_per_artefact": 141.3483870967742
+    },
+    {
+        "name": "Museum",
+        "total_views": 975,
+        "num_of_artefacts_tagged_in": 7,
+        "avg_view_per_artefact": 139.28571428571428
+    },
+    {
+        "name": "Alien",
+        "total_views": 834,
+        "num_of_artefacts_tagged_in": 6,
+        "avg_view_per_artefact": 139
+    },
+    {
+        "name": "Shelter",
+        "total_views": 4432,
+        "num_of_artefacts_tagged_in": 32,
+        "avg_view_per_artefact": 138.5
+    },
+    {
+        "name": "Telescope",
+        "total_views": 11626,
+        "num_of_artefacts_tagged_in": 84,
+        "avg_view_per_artefact": 138.4047619047619
+    },
+    {
+        "name": "Liquor",
+        "total_views": 34437,
+        "num_of_artefacts_tagged_in": 251,
+        "avg_view_per_artefact": 137.199203187251
+    },
+    {
+        "name": "Denim",
+        "total_views": 3257,
+        "num_of_artefacts_tagged_in": 24,
+        "avg_view_per_artefact": 135.70833333333334
+    },
+    {
+        "name": "Package Delivery",
+        "total_views": 677,
+        "num_of_artefacts_tagged_in": 5,
+        "avg_view_per_artefact": 135.4
+    },
+    {
+        "name": "Laptop",
+        "total_views": 6616,
+        "num_of_artefacts_tagged_in": 49,
+        "avg_view_per_artefact": 135.0204081632653
+    },
+    {
+        "name": "Acrobatic",
+        "total_views": 667,
+        "num_of_artefacts_tagged_in": 5,
+        "avg_view_per_artefact": 133.4
+    },
+    {
+        "name": "Canned Goods",
+        "total_views": 1467,
+        "num_of_artefacts_tagged_in": 11,
+        "avg_view_per_artefact": 133.36363636363637
+    },
+    {
+        "name": "Ceiling Fan",
+        "total_views": 2636,
+        "num_of_artefacts_tagged_in": 20,
+        "avg_view_per_artefact": 131.8
+    },
+    {
+        "name": "Workshop",
+        "total_views": 8431,
+        "num_of_artefacts_tagged_in": 64,
+        "avg_view_per_artefact": 131.734375
+    },
+    {
+        "name": "Canine",
+        "total_views": 6980,
+        "num_of_artefacts_tagged_in": 53,
+        "avg_view_per_artefact": 131.69811320754718
+    },
+    {
+        "name": "Hangar",
+        "total_views": 4167,
+        "num_of_artefacts_tagged_in": 32,
+        "avg_view_per_artefact": 130.21875
+    },
+    {
+        "name": "Housing",
+        "total_views": 21222,
+        "num_of_artefacts_tagged_in": 164,
+        "avg_view_per_artefact": 129.40243902439025
+    },
+    {
+        "name": "Dog",
+        "total_views": 6934,
+        "num_of_artefacts_tagged_in": 54,
+        "avg_view_per_artefact": 128.40740740740742
+    },
+    {
+        "name": "Shack",
+        "total_views": 641,
+        "num_of_artefacts_tagged_in": 5,
+        "avg_view_per_artefact": 128.2
+    },
+    {
+        "name": "Drum",
+        "total_views": 3588,
+        "num_of_artefacts_tagged_in": 28,
+        "avg_view_per_artefact": 128.14285714285714
+    },
+    {
+        "name": "Percussion",
+        "total_views": 3588,
+        "num_of_artefacts_tagged_in": 28,
+        "avg_view_per_artefact": 128.14285714285714
+    },
+    {
+        "name": "Man",
+        "total_views": 4602,
+        "num_of_artefacts_tagged_in": 36,
+        "avg_view_per_artefact": 127.83333333333333
+    },
+    {
+        "name": "Radio",
+        "total_views": 13171,
+        "num_of_artefacts_tagged_in": 104,
+        "avg_view_per_artefact": 126.64423076923077
+    },
+    {
+        "name": "Lab",
+        "total_views": 631,
+        "num_of_artefacts_tagged_in": 5,
+        "avg_view_per_artefact": 126.2
+    },
+    {
+        "name": "Jeans",
+        "total_views": 3275,
+        "num_of_artefacts_tagged_in": 26,
+        "avg_view_per_artefact": 125.96153846153847
+    },
+    {
+        "name": "Calculator",
+        "total_views": 7654,
+        "num_of_artefacts_tagged_in": 61,
+        "avg_view_per_artefact": 125.47540983606558
+    },
+    {
+        "name": "Planet",
+        "total_views": 9391,
+        "num_of_artefacts_tagged_in": 76,
+        "avg_view_per_artefact": 123.5657894736842
+    },
+    {
+        "name": "Trident",
+        "total_views": 976,
+        "num_of_artefacts_tagged_in": 8,
+        "avg_view_per_artefact": 122
+    },
+    {
+        "name": "Vise",
+        "total_views": 3757,
+        "num_of_artefacts_tagged_in": 31,
+        "avg_view_per_artefact": 121.19354838709677
+    },
+    {
+        "name": "Plush",
+        "total_views": 840,
+        "num_of_artefacts_tagged_in": 7,
+        "avg_view_per_artefact": 120
+    },
+    {
+        "name": "Battleship",
+        "total_views": 837,
+        "num_of_artefacts_tagged_in": 7,
+        "avg_view_per_artefact": 119.57142857142857
+    },
+    {
+        "name": "Cd Player",
+        "total_views": 2862,
+        "num_of_artefacts_tagged_in": 24,
+        "avg_view_per_artefact": 119.25
+    },
+    {
+        "name": "Finger",
+        "total_views": 2141,
+        "num_of_artefacts_tagged_in": 18,
+        "avg_view_per_artefact": 118.94444444444444
+    },
+    {
+        "name": "Pet",
+        "total_views": 8956,
+        "num_of_artefacts_tagged_in": 76,
+        "avg_view_per_artefact": 117.84210526315789
+    },
+    {
+        "name": "Rural",
+        "total_views": 4242,
+        "num_of_artefacts_tagged_in": 36,
+        "avg_view_per_artefact": 117.83333333333333
+    },
+    {
+        "name": "Bathroom",
+        "total_views": 2119,
+        "num_of_artefacts_tagged_in": 18,
+        "avg_view_per_artefact": 117.72222222222223
+    },
+    {
+        "name": "Scooter",
+        "total_views": 706,
+        "num_of_artefacts_tagged_in": 6,
+        "avg_view_per_artefact": 117.66666666666667
+    },
+    {
+        "name": "Tour Bus",
+        "total_views": 702,
+        "num_of_artefacts_tagged_in": 6,
+        "avg_view_per_artefact": 117
+    },
+    {
+        "name": "Cassette Player",
+        "total_views": 1634,
+        "num_of_artefacts_tagged_in": 14,
+        "avg_view_per_artefact": 116.71428571428571
+    },
+    {
+        "name": "Metropolis",
+        "total_views": 10114,
+        "num_of_artefacts_tagged_in": 87,
+        "avg_view_per_artefact": 116.25287356321839
+    },
+    {
+        "name": "Panoramic",
+        "total_views": 4157,
+        "num_of_artefacts_tagged_in": 36,
+        "avg_view_per_artefact": 115.47222222222223
+    },
+    {
+        "name": "Computer",
+        "total_views": 67290,
+        "num_of_artefacts_tagged_in": 586,
+        "avg_view_per_artefact": 114.82935153583618
+    },
+    {
+        "name": "Medication",
+        "total_views": 7774,
+        "num_of_artefacts_tagged_in": 68,
+        "avg_view_per_artefact": 114.32352941176471
+    },
+    {
+        "name": "Construction Crane",
+        "total_views": 2729,
+        "num_of_artefacts_tagged_in": 24,
+        "avg_view_per_artefact": 113.70833333333333
+    },
+    {
+        "name": "Boat",
+        "total_views": 51879,
+        "num_of_artefacts_tagged_in": 457,
+        "avg_view_per_artefact": 113.52078774617068
+    },
+    {
+        "name": "Freeway",
+        "total_views": 1008,
+        "num_of_artefacts_tagged_in": 9,
+        "avg_view_per_artefact": 112
+    },
+    {
+        "name": "Condo",
+        "total_views": 559,
+        "num_of_artefacts_tagged_in": 5,
+        "avg_view_per_artefact": 111.8
+    },
+    {
+        "name": "Sky",
+        "total_views": 888,
+        "num_of_artefacts_tagged_in": 8,
+        "avg_view_per_artefact": 111
+    },
+    {
+        "name": "Beer",
+        "total_views": 13189,
+        "num_of_artefacts_tagged_in": 119,
+        "avg_view_per_artefact": 110.83193277310924
+    },
+    {
+        "name": "Chair",
+        "total_views": 28400,
+        "num_of_artefacts_tagged_in": 257,
+        "avg_view_per_artefact": 110.50583657587549
+    },
+    {
+        "name": "Hardware",
+        "total_views": 61412,
+        "num_of_artefacts_tagged_in": 556,
+        "avg_view_per_artefact": 110.45323741007195
+    },
+    {
+        "name": "Hand-Held Computer",
+        "total_views": 2307,
+        "num_of_artefacts_tagged_in": 21,
+        "avg_view_per_artefact": 109.85714285714286
+    },
+    {
+        "name": "Bagpipe",
+        "total_views": 659,
+        "num_of_artefacts_tagged_in": 6,
+        "avg_view_per_artefact": 109.83333333333333
+    },
+    {
+        "name": "Appliance",
+        "total_views": 59664,
+        "num_of_artefacts_tagged_in": 546,
+        "avg_view_per_artefact": 109.27472527472527
+    },
+    {
+        "name": "Gas Pump",
+        "total_views": 1200,
+        "num_of_artefacts_tagged_in": 11,
+        "avg_view_per_artefact": 109.0909090909091
+    },
+    {
+        "name": "Electric Fan",
+        "total_views": 1085,
+        "num_of_artefacts_tagged_in": 10,
+        "avg_view_per_artefact": 108.5
+    },
+    {
+        "name": "Indoors",
+        "total_views": 48415,
+        "num_of_artefacts_tagged_in": 447,
+        "avg_view_per_artefact": 108.31096196868009
+    },
+    {
+        "name": "Pill",
+        "total_views": 5498,
+        "num_of_artefacts_tagged_in": 51,
+        "avg_view_per_artefact": 107.80392156862744
+    },
+    {
+        "name": "Ivory",
+        "total_views": 15139,
+        "num_of_artefacts_tagged_in": 141,
+        "avg_view_per_artefact": 107.36879432624113
+    },
+    {
+        "name": "Rope",
+        "total_views": 1392,
+        "num_of_artefacts_tagged_in": 13,
+        "avg_view_per_artefact": 107.07692307692308
+    },
+    {
+        "name": "Tape Player",
+        "total_views": 5865,
+        "num_of_artefacts_tagged_in": 55,
+        "avg_view_per_artefact": 106.63636363636364
+    },
+    {
+        "name": "Automobile",
+        "total_views": 14034,
+        "num_of_artefacts_tagged_in": 133,
+        "avg_view_per_artefact": 105.5187969924812
+    },
+    {
+        "name": "Purse",
+        "total_views": 5048,
+        "num_of_artefacts_tagged_in": 48,
+        "avg_view_per_artefact": 105.16666666666667
+    },
+    {
+        "name": "Ice Cream",
+        "total_views": 840,
+        "num_of_artefacts_tagged_in": 8,
+        "avg_view_per_artefact": 105
+    },
+    {
+        "name": "Piano",
+        "total_views": 2610,
+        "num_of_artefacts_tagged_in": 25,
+        "avg_view_per_artefact": 104.4
+    },
+    {
+        "name": "Crucifix",
+        "total_views": 2085,
+        "num_of_artefacts_tagged_in": 20,
+        "avg_view_per_artefact": 104.25
+    },
+    {
+        "name": "License",
+        "total_views": 1769,
+        "num_of_artefacts_tagged_in": 17,
+        "avg_view_per_artefact": 104.05882352941177
+    },
+    {
+        "name": "Driving License",
+        "total_views": 1769,
+        "num_of_artefacts_tagged_in": 17,
+        "avg_view_per_artefact": 104.05882352941177
+    },
+    {
+        "name": "Mask",
+        "total_views": 1352,
+        "num_of_artefacts_tagged_in": 13,
+        "avg_view_per_artefact": 104
+    },
+    {
+        "name": "Sand",
+        "total_views": 1972,
+        "num_of_artefacts_tagged_in": 19,
+        "avg_view_per_artefact": 103.78947368421052
+    },
+    {
+        "name": "Flare",
+        "total_views": 518,
+        "num_of_artefacts_tagged_in": 5,
+        "avg_view_per_artefact": 103.6
+    },
+    {
+        "name": "Lighthouse",
+        "total_views": 722,
+        "num_of_artefacts_tagged_in": 7,
+        "avg_view_per_artefact": 103.14285714285714
+    },
+    {
+        "name": "Beacon",
+        "total_views": 722,
+        "num_of_artefacts_tagged_in": 7,
+        "avg_view_per_artefact": 103.14285714285714
+    },
+    {
+        "name": "Palette",
+        "total_views": 1440,
+        "num_of_artefacts_tagged_in": 14,
+        "avg_view_per_artefact": 102.85714285714286
+    },
+    {
+        "name": "Lantern",
+        "total_views": 5136,
+        "num_of_artefacts_tagged_in": 50,
+        "avg_view_per_artefact": 102.72
+    },
+    {
+        "name": "Canoe",
+        "total_views": 1742,
+        "num_of_artefacts_tagged_in": 17,
+        "avg_view_per_artefact": 102.47058823529412
+    },
+    {
+        "name": "Sprinkler",
+        "total_views": 512,
+        "num_of_artefacts_tagged_in": 5,
+        "avg_view_per_artefact": 102.4
+    },
+    {
+        "name": "Newborn",
+        "total_views": 909,
+        "num_of_artefacts_tagged_in": 9,
+        "avg_view_per_artefact": 101
+    },
+    {
+        "name": "Alcohol",
+        "total_views": 41777,
+        "num_of_artefacts_tagged_in": 417,
+        "avg_view_per_artefact": 100.18465227817745
+    },
+    {
+        "name": "Evening Dress",
+        "total_views": 2900,
+        "num_of_artefacts_tagged_in": 29,
+        "avg_view_per_artefact": 100
+    },
+    {
+        "name": "Gate",
+        "total_views": 499,
+        "num_of_artefacts_tagged_in": 5,
+        "avg_view_per_artefact": 99.8
+    },
+    {
+        "name": "Photo Booth",
+        "total_views": 698,
+        "num_of_artefacts_tagged_in": 7,
+        "avg_view_per_artefact": 99.71428571428571
+    },
+    {
+        "name": "Fowl",
+        "total_views": 894,
+        "num_of_artefacts_tagged_in": 9,
+        "avg_view_per_artefact": 99.33333333333333
+    },
+    {
+        "name": "Countryside",
+        "total_views": 6620,
+        "num_of_artefacts_tagged_in": 67,
+        "avg_view_per_artefact": 98.80597014925372
+    },
+    {
+        "name": "LED",
+        "total_views": 1775,
+        "num_of_artefacts_tagged_in": 18,
+        "avg_view_per_artefact": 98.61111111111111
+    },
+    {
+        "name": "Teeth",
+        "total_views": 1673,
+        "num_of_artefacts_tagged_in": 17,
+        "avg_view_per_artefact": 98.41176470588235
+    },
+    {
+        "name": "Audio Speaker",
+        "total_views": 5117,
+        "num_of_artefacts_tagged_in": 52,
+        "avg_view_per_artefact": 98.40384615384616
+    },
+    {
+        "name": "Speaker",
+        "total_views": 5117,
+        "num_of_artefacts_tagged_in": 52,
+        "avg_view_per_artefact": 98.40384615384616
+    },
+    {
+        "name": "Costume",
+        "total_views": 2844,
+        "num_of_artefacts_tagged_in": 29,
+        "avg_view_per_artefact": 98.06896551724138
+    },
+    {
+        "name": "Head",
+        "total_views": 32580,
+        "num_of_artefacts_tagged_in": 333,
+        "avg_view_per_artefact": 97.83783783783784
+    },
+    {
+        "name": "Gold",
+        "total_views": 12317,
+        "num_of_artefacts_tagged_in": 126,
+        "avg_view_per_artefact": 97.75396825396825
+    },
+    {
+        "name": "Car",
+        "total_views": 21083,
+        "num_of_artefacts_tagged_in": 216,
+        "avg_view_per_artefact": 97.60648148148148
+    },
+    {
+        "name": "Restaurant",
+        "total_views": 1360,
+        "num_of_artefacts_tagged_in": 14,
+        "avg_view_per_artefact": 97.14285714285714
+    },
+    {
+        "name": "Graphics",
+        "total_views": 4347,
+        "num_of_artefacts_tagged_in": 45,
+        "avg_view_per_artefact": 96.6
+    },
+    {
+        "name": "Lamp",
+        "total_views": 68951,
+        "num_of_artefacts_tagged_in": 715,
+        "avg_view_per_artefact": 96.43496503496503
+    },
+    {
+        "name": "Sphere",
+        "total_views": 19065,
+        "num_of_artefacts_tagged_in": 198,
+        "avg_view_per_artefact": 96.28787878787878
+    },
+    {
+        "name": "Universe",
+        "total_views": 18097,
+        "num_of_artefacts_tagged_in": 189,
+        "avg_view_per_artefact": 95.75132275132275
+    },
+    {
+        "name": "Cooker",
+        "total_views": 669,
+        "num_of_artefacts_tagged_in": 7,
+        "avg_view_per_artefact": 95.57142857142857
+    },
+    {
+        "name": "Measuring Cup",
+        "total_views": 570,
+        "num_of_artefacts_tagged_in": 6,
+        "avg_view_per_artefact": 95
+    },
+    {
+        "name": "Sweatshirt",
+        "total_views": 760,
+        "num_of_artefacts_tagged_in": 8,
+        "avg_view_per_artefact": 95
+    },
+    {
+        "name": "Plywood",
+        "total_views": 40401,
+        "num_of_artefacts_tagged_in": 426,
+        "avg_view_per_artefact": 94.83802816901408
+    },
+    {
+        "name": "Sneaker",
+        "total_views": 754,
+        "num_of_artefacts_tagged_in": 8,
+        "avg_view_per_artefact": 94.25
+    },
+    {
+        "name": "Guitar",
+        "total_views": 1790,
+        "num_of_artefacts_tagged_in": 19,
+        "avg_view_per_artefact": 94.21052631578948
+    },
+    {
+        "name": "Mouth",
+        "total_views": 1694,
+        "num_of_artefacts_tagged_in": 18,
+        "avg_view_per_artefact": 94.11111111111111
+    },
+    {
+        "name": "Lip",
+        "total_views": 1694,
+        "num_of_artefacts_tagged_in": 18,
+        "avg_view_per_artefact": 94.11111111111111
+    },
+    {
+        "name": "Space",
+        "total_views": 17522,
+        "num_of_artefacts_tagged_in": 187,
+        "avg_view_per_artefact": 93.70053475935829
+    },
+    {
+        "name": "Dishwasher",
+        "total_views": 934,
+        "num_of_artefacts_tagged_in": 10,
+        "avg_view_per_artefact": 93.4
+    },
+    {
+        "name": "Hardwood",
+        "total_views": 15876,
+        "num_of_artefacts_tagged_in": 170,
+        "avg_view_per_artefact": 93.38823529411765
+    },
+    {
+        "name": "Light Fixture",
+        "total_views": 2687,
+        "num_of_artefacts_tagged_in": 29,
+        "avg_view_per_artefact": 92.65517241379311
+    },
+    {
+        "name": "Icing",
+        "total_views": 648,
+        "num_of_artefacts_tagged_in": 7,
+        "avg_view_per_artefact": 92.57142857142857
+    },
+    {
+        "name": "Collage",
+        "total_views": 5257,
+        "num_of_artefacts_tagged_in": 57,
+        "avg_view_per_artefact": 92.2280701754386
+    },
+    {
+        "name": "Pants",
+        "total_views": 7226,
+        "num_of_artefacts_tagged_in": 79,
+        "avg_view_per_artefact": 91.46835443037975
+    },
+    {
+        "name": "Toy",
+        "total_views": 35676,
+        "num_of_artefacts_tagged_in": 391,
+        "avg_view_per_artefact": 91.24296675191816
+    },
+    {
+        "name": "Poultry",
+        "total_views": 912,
+        "num_of_artefacts_tagged_in": 10,
+        "avg_view_per_artefact": 91.2
+    },
+    {
+        "name": "Can",
+        "total_views": 11791,
+        "num_of_artefacts_tagged_in": 130,
+        "avg_view_per_artefact": 90.7
+    },
+    {
+        "name": "Ape",
+        "total_views": 453,
+        "num_of_artefacts_tagged_in": 5,
+        "avg_view_per_artefact": 90.6
+    },
+    {
+        "name": "LCD Screen",
+        "total_views": 1712,
+        "num_of_artefacts_tagged_in": 19,
+        "avg_view_per_artefact": 90.10526315789474
+    },
+    {
+        "name": "Scroll",
+        "total_views": 1260,
+        "num_of_artefacts_tagged_in": 14,
+        "avg_view_per_artefact": 90
+    },
+    {
+        "name": "Racket",
+        "total_views": 898,
+        "num_of_artefacts_tagged_in": 10,
+        "avg_view_per_artefact": 89.8
+    },
+    {
+        "name": "Tennis Racket",
+        "total_views": 898,
+        "num_of_artefacts_tagged_in": 10,
+        "avg_view_per_artefact": 89.8
+    },
+    {
+        "name": "Backpack",
+        "total_views": 538,
+        "num_of_artefacts_tagged_in": 6,
+        "avg_view_per_artefact": 89.66666666666667
+    },
+    {
+        "name": "Corner",
+        "total_views": 894,
+        "num_of_artefacts_tagged_in": 10,
+        "avg_view_per_artefact": 89.4
+    },
+    {
+        "name": "Toothbrush",
+        "total_views": 2503,
+        "num_of_artefacts_tagged_in": 28,
+        "avg_view_per_artefact": 89.39285714285714
+    },
+    {
+        "name": "Temple",
+        "total_views": 1875,
+        "num_of_artefacts_tagged_in": 21,
+        "avg_view_per_artefact": 89.28571428571429
+    },
+    {
+        "name": "Navy",
+        "total_views": 3836,
+        "num_of_artefacts_tagged_in": 43,
+        "avg_view_per_artefact": 89.20930232558139
+    },
+    {
+        "name": "Cosmetics",
+        "total_views": 17272,
+        "num_of_artefacts_tagged_in": 194,
+        "avg_view_per_artefact": 89.03092783505154
+    },
+    {
+        "name": "Gun",
+        "total_views": 31987,
+        "num_of_artefacts_tagged_in": 364,
+        "avg_view_per_artefact": 87.87637362637362
+    },
+    {
+        "name": "Handbag",
+        "total_views": 5706,
+        "num_of_artefacts_tagged_in": 65,
+        "avg_view_per_artefact": 87.78461538461538
+    },
+    {
+        "name": "Diagram",
+        "total_views": 23774,
+        "num_of_artefacts_tagged_in": 271,
+        "avg_view_per_artefact": 87.7269372693727
+    },
+    {
+        "name": "Outer Space",
+        "total_views": 18280,
+        "num_of_artefacts_tagged_in": 209,
+        "avg_view_per_artefact": 87.46411483253588
+    },
+    {
+        "name": "Iphone",
+        "total_views": 435,
+        "num_of_artefacts_tagged_in": 5,
+        "avg_view_per_artefact": 87
+    },
+    {
+        "name": "Dining Table",
+        "total_views": 695,
+        "num_of_artefacts_tagged_in": 8,
+        "avg_view_per_artefact": 86.875
+    },
+    {
+        "name": "Antelope",
+        "total_views": 954,
+        "num_of_artefacts_tagged_in": 11,
+        "avg_view_per_artefact": 86.72727272727273
+    },
+    {
+        "name": "Door",
+        "total_views": 3203,
+        "num_of_artefacts_tagged_in": 37,
+        "avg_view_per_artefact": 86.56756756756756
+    },
+    {
+        "name": "Armor",
+        "total_views": 3370,
+        "num_of_artefacts_tagged_in": 39,
+        "avg_view_per_artefact": 86.41025641025641
+    },
+    {
+        "name": "Airplane",
+        "total_views": 21829,
+        "num_of_artefacts_tagged_in": 253,
+        "avg_view_per_artefact": 86.28063241106719
+    },
+    {
+        "name": "Astronomy",
+        "total_views": 18541,
+        "num_of_artefacts_tagged_in": 216,
+        "avg_view_per_artefact": 85.83796296296296
+    },
+    {
+        "name": "Whistle",
+        "total_views": 944,
+        "num_of_artefacts_tagged_in": 11,
+        "avg_view_per_artefact": 85.81818181818181
+    },
+    {
+        "name": "Seashell",
+        "total_views": 2741,
+        "num_of_artefacts_tagged_in": 32,
+        "avg_view_per_artefact": 85.65625
+    },
+    {
+        "name": "Sports Car",
+        "total_views": 2053,
+        "num_of_artefacts_tagged_in": 24,
+        "avg_view_per_artefact": 85.54166666666667
+    },
+    {
+        "name": "Cannon",
+        "total_views": 5296,
+        "num_of_artefacts_tagged_in": 62,
+        "avg_view_per_artefact": 85.41935483870968
+    },
+    {
+        "name": "Absinthe",
+        "total_views": 1025,
+        "num_of_artefacts_tagged_in": 12,
+        "avg_view_per_artefact": 85.41666666666667
+    },
+    {
+        "name": "Cowboy Hat",
+        "total_views": 854,
+        "num_of_artefacts_tagged_in": 10,
+        "avg_view_per_artefact": 85.4
+    },
+    {
+        "name": "Gondola",
+        "total_views": 427,
+        "num_of_artefacts_tagged_in": 5,
+        "avg_view_per_artefact": 85.4
+    },
+    {
+        "name": "Wedding",
+        "total_views": 1274,
+        "num_of_artefacts_tagged_in": 15,
+        "avg_view_per_artefact": 84.93333333333334
+    },
+    {
+        "name": "Helmet",
+        "total_views": 31567,
+        "num_of_artefacts_tagged_in": 374,
+        "avg_view_per_artefact": 84.40374331550802
+    },
+    {
+        "name": "Tin",
+        "total_views": 13071,
+        "num_of_artefacts_tagged_in": 155,
+        "avg_view_per_artefact": 84.32903225806452
+    },
+    {
+        "name": "Baby",
+        "total_views": 1177,
+        "num_of_artefacts_tagged_in": 14,
+        "avg_view_per_artefact": 84.07142857142857
+    },
+    {
+        "name": "Analog Clock",
+        "total_views": 18983,
+        "num_of_artefacts_tagged_in": 227,
+        "avg_view_per_artefact": 83.62555066079295
+    },
+    {
+        "name": "Chicken",
+        "total_views": 917,
+        "num_of_artefacts_tagged_in": 11,
+        "avg_view_per_artefact": 83.36363636363636
+    },
+    {
+        "name": "Hot Rod",
+        "total_views": 3311,
+        "num_of_artefacts_tagged_in": 40,
+        "avg_view_per_artefact": 82.775
+    },
+    {
+        "name": "Mixing Bowl",
+        "total_views": 3060,
+        "num_of_artefacts_tagged_in": 37,
+        "avg_view_per_artefact": 82.70270270270271
+    },
+    {
+        "name": "Stereo",
+        "total_views": 3720,
+        "num_of_artefacts_tagged_in": 45,
+        "avg_view_per_artefact": 82.66666666666667
+    },
+    {
+        "name": "Bird",
+        "total_views": 30258,
+        "num_of_artefacts_tagged_in": 367,
+        "avg_view_per_artefact": 82.44686648501363
+    },
+    {
+        "name": "Gown",
+        "total_views": 4197,
+        "num_of_artefacts_tagged_in": 51,
+        "avg_view_per_artefact": 82.29411764705883
+    },
+    {
+        "name": "Family",
+        "total_views": 1563,
+        "num_of_artefacts_tagged_in": 19,
+        "avg_view_per_artefact": 82.26315789473684
+    },
+    {
+        "name": "Town",
+        "total_views": 5340,
+        "num_of_artefacts_tagged_in": 65,
+        "avg_view_per_artefact": 82.15384615384616
+    },
+    {
+        "name": "Helicopter",
+        "total_views": 3689,
+        "num_of_artefacts_tagged_in": 45,
+        "avg_view_per_artefact": 81.97777777777777
+    },
+    {
+        "name": "Tablet Computer",
+        "total_views": 810,
+        "num_of_artefacts_tagged_in": 10,
+        "avg_view_per_artefact": 81
+    },
+    {
+        "name": "Sundial",
+        "total_views": 7504,
+        "num_of_artefacts_tagged_in": 93,
+        "avg_view_per_artefact": 80.68817204301075
+    },
+    {
+        "name": "Bucket",
+        "total_views": 1841,
+        "num_of_artefacts_tagged_in": 23,
+        "avg_view_per_artefact": 80.04347826086956
+    },
+    {
+        "name": "Jacuzzi",
+        "total_views": 2472,
+        "num_of_artefacts_tagged_in": 31,
+        "avg_view_per_artefact": 79.74193548387096
+    },
+    {
+        "name": "Hot Tub",
+        "total_views": 2472,
+        "num_of_artefacts_tagged_in": 31,
+        "avg_view_per_artefact": 79.74193548387096
+    },
+    {
+        "name": "Cooler",
+        "total_views": 876,
+        "num_of_artefacts_tagged_in": 11,
+        "avg_view_per_artefact": 79.63636363636364
+    },
+    {
+        "name": "Robe",
+        "total_views": 5009,
+        "num_of_artefacts_tagged_in": 63,
+        "avg_view_per_artefact": 79.5079365079365
+    },
+    {
+        "name": "Clock",
+        "total_views": 20114,
+        "num_of_artefacts_tagged_in": 253,
+        "avg_view_per_artefact": 79.50197628458498
+    },
+    {
+        "name": "Incense",
+        "total_views": 4570,
+        "num_of_artefacts_tagged_in": 58,
+        "avg_view_per_artefact": 78.79310344827586
+    },
+    {
+        "name": "Office Building",
+        "total_views": 472,
+        "num_of_artefacts_tagged_in": 6,
+        "avg_view_per_artefact": 78.66666666666667
+    },
+    {
+        "name": "Dance Pose",
+        "total_views": 1729,
+        "num_of_artefacts_tagged_in": 22,
+        "avg_view_per_artefact": 78.5909090909091
+    },
+    {
+        "name": "Power Plant",
+        "total_views": 784,
+        "num_of_artefacts_tagged_in": 10,
+        "avg_view_per_artefact": 78.4
+    },
+    {
+        "name": "Wall Clock",
+        "total_views": 3897,
+        "num_of_artefacts_tagged_in": 50,
+        "avg_view_per_artefact": 77.94
+    },
+    {
+        "name": "Lager",
+        "total_views": 1401,
+        "num_of_artefacts_tagged_in": 18,
+        "avg_view_per_artefact": 77.83333333333333
+    },
+    {
+        "name": "Gas Stove",
+        "total_views": 854,
+        "num_of_artefacts_tagged_in": 11,
+        "avg_view_per_artefact": 77.63636363636364
+    },
+    {
+        "name": "Cradle",
+        "total_views": 1394,
+        "num_of_artefacts_tagged_in": 18,
+        "avg_view_per_artefact": 77.44444444444444
+    },
+    {
+        "name": "Building",
+        "total_views": 147186,
+        "num_of_artefacts_tagged_in": 1901,
+        "avg_view_per_artefact": 77.4255654918464
+    },
+    {
+        "name": "Tattoo",
+        "total_views": 1928,
+        "num_of_artefacts_tagged_in": 25,
+        "avg_view_per_artefact": 77.12
+    },
+    {
+        "name": "Shop",
+        "total_views": 10087,
+        "num_of_artefacts_tagged_in": 131,
+        "avg_view_per_artefact": 77
+    },
+    {
+        "name": "Audience",
+        "total_views": 2540,
+        "num_of_artefacts_tagged_in": 33,
+        "avg_view_per_artefact": 76.96969696969697
+    },
+    {
+        "name": "Creme",
+        "total_views": 1680,
+        "num_of_artefacts_tagged_in": 22,
+        "avg_view_per_artefact": 76.36363636363636
+    },
+    {
+        "name": "Diaper",
+        "total_views": 5400,
+        "num_of_artefacts_tagged_in": 71,
+        "avg_view_per_artefact": 76.05633802816901
+    },
+    {
+        "name": "Window",
+        "total_views": 5234,
+        "num_of_artefacts_tagged_in": 69,
+        "avg_view_per_artefact": 75.85507246376811
+    },
+    {
+        "name": "Spray Can",
+        "total_views": 756,
+        "num_of_artefacts_tagged_in": 10,
+        "avg_view_per_artefact": 75.6
+    },
+    {
+        "name": "High Rise",
+        "total_views": 1283,
+        "num_of_artefacts_tagged_in": 17,
+        "avg_view_per_artefact": 75.47058823529412
+    },
+    {
+        "name": "Pump",
+        "total_views": 2790,
+        "num_of_artefacts_tagged_in": 37,
+        "avg_view_per_artefact": 75.4054054054054
+    },
+    {
+        "name": "Powder",
+        "total_views": 1051,
+        "num_of_artefacts_tagged_in": 14,
+        "avg_view_per_artefact": 75.07142857142857
+    },
+    {
+        "name": "Cone",
+        "total_views": 3597,
+        "num_of_artefacts_tagged_in": 48,
+        "avg_view_per_artefact": 74.9375
+    },
+    {
+        "name": "Pattern",
+        "total_views": 3732,
+        "num_of_artefacts_tagged_in": 50,
+        "avg_view_per_artefact": 74.64
+    },
+    {
+        "name": "Turnip",
+        "total_views": 373,
+        "num_of_artefacts_tagged_in": 5,
+        "avg_view_per_artefact": 74.6
+    },
+    {
+        "name": "Sash",
+        "total_views": 595,
+        "num_of_artefacts_tagged_in": 8,
+        "avg_view_per_artefact": 74.375
+    },
+    {
+        "name": "Table",
+        "total_views": 16681,
+        "num_of_artefacts_tagged_in": 225,
+        "avg_view_per_artefact": 74.13777777777777
+    },
+    {
+        "name": "Rowboat",
+        "total_views": 3484,
+        "num_of_artefacts_tagged_in": 47,
+        "avg_view_per_artefact": 74.12765957446808
+    },
+    {
+        "name": "Crowd",
+        "total_views": 8736,
+        "num_of_artefacts_tagged_in": 118,
+        "avg_view_per_artefact": 74.03389830508475
+    },
+    {
+        "name": "Scenery",
+        "total_views": 4217,
+        "num_of_artefacts_tagged_in": 57,
+        "avg_view_per_artefact": 73.98245614035088
+    },
+    {
+        "name": "Doll",
+        "total_views": 3016,
+        "num_of_artefacts_tagged_in": 41,
+        "avg_view_per_artefact": 73.5609756097561
+    },
+    {
+        "name": "Shield",
+        "total_views": 882,
+        "num_of_artefacts_tagged_in": 12,
+        "avg_view_per_artefact": 73.5
+    },
+    {
+        "name": "City",
+        "total_views": 14023,
+        "num_of_artefacts_tagged_in": 191,
+        "avg_view_per_artefact": 73.41884816753927
+    },
+    {
+        "name": "Moat",
+        "total_views": 367,
+        "num_of_artefacts_tagged_in": 5,
+        "avg_view_per_artefact": 73.4
+    },
+    {
+        "name": "Lighting",
+        "total_views": 13206,
+        "num_of_artefacts_tagged_in": 181,
+        "avg_view_per_artefact": 72.96132596685082
+    },
+    {
+        "name": "Cpu",
+        "total_views": 1456,
+        "num_of_artefacts_tagged_in": 20,
+        "avg_view_per_artefact": 72.8
+    },
+    {
+        "name": "Dvd",
+        "total_views": 2036,
+        "num_of_artefacts_tagged_in": 28,
+        "avg_view_per_artefact": 72.71428571428571
+    },
+    {
+        "name": "Furniture",
+        "total_views": 155658,
+        "num_of_artefacts_tagged_in": 2143,
+        "avg_view_per_artefact": 72.63555762949137
+    },
+    {
+        "name": "Plug",
+        "total_views": 2316,
+        "num_of_artefacts_tagged_in": 32,
+        "avg_view_per_artefact": 72.375
+    },
+    {
+        "name": "Rocking Chair",
+        "total_views": 433,
+        "num_of_artefacts_tagged_in": 6,
+        "avg_view_per_artefact": 72.16666666666667
+    },
+    {
+        "name": "Airliner",
+        "total_views": 2309,
+        "num_of_artefacts_tagged_in": 32,
+        "avg_view_per_artefact": 72.15625
+    },
+    {
+        "name": "Vacation",
+        "total_views": 721,
+        "num_of_artefacts_tagged_in": 10,
+        "avg_view_per_artefact": 72.1
+    },
+    {
+        "name": "Comics",
+        "total_views": 2305,
+        "num_of_artefacts_tagged_in": 32,
+        "avg_view_per_artefact": 72.03125
+    },
+    {
+        "name": "Bookcase",
+        "total_views": 430,
+        "num_of_artefacts_tagged_in": 6,
+        "avg_view_per_artefact": 71.66666666666667
+    },
+    {
+        "name": "Binoculars",
+        "total_views": 1644,
+        "num_of_artefacts_tagged_in": 23,
+        "avg_view_per_artefact": 71.47826086956522
+    },
+    {
+        "name": "Parachute",
+        "total_views": 357,
+        "num_of_artefacts_tagged_in": 5,
+        "avg_view_per_artefact": 71.4
+    },
+    {
+        "name": "Lock",
+        "total_views": 928,
+        "num_of_artefacts_tagged_in": 13,
+        "avg_view_per_artefact": 71.38461538461539
+    },
+    {
+        "name": "Oscilloscope",
+        "total_views": 428,
+        "num_of_artefacts_tagged_in": 6,
+        "avg_view_per_artefact": 71.33333333333333
+    },
+    {
+        "name": "House",
+        "total_views": 4421,
+        "num_of_artefacts_tagged_in": 62,
+        "avg_view_per_artefact": 71.30645161290323
+    },
+    {
+        "name": "Plot",
+        "total_views": 25923,
+        "num_of_artefacts_tagged_in": 365,
+        "avg_view_per_artefact": 71.02191780821917
+    },
+    {
+        "name": "Plan",
+        "total_views": 11637,
+        "num_of_artefacts_tagged_in": 164,
+        "avg_view_per_artefact": 70.95731707317073
+    },
+    {
+        "name": "Cake",
+        "total_views": 9006,
+        "num_of_artefacts_tagged_in": 127,
+        "avg_view_per_artefact": 70.91338582677166
+    },
+    {
+        "name": "Fashion",
+        "total_views": 5499,
+        "num_of_artefacts_tagged_in": 78,
+        "avg_view_per_artefact": 70.5
+    },
+    {
+        "name": "Flour",
+        "total_views": 564,
+        "num_of_artefacts_tagged_in": 8,
+        "avg_view_per_artefact": 70.5
+    },
+    {
+        "name": "Cross",
+        "total_views": 6332,
+        "num_of_artefacts_tagged_in": 90,
+        "avg_view_per_artefact": 70.35555555555555
+    },
+    {
+        "name": "Landscape",
+        "total_views": 5690,
+        "num_of_artefacts_tagged_in": 81,
+        "avg_view_per_artefact": 70.24691358024691
+    },
+    {
+        "name": "Torso",
+        "total_views": 1190,
+        "num_of_artefacts_tagged_in": 17,
+        "avg_view_per_artefact": 70
+    },
+    {
+        "name": "Wedding Cake",
+        "total_views": 7347,
+        "num_of_artefacts_tagged_in": 105,
+        "avg_view_per_artefact": 69.97142857142858
+    },
+    {
+        "name": "Model T",
+        "total_views": 4298,
+        "num_of_artefacts_tagged_in": 62,
+        "avg_view_per_artefact": 69.3225806451613
+    },
+    {
+        "name": "Kettle",
+        "total_views": 1317,
+        "num_of_artefacts_tagged_in": 19,
+        "avg_view_per_artefact": 69.3157894736842
+    },
+    {
+        "name": "Cream",
+        "total_views": 1802,
+        "num_of_artefacts_tagged_in": 26,
+        "avg_view_per_artefact": 69.3076923076923
+    },
+    {
+        "name": "Asphalt",
+        "total_views": 554,
+        "num_of_artefacts_tagged_in": 8,
+        "avg_view_per_artefact": 69.25
+    },
+    {
+        "name": "Dime",
+        "total_views": 4485,
+        "num_of_artefacts_tagged_in": 65,
+        "avg_view_per_artefact": 69
+    },
+    {
+        "name": "Shoreline",
+        "total_views": 2820,
+        "num_of_artefacts_tagged_in": 41,
+        "avg_view_per_artefact": 68.78048780487805
+    },
+    {
+        "name": "Hole",
+        "total_views": 1920,
+        "num_of_artefacts_tagged_in": 28,
+        "avg_view_per_artefact": 68.57142857142857
+    },
+    {
+        "name": "Tequila",
+        "total_views": 890,
+        "num_of_artefacts_tagged_in": 13,
+        "avg_view_per_artefact": 68.46153846153847
+    },
+    {
+        "name": "Dance",
+        "total_views": 1025,
+        "num_of_artefacts_tagged_in": 15,
+        "avg_view_per_artefact": 68.33333333333333
+    },
+    {
+        "name": "Neighborhood",
+        "total_views": 1981,
+        "num_of_artefacts_tagged_in": 29,
+        "avg_view_per_artefact": 68.3103448275862
+    },
+    {
+        "name": "Bee",
+        "total_views": 683,
+        "num_of_artefacts_tagged_in": 10,
+        "avg_view_per_artefact": 68.3
+    },
+    {
+        "name": "Cottage",
+        "total_views": 2110,
+        "num_of_artefacts_tagged_in": 31,
+        "avg_view_per_artefact": 68.06451612903226
+    },
+    {
+        "name": "Urban",
+        "total_views": 16401,
+        "num_of_artefacts_tagged_in": 241,
+        "avg_view_per_artefact": 68.0539419087137
+    },
+    {
+        "name": "Sink Faucet",
+        "total_views": 42282,
+        "num_of_artefacts_tagged_in": 624,
+        "avg_view_per_artefact": 67.75961538461539
+    },
+    {
+        "name": "Floor",
+        "total_views": 1556,
+        "num_of_artefacts_tagged_in": 23,
+        "avg_view_per_artefact": 67.65217391304348
+    },
+    {
+        "name": "Brick",
+        "total_views": 11046,
+        "num_of_artefacts_tagged_in": 164,
+        "avg_view_per_artefact": 67.35365853658537
+    },
+    {
+        "name": "Aircraft",
+        "total_views": 27977,
+        "num_of_artefacts_tagged_in": 417,
+        "avg_view_per_artefact": 67.09112709832134
+    },
+    {
+        "name": "Ct Scan",
+        "total_views": 601,
+        "num_of_artefacts_tagged_in": 9,
+        "avg_view_per_artefact": 66.77777777777777
+    },
+    {
+        "name": "Medical Imaging X-Ray Film",
+        "total_views": 601,
+        "num_of_artefacts_tagged_in": 9,
+        "avg_view_per_artefact": 66.77777777777777
+    },
+    {
+        "name": "X-Ray",
+        "total_views": 601,
+        "num_of_artefacts_tagged_in": 9,
+        "avg_view_per_artefact": 66.77777777777777
+    },
+    {
+        "name": "Antique Car",
+        "total_views": 5062,
+        "num_of_artefacts_tagged_in": 76,
+        "avg_view_per_artefact": 66.60526315789474
+    },
+    {
+        "name": "Chandelier",
+        "total_views": 1461,
+        "num_of_artefacts_tagged_in": 22,
+        "avg_view_per_artefact": 66.4090909090909
+    },
+    {
+        "name": "Coffee Table",
+        "total_views": 3441,
+        "num_of_artefacts_tagged_in": 52,
+        "avg_view_per_artefact": 66.17307692307692
+    },
+    {
+        "name": "Crown",
+        "total_views": 329,
+        "num_of_artefacts_tagged_in": 5,
+        "avg_view_per_artefact": 65.8
+    },
+    {
+        "name": "Toothpaste",
+        "total_views": 921,
+        "num_of_artefacts_tagged_in": 14,
+        "avg_view_per_artefact": 65.78571428571429
+    },
+    {
+        "name": "Plumbing",
+        "total_views": 393,
+        "num_of_artefacts_tagged_in": 6,
+        "avg_view_per_artefact": 65.5
+    },
+    {
+        "name": "Woman",
+        "total_views": 3597,
+        "num_of_artefacts_tagged_in": 55,
+        "avg_view_per_artefact": 65.4
+    },
+    {
+        "name": "Pop Bottle",
+        "total_views": 2613,
+        "num_of_artefacts_tagged_in": 40,
+        "avg_view_per_artefact": 65.325
+    },
+    {
+        "name": "Triangle",
+        "total_views": 2611,
+        "num_of_artefacts_tagged_in": 40,
+        "avg_view_per_artefact": 65.275
+    },
+    {
+        "name": "Cruiser",
+        "total_views": 3908,
+        "num_of_artefacts_tagged_in": 60,
+        "avg_view_per_artefact": 65.13333333333334
+    },
+    {
+        "name": "Marker",
+        "total_views": 1041,
+        "num_of_artefacts_tagged_in": 16,
+        "avg_view_per_artefact": 65.0625
+    },
+    {
+        "name": "Mortar",
+        "total_views": 1298,
+        "num_of_artefacts_tagged_in": 20,
+        "avg_view_per_artefact": 64.9
+    },
+    {
+        "name": "Wood",
+        "total_views": 118259,
+        "num_of_artefacts_tagged_in": 1826,
+        "avg_view_per_artefact": 64.76396495071194
+    },
+    {
+        "name": "Road Sign",
+        "total_views": 387,
+        "num_of_artefacts_tagged_in": 6,
+        "avg_view_per_artefact": 64.5
+    },
+    {
+        "name": "Whip",
+        "total_views": 1284,
+        "num_of_artefacts_tagged_in": 20,
+        "avg_view_per_artefact": 64.2
+    },
+    {
+        "name": "Floral Design",
+        "total_views": 1916,
+        "num_of_artefacts_tagged_in": 30,
+        "avg_view_per_artefact": 63.86666666666667
+    },
+    {
+        "name": "Doodle",
+        "total_views": 1654,
+        "num_of_artefacts_tagged_in": 26,
+        "avg_view_per_artefact": 63.61538461538461
+    },
+    {
+        "name": "Snake",
+        "total_views": 13725,
+        "num_of_artefacts_tagged_in": 217,
+        "avg_view_per_artefact": 63.24884792626728
+    },
+    {
+        "name": "Footwear",
+        "total_views": 16869,
+        "num_of_artefacts_tagged_in": 267,
+        "avg_view_per_artefact": 63.17977528089887
+    },
+    {
+        "name": "Coast",
+        "total_views": 1383,
+        "num_of_artefacts_tagged_in": 22,
+        "avg_view_per_artefact": 62.86363636363637
+    },
+    {
+        "name": "Photography",
+        "total_views": 5406,
+        "num_of_artefacts_tagged_in": 86,
+        "avg_view_per_artefact": 62.86046511627907
+    },
+    {
+        "name": "Clock Tower",
+        "total_views": 39297,
+        "num_of_artefacts_tagged_in": 627,
+        "avg_view_per_artefact": 62.67464114832536
+    },
+    {
+        "name": "Hospital",
+        "total_views": 814,
+        "num_of_artefacts_tagged_in": 13,
+        "avg_view_per_artefact": 62.61538461538461
+    },
+    {
+        "name": "Mouse",
+        "total_views": 12441,
+        "num_of_artefacts_tagged_in": 200,
+        "avg_view_per_artefact": 62.205
+    },
+    {
+        "name": "People",
+        "total_views": 13827,
+        "num_of_artefacts_tagged_in": 223,
+        "avg_view_per_artefact": 62.00448430493274
+    },
+    {
+        "name": "Mural",
+        "total_views": 371,
+        "num_of_artefacts_tagged_in": 6,
+        "avg_view_per_artefact": 61.833333333333336
+    },
+    {
+        "name": "Cooktop",
+        "total_views": 8323,
+        "num_of_artefacts_tagged_in": 135,
+        "avg_view_per_artefact": 61.65185185185185
+    },
+    {
+        "name": "Fish",
+        "total_views": 1412,
+        "num_of_artefacts_tagged_in": 23,
+        "avg_view_per_artefact": 61.391304347826086
+    },
+    {
+        "name": "Tower",
+        "total_views": 42448,
+        "num_of_artefacts_tagged_in": 692,
+        "avg_view_per_artefact": 61.34104046242775
+    },
+    {
+        "name": "Wiring",
+        "total_views": 1653,
+        "num_of_artefacts_tagged_in": 27,
+        "avg_view_per_artefact": 61.22222222222222
+    },
+    {
+        "name": "Sideboard",
+        "total_views": 3668,
+        "num_of_artefacts_tagged_in": 60,
+        "avg_view_per_artefact": 61.13333333333333
+    },
+    {
+        "name": "Cathedral",
+        "total_views": 793,
+        "num_of_artefacts_tagged_in": 13,
+        "avg_view_per_artefact": 61
+    },
+    {
+        "name": "Face Makeup",
+        "total_views": 1217,
+        "num_of_artefacts_tagged_in": 20,
+        "avg_view_per_artefact": 60.85
+    },
+    {
+        "name": "Bride",
+        "total_views": 304,
+        "num_of_artefacts_tagged_in": 5,
+        "avg_view_per_artefact": 60.8
+    },
+    {
+        "name": "Crater",
+        "total_views": 364,
+        "num_of_artefacts_tagged_in": 6,
+        "avg_view_per_artefact": 60.666666666666664
+    },
+    {
+        "name": "Armory",
+        "total_views": 364,
+        "num_of_artefacts_tagged_in": 6,
+        "avg_view_per_artefact": 60.666666666666664
+    },
+    {
+        "name": "Tub",
+        "total_views": 3755,
+        "num_of_artefacts_tagged_in": 62,
+        "avg_view_per_artefact": 60.564516129032256
+    },
+    {
+        "name": "Flower Bouquet",
+        "total_views": 361,
+        "num_of_artefacts_tagged_in": 6,
+        "avg_view_per_artefact": 60.166666666666664
+    },
+    {
+        "name": "Portrait",
+        "total_views": 5280,
+        "num_of_artefacts_tagged_in": 88,
+        "avg_view_per_artefact": 60
+    },
+    {
+        "name": "Bridegroom",
+        "total_views": 299,
+        "num_of_artefacts_tagged_in": 5,
+        "avg_view_per_artefact": 59.8
+    },
+    {
+        "name": "Bow",
+        "total_views": 7015,
+        "num_of_artefacts_tagged_in": 118,
+        "avg_view_per_artefact": 59.44915254237288
+    },
+    {
+        "name": "Shrine",
+        "total_views": 1003,
+        "num_of_artefacts_tagged_in": 17,
+        "avg_view_per_artefact": 59
+    },
+    {
+        "name": "Flooring",
+        "total_views": 1999,
+        "num_of_artefacts_tagged_in": 34,
+        "avg_view_per_artefact": 58.794117647058826
+    },
+    {
+        "name": "Lion",
+        "total_views": 587,
+        "num_of_artefacts_tagged_in": 10,
+        "avg_view_per_artefact": 58.7
+    },
+    {
+        "name": "Bag",
+        "total_views": 11411,
+        "num_of_artefacts_tagged_in": 195,
+        "avg_view_per_artefact": 58.51794871794872
+    },
+    {
+        "name": "Cabinet",
+        "total_views": 19898,
+        "num_of_artefacts_tagged_in": 341,
+        "avg_view_per_artefact": 58.35190615835777
+    },
+    {
+        "name": "Jet",
+        "total_views": 1846,
+        "num_of_artefacts_tagged_in": 32,
+        "avg_view_per_artefact": 57.6875
+    },
+    {
+        "name": "Electrical Device",
+        "total_views": 44911,
+        "num_of_artefacts_tagged_in": 779,
+        "avg_view_per_artefact": 57.65211810012837
+    },
+    {
+        "name": "Desk",
+        "total_views": 2247,
+        "num_of_artefacts_tagged_in": 39,
+        "avg_view_per_artefact": 57.61538461538461
+    },
+    {
+        "name": "Andrena",
+        "total_views": 288,
+        "num_of_artefacts_tagged_in": 5,
+        "avg_view_per_artefact": 57.6
+    },
+    {
+        "name": "Hornet",
+        "total_views": 288,
+        "num_of_artefacts_tagged_in": 5,
+        "avg_view_per_artefact": 57.6
+    },
+    {
+        "name": "Shoe",
+        "total_views": 11280,
+        "num_of_artefacts_tagged_in": 196,
+        "avg_view_per_artefact": 57.55102040816327
+    },
+    {
+        "name": "Headset",
+        "total_views": 1783,
+        "num_of_artefacts_tagged_in": 31,
+        "avg_view_per_artefact": 57.516129032258064
+    },
+    {
+        "name": "Headphones",
+        "total_views": 1783,
+        "num_of_artefacts_tagged_in": 31,
+        "avg_view_per_artefact": 57.516129032258064
+    },
+    {
+        "name": "Truck",
+        "total_views": 11381,
+        "num_of_artefacts_tagged_in": 198,
+        "avg_view_per_artefact": 57.47979797979798
+    },
+    {
+        "name": "Statue",
+        "total_views": 30084,
+        "num_of_artefacts_tagged_in": 524,
+        "avg_view_per_artefact": 57.412213740458014
+    },
+    {
+        "name": "Person",
+        "total_views": 330898,
+        "num_of_artefacts_tagged_in": 5775,
+        "avg_view_per_artefact": 57.29835497835498
+    },
+    {
+        "name": "Architecture",
+        "total_views": 72596,
+        "num_of_artefacts_tagged_in": 1267,
+        "avg_view_per_artefact": 57.29755327545383
+    },
+    {
+        "name": "Capsule",
+        "total_views": 400,
+        "num_of_artefacts_tagged_in": 7,
+        "avg_view_per_artefact": 57.142857142857146
+    },
+    {
+        "name": "Blimp",
+        "total_views": 571,
+        "num_of_artefacts_tagged_in": 10,
+        "avg_view_per_artefact": 57.1
+    },
+    {
+        "name": "Animal",
+        "total_views": 76216,
+        "num_of_artefacts_tagged_in": 1335,
+        "avg_view_per_artefact": 57.09063670411985
+    },
+    {
+        "name": "Bench",
+        "total_views": 2452,
+        "num_of_artefacts_tagged_in": 43,
+        "avg_view_per_artefact": 57.02325581395349
+    },
+    {
+        "name": "Iron",
+        "total_views": 1197,
+        "num_of_artefacts_tagged_in": 21,
+        "avg_view_per_artefact": 57
+    },
+    {
+        "name": "Clothes Iron",
+        "total_views": 1197,
+        "num_of_artefacts_tagged_in": 21,
+        "avg_view_per_artefact": 57
+    },
+    {
+        "name": "Human",
+        "total_views": 286548,
+        "num_of_artefacts_tagged_in": 5036,
+        "avg_view_per_artefact": 56.89992057188245
+    },
+    {
+        "name": "Nickel",
+        "total_views": 11209,
+        "num_of_artefacts_tagged_in": 197,
+        "avg_view_per_artefact": 56.898477157360404
+    },
+    {
+        "name": "Banister",
+        "total_views": 1535,
+        "num_of_artefacts_tagged_in": 27,
+        "avg_view_per_artefact": 56.851851851851855
+    },
+    {
+        "name": "Dessert",
+        "total_views": 10797,
+        "num_of_artefacts_tagged_in": 190,
+        "avg_view_per_artefact": 56.82631578947368
+    },
+    {
+        "name": "Box",
+        "total_views": 139992,
+        "num_of_artefacts_tagged_in": 2467,
+        "avg_view_per_artefact": 56.74584515605999
+    },
+    {
+        "name": "Mailbox",
+        "total_views": 17184,
+        "num_of_artefacts_tagged_in": 303,
+        "avg_view_per_artefact": 56.71287128712871
+    },
+    {
+        "name": "Letterbox",
+        "total_views": 17184,
+        "num_of_artefacts_tagged_in": 303,
+        "avg_view_per_artefact": 56.71287128712871
+    },
+    {
+        "name": "Fog",
+        "total_views": 340,
+        "num_of_artefacts_tagged_in": 6,
+        "avg_view_per_artefact": 56.666666666666664
+    },
+    {
+        "name": "Rotor",
+        "total_views": 9095,
+        "num_of_artefacts_tagged_in": 161,
+        "avg_view_per_artefact": 56.49068322981366
+    },
+    {
+        "name": "Fireplace",
+        "total_views": 1067,
+        "num_of_artefacts_tagged_in": 19,
+        "avg_view_per_artefact": 56.1578947368421
+    },
+    {
+        "name": "Bonnet",
+        "total_views": 1007,
+        "num_of_artefacts_tagged_in": 18,
+        "avg_view_per_artefact": 55.94444444444444
+    },
+    {
+        "name": "Leisure Activities",
+        "total_views": 19462,
+        "num_of_artefacts_tagged_in": 348,
+        "avg_view_per_artefact": 55.92528735632184
+    },
+    {
+        "name": "Drink",
+        "total_views": 61269,
+        "num_of_artefacts_tagged_in": 1099,
+        "avg_view_per_artefact": 55.74977252047316
+    },
+    {
+        "name": "Land",
+        "total_views": 3725,
+        "num_of_artefacts_tagged_in": 67,
+        "avg_view_per_artefact": 55.59701492537314
+    },
+    {
+        "name": "Root",
+        "total_views": 389,
+        "num_of_artefacts_tagged_in": 7,
+        "avg_view_per_artefact": 55.57142857142857
+    },
+    {
+        "name": "Basket",
+        "total_views": 830,
+        "num_of_artefacts_tagged_in": 15,
+        "avg_view_per_artefact": 55.333333333333336
+    },
+    {
+        "name": "Beverage",
+        "total_views": 62290,
+        "num_of_artefacts_tagged_in": 1126,
+        "avg_view_per_artefact": 55.319715808170514
+    },
+    {
+        "name": "Sea",
+        "total_views": 4425,
+        "num_of_artefacts_tagged_in": 80,
+        "avg_view_per_artefact": 55.3125
+    },
+    {
+        "name": "Handrail",
+        "total_views": 1600,
+        "num_of_artefacts_tagged_in": 29,
+        "avg_view_per_artefact": 55.172413793103445
+    },
+    {
+        "name": "Cable",
+        "total_views": 2205,
+        "num_of_artefacts_tagged_in": 40,
+        "avg_view_per_artefact": 55.125
+    },
+    {
+        "name": "Novel",
+        "total_views": 2421,
+        "num_of_artefacts_tagged_in": 44,
+        "avg_view_per_artefact": 55.02272727272727
+    },
+    {
+        "name": "Spiral",
+        "total_views": 11208,
+        "num_of_artefacts_tagged_in": 204,
+        "avg_view_per_artefact": 54.94117647058823
+    },
+    {
+        "name": "Doctor",
+        "total_views": 438,
+        "num_of_artefacts_tagged_in": 8,
+        "avg_view_per_artefact": 54.75
+    },
+    {
+        "name": "Mixer",
+        "total_views": 5139,
+        "num_of_artefacts_tagged_in": 94,
+        "avg_view_per_artefact": 54.670212765957444
+    },
+    {
+        "name": "Shorts",
+        "total_views": 3103,
+        "num_of_artefacts_tagged_in": 57,
+        "avg_view_per_artefact": 54.43859649122807
+    },
+    {
+        "name": "Hook",
+        "total_views": 5163,
+        "num_of_artefacts_tagged_in": 95,
+        "avg_view_per_artefact": 54.34736842105263
+    },
+    {
+        "name": "Wasp",
+        "total_views": 326,
+        "num_of_artefacts_tagged_in": 6,
+        "avg_view_per_artefact": 54.333333333333336
+    },
+    {
+        "name": "Scale",
+        "total_views": 6944,
+        "num_of_artefacts_tagged_in": 128,
+        "avg_view_per_artefact": 54.25
+    },
+    {
+        "name": "Mammal",
+        "total_views": 21357,
+        "num_of_artefacts_tagged_in": 395,
+        "avg_view_per_artefact": 54.06835443037975
+    },
+    {
+        "name": "Vest",
+        "total_views": 702,
+        "num_of_artefacts_tagged_in": 13,
+        "avg_view_per_artefact": 54
+    },
+    {
+        "name": "Toilet",
+        "total_views": 702,
+        "num_of_artefacts_tagged_in": 13,
+        "avg_view_per_artefact": 54
+    },
+    {
+        "name": "Birthday Cake",
+        "total_views": 1672,
+        "num_of_artefacts_tagged_in": 31,
+        "avg_view_per_artefact": 53.935483870967744
+    },
+    {
+        "name": "Coil",
+        "total_views": 10501,
+        "num_of_artefacts_tagged_in": 195,
+        "avg_view_per_artefact": 53.85128205128205
+    },
+    {
+        "name": "Poster",
+        "total_views": 70837,
+        "num_of_artefacts_tagged_in": 1316,
+        "avg_view_per_artefact": 53.827507598784194
+    },
+    {
+        "name": "Compass",
+        "total_views": 11384,
+        "num_of_artefacts_tagged_in": 212,
+        "avg_view_per_artefact": 53.698113207547166
+    },
+    {
+        "name": "Paper",
+        "total_views": 70810,
+        "num_of_artefacts_tagged_in": 1326,
+        "avg_view_per_artefact": 53.40120663650075
+    },
+    {
+        "name": "Microscope",
+        "total_views": 21956,
+        "num_of_artefacts_tagged_in": 412,
+        "avg_view_per_artefact": 53.29126213592233
+    },
+    {
+        "name": "Closet",
+        "total_views": 1803,
+        "num_of_artefacts_tagged_in": 34,
+        "avg_view_per_artefact": 53.029411764705884
+    },
+    {
+        "name": "Cupboard",
+        "total_views": 1803,
+        "num_of_artefacts_tagged_in": 34,
+        "avg_view_per_artefact": 53.029411764705884
+    },
+    {
+        "name": "Fort",
+        "total_views": 687,
+        "num_of_artefacts_tagged_in": 13,
+        "avg_view_per_artefact": 52.84615384615385
+    },
+    {
+        "name": "Ketchup",
+        "total_views": 1424,
+        "num_of_artefacts_tagged_in": 27,
+        "avg_view_per_artefact": 52.74074074074074
+    },
+    {
+        "name": "Barbie",
+        "total_views": 527,
+        "num_of_artefacts_tagged_in": 10,
+        "avg_view_per_artefact": 52.7
+    },
+    {
+        "name": "Dial Telephone",
+        "total_views": 8473,
+        "num_of_artefacts_tagged_in": 161,
+        "avg_view_per_artefact": 52.62732919254658
+    },
+    {
+        "name": "Clothing",
+        "total_views": 117594,
+        "num_of_artefacts_tagged_in": 2245,
+        "avg_view_per_artefact": 52.3804008908686
+    },
+    {
+        "name": "Field",
+        "total_views": 1306,
+        "num_of_artefacts_tagged_in": 25,
+        "avg_view_per_artefact": 52.24
+    },
+    {
+        "name": "Rodent",
+        "total_views": 261,
+        "num_of_artefacts_tagged_in": 5,
+        "avg_view_per_artefact": 52.2
+    },
+    {
+        "name": "Advertisement",
+        "total_views": 68594,
+        "num_of_artefacts_tagged_in": 1318,
+        "avg_view_per_artefact": 52.044006069802734
+    },
+    {
+        "name": "Handgun",
+        "total_views": 468,
+        "num_of_artefacts_tagged_in": 9,
+        "avg_view_per_artefact": 52
+    },
+    {
+        "name": "Sculpture",
+        "total_views": 36962,
+        "num_of_artefacts_tagged_in": 711,
+        "avg_view_per_artefact": 51.985935302391
+    },
+    {
+        "name": "Apparel",
+        "total_views": 100993,
+        "num_of_artefacts_tagged_in": 1944,
+        "avg_view_per_artefact": 51.9511316872428
+    },
+    {
+        "name": "Port",
+        "total_views": 727,
+        "num_of_artefacts_tagged_in": 14,
+        "avg_view_per_artefact": 51.92857142857143
+    },
+    {
+        "name": "Stand",
+        "total_views": 5759,
+        "num_of_artefacts_tagged_in": 111,
+        "avg_view_per_artefact": 51.88288288288288
+    },
+    {
+        "name": "Dice",
+        "total_views": 363,
+        "num_of_artefacts_tagged_in": 7,
+        "avg_view_per_artefact": 51.857142857142854
+    },
+    {
+        "name": "Trench Coat",
+        "total_views": 517,
+        "num_of_artefacts_tagged_in": 10,
+        "avg_view_per_artefact": 51.7
+    },
+    {
+        "name": "Heel",
+        "total_views": 413,
+        "num_of_artefacts_tagged_in": 8,
+        "avg_view_per_artefact": 51.625
+    },
+    {
+        "name": "Pier",
+        "total_views": 2213,
+        "num_of_artefacts_tagged_in": 43,
+        "avg_view_per_artefact": 51.46511627906977
+    },
+    {
+        "name": "Book",
+        "total_views": 25615,
+        "num_of_artefacts_tagged_in": 499,
+        "avg_view_per_artefact": 51.33266533066132
+    },
+    {
+        "name": "Female",
+        "total_views": 9696,
+        "num_of_artefacts_tagged_in": 189,
+        "avg_view_per_artefact": 51.301587301587304
+    },
+    {
+        "name": "Canvas",
+        "total_views": 5322,
+        "num_of_artefacts_tagged_in": 104,
+        "avg_view_per_artefact": 51.17307692307692
+    },
+    {
+        "name": "Wire",
+        "total_views": 767,
+        "num_of_artefacts_tagged_in": 15,
+        "avg_view_per_artefact": 51.13333333333333
+    },
+    {
+        "name": "Baseball Cap",
+        "total_views": 969,
+        "num_of_artefacts_tagged_in": 19,
+        "avg_view_per_artefact": 51
+    },
+    {
+        "name": "Reptile",
+        "total_views": 19212,
+        "num_of_artefacts_tagged_in": 378,
+        "avg_view_per_artefact": 50.82539682539682
+    },
+    {
+        "name": "Grass",
+        "total_views": 2185,
+        "num_of_artefacts_tagged_in": 43,
+        "avg_view_per_artefact": 50.81395348837209
+    },
+    {
+        "name": "Military",
+        "total_views": 8929,
+        "num_of_artefacts_tagged_in": 176,
+        "avg_view_per_artefact": 50.73295454545455
+    },
+    {
+        "name": "Spire",
+        "total_views": 3751,
+        "num_of_artefacts_tagged_in": 74,
+        "avg_view_per_artefact": 50.689189189189186
+    },
+    {
+        "name": "Chain",
+        "total_views": 1414,
+        "num_of_artefacts_tagged_in": 28,
+        "avg_view_per_artefact": 50.5
+    },
+    {
+        "name": "Menu",
+        "total_views": 4039,
+        "num_of_artefacts_tagged_in": 80,
+        "avg_view_per_artefact": 50.4875
+    },
+    {
+        "name": "Medicine Chest",
+        "total_views": 7168,
+        "num_of_artefacts_tagged_in": 142,
+        "avg_view_per_artefact": 50.478873239436616
+    },
+    {
+        "name": "Dress",
+        "total_views": 3328,
+        "num_of_artefacts_tagged_in": 66,
+        "avg_view_per_artefact": 50.42424242424242
+    },
+    {
+        "name": "Hand",
+        "total_views": 1710,
+        "num_of_artefacts_tagged_in": 34,
+        "avg_view_per_artefact": 50.294117647058826
+    },
+    {
+        "name": "Flower Arrangement",
+        "total_views": 402,
+        "num_of_artefacts_tagged_in": 8,
+        "avg_view_per_artefact": 50.25
+    },
+    {
+        "name": "Lampshade",
+        "total_views": 1908,
+        "num_of_artefacts_tagged_in": 38,
+        "avg_view_per_artefact": 50.21052631578947
+    },
+    {
+        "name": "Bed",
+        "total_views": 451,
+        "num_of_artefacts_tagged_in": 9,
+        "avg_view_per_artefact": 50.111111111111114
+    },
+    {
+        "name": "Pot",
+        "total_views": 3248,
+        "num_of_artefacts_tagged_in": 65,
+        "avg_view_per_artefact": 49.96923076923077
+    },
+    {
+        "name": "Disk",
+        "total_views": 2783,
+        "num_of_artefacts_tagged_in": 56,
+        "avg_view_per_artefact": 49.69642857142857
+    },
+    {
+        "name": "Fossil",
+        "total_views": 3527,
+        "num_of_artefacts_tagged_in": 71,
+        "avg_view_per_artefact": 49.67605633802817
+    },
+    {
+        "name": "Bronze",
+        "total_views": 132372,
+        "num_of_artefacts_tagged_in": 2669,
+        "avg_view_per_artefact": 49.59610340951667
+    },
+    {
+        "name": "Aluminium",
+        "total_views": 3617,
+        "num_of_artefacts_tagged_in": 73,
+        "avg_view_per_artefact": 49.54794520547945
+    },
+    {
+        "name": "Clinic",
+        "total_views": 1729,
+        "num_of_artefacts_tagged_in": 35,
+        "avg_view_per_artefact": 49.4
+    },
+    {
+        "name": "Lizard",
+        "total_views": 4538,
+        "num_of_artefacts_tagged_in": 92,
+        "avg_view_per_artefact": 49.32608695652174
+    },
+    {
+        "name": "Path",
+        "total_views": 3155,
+        "num_of_artefacts_tagged_in": 64,
+        "avg_view_per_artefact": 49.296875
+    },
+    {
+        "name": "Race Car",
+        "total_views": 542,
+        "num_of_artefacts_tagged_in": 11,
+        "avg_view_per_artefact": 49.27272727272727
+    },
+    {
+        "name": "Crash Helmet",
+        "total_views": 1819,
+        "num_of_artefacts_tagged_in": 37,
+        "avg_view_per_artefact": 49.16216216216216
+    },
+    {
+        "name": "Figurine",
+        "total_views": 44779,
+        "num_of_artefacts_tagged_in": 913,
+        "avg_view_per_artefact": 49.0460021905805
+    },
+    {
+        "name": "Hat",
+        "total_views": 8821,
+        "num_of_artefacts_tagged_in": 180,
+        "avg_view_per_artefact": 49.00555555555555
+    },
+    {
+        "name": "Drawer",
+        "total_views": 3820,
+        "num_of_artefacts_tagged_in": 78,
+        "avg_view_per_artefact": 48.97435897435897
+    },
+    {
+        "name": "Musical Instrument",
+        "total_views": 21349,
+        "num_of_artefacts_tagged_in": 436,
+        "avg_view_per_artefact": 48.96559633027523
+    },
+    {
+        "name": "Rubble",
+        "total_views": 538,
+        "num_of_artefacts_tagged_in": 11,
+        "avg_view_per_artefact": 48.90909090909091
+    },
+    {
+        "name": "Tank",
+        "total_views": 437,
+        "num_of_artefacts_tagged_in": 9,
+        "avg_view_per_artefact": 48.55555555555556
+    },
+    {
+        "name": "Theme Park",
+        "total_views": 728,
+        "num_of_artefacts_tagged_in": 15,
+        "avg_view_per_artefact": 48.53333333333333
+    },
+    {
+        "name": "Bumper",
+        "total_views": 1988,
+        "num_of_artefacts_tagged_in": 41,
+        "avg_view_per_artefact": 48.48780487804878
+    },
+    {
+        "name": "Wristwatch",
+        "total_views": 44500,
+        "num_of_artefacts_tagged_in": 920,
+        "avg_view_per_artefact": 48.369565217391305
+    },
+    {
+        "name": "Quiver",
+        "total_views": 1446,
+        "num_of_artefacts_tagged_in": 30,
+        "avg_view_per_artefact": 48.2
+    },
+    {
+        "name": "Amusement Park",
+        "total_views": 866,
+        "num_of_artefacts_tagged_in": 18,
+        "avg_view_per_artefact": 48.111111111111114
+    },
+    {
+        "name": "Worker",
+        "total_views": 286,
+        "num_of_artefacts_tagged_in": 6,
+        "avg_view_per_artefact": 47.666666666666664
+    },
+    {
+        "name": "Castle",
+        "total_views": 762,
+        "num_of_artefacts_tagged_in": 16,
+        "avg_view_per_artefact": 47.625
+    },
+    {
+        "name": "Waterfront",
+        "total_views": 3612,
+        "num_of_artefacts_tagged_in": 76,
+        "avg_view_per_artefact": 47.526315789473685
+    },
+    {
+        "name": "Home Decor",
+        "total_views": 7587,
+        "num_of_artefacts_tagged_in": 160,
+        "avg_view_per_artefact": 47.41875
+    },
+    {
+        "name": "Steeple",
+        "total_views": 2027,
+        "num_of_artefacts_tagged_in": 43,
+        "avg_view_per_artefact": 47.13953488372093
+    },
+    {
+        "name": "Cat",
+        "total_views": 1225,
+        "num_of_artefacts_tagged_in": 26,
+        "avg_view_per_artefact": 47.11538461538461
+    },
+    {
+        "name": "Smoke",
+        "total_views": 1459,
+        "num_of_artefacts_tagged_in": 31,
+        "avg_view_per_artefact": 47.064516129032256
+    },
+    {
+        "name": "Church",
+        "total_views": 988,
+        "num_of_artefacts_tagged_in": 21,
+        "avg_view_per_artefact": 47.04761904761905
+    },
+    {
+        "name": "Pendant",
+        "total_views": 7495,
+        "num_of_artefacts_tagged_in": 160,
+        "avg_view_per_artefact": 46.84375
+    },
+    {
+        "name": "Car Wheel",
+        "total_views": 1589,
+        "num_of_artefacts_tagged_in": 34,
+        "avg_view_per_artefact": 46.73529411764706
+    },
+    {
+        "name": "Sea Life",
+        "total_views": 7235,
+        "num_of_artefacts_tagged_in": 155,
+        "avg_view_per_artefact": 46.67741935483871
+    },
+    {
+        "name": "First Aid",
+        "total_views": 3957,
+        "num_of_artefacts_tagged_in": 85,
+        "avg_view_per_artefact": 46.55294117647059
+    },
+    {
+        "name": "Label",
+        "total_views": 24146,
+        "num_of_artefacts_tagged_in": 520,
+        "avg_view_per_artefact": 46.434615384615384
+    },
+    {
+        "name": "Beach",
+        "total_views": 277,
+        "num_of_artefacts_tagged_in": 6,
+        "avg_view_per_artefact": 46.166666666666664
+    },
+    {
+        "name": "Bottle",
+        "total_views": 73118,
+        "num_of_artefacts_tagged_in": 1586,
+        "avg_view_per_artefact": 46.102143757881464
+    },
+    {
+        "name": "Hardhat",
+        "total_views": 2626,
+        "num_of_artefacts_tagged_in": 57,
+        "avg_view_per_artefact": 46.07017543859649
+    },
+    {
+        "name": "Dryer",
+        "total_views": 3037,
+        "num_of_artefacts_tagged_in": 66,
+        "avg_view_per_artefact": 46.015151515151516
+    },
+    {
+        "name": "Comb",
+        "total_views": 1012,
+        "num_of_artefacts_tagged_in": 22,
+        "avg_view_per_artefact": 46
+    },
+    {
+        "name": "Throne",
+        "total_views": 276,
+        "num_of_artefacts_tagged_in": 6,
+        "avg_view_per_artefact": 46
+    },
+    {
+        "name": "Passport",
+        "total_views": 4218,
+        "num_of_artefacts_tagged_in": 92,
+        "avg_view_per_artefact": 45.84782608695652
+    },
+    {
+        "name": "Tiger",
+        "total_views": 229,
+        "num_of_artefacts_tagged_in": 5,
+        "avg_view_per_artefact": 45.8
+    },
+    {
+        "name": "Horse Cart",
+        "total_views": 4854,
+        "num_of_artefacts_tagged_in": 106,
+        "avg_view_per_artefact": 45.79245283018868
+    },
+    {
+        "name": "Walkway",
+        "total_views": 1553,
+        "num_of_artefacts_tagged_in": 34,
+        "avg_view_per_artefact": 45.6764705882353
+    },
+    {
+        "name": "Mansion",
+        "total_views": 2464,
+        "num_of_artefacts_tagged_in": 54,
+        "avg_view_per_artefact": 45.629629629629626
+    },
+    {
+        "name": "Money",
+        "total_views": 27374,
+        "num_of_artefacts_tagged_in": 600,
+        "avg_view_per_artefact": 45.623333333333335
+    },
+    {
+        "name": "Coat Rack",
+        "total_views": 1412,
+        "num_of_artefacts_tagged_in": 31,
+        "avg_view_per_artefact": 45.54838709677419
+    },
+    {
+        "name": "Photo",
+        "total_views": 2590,
+        "num_of_artefacts_tagged_in": 57,
+        "avg_view_per_artefact": 45.43859649122807
+    },
+    {
+        "name": "Modem",
+        "total_views": 590,
+        "num_of_artefacts_tagged_in": 13,
+        "avg_view_per_artefact": 45.38461538461539
+    },
+    {
+        "name": "Plaque",
+        "total_views": 5324,
+        "num_of_artefacts_tagged_in": 118,
+        "avg_view_per_artefact": 45.11864406779661
+    },
+    {
+        "name": "Pineapple",
+        "total_views": 315,
+        "num_of_artefacts_tagged_in": 7,
+        "avg_view_per_artefact": 45
+    },
+    {
+        "name": "Performer",
+        "total_views": 1214,
+        "num_of_artefacts_tagged_in": 27,
+        "avg_view_per_artefact": 44.96296296296296
+    },
+    {
+        "name": "Electronic Chip",
+        "total_views": 2472,
+        "num_of_artefacts_tagged_in": 55,
+        "avg_view_per_artefact": 44.945454545454545
+    },
+    {
+        "name": "Dagger",
+        "total_views": 807,
+        "num_of_artefacts_tagged_in": 18,
+        "avg_view_per_artefact": 44.833333333333336
+    },
+    {
+        "name": "Warehouse",
+        "total_views": 269,
+        "num_of_artefacts_tagged_in": 6,
+        "avg_view_per_artefact": 44.833333333333336
+    },
+    {
+        "name": "Teen",
+        "total_views": 446,
+        "num_of_artefacts_tagged_in": 10,
+        "avg_view_per_artefact": 44.6
+    },
+    {
+        "name": "Carriage",
+        "total_views": 10465,
+        "num_of_artefacts_tagged_in": 235,
+        "avg_view_per_artefact": 44.53191489361702
+    },
+    {
+        "name": "Jade",
+        "total_views": 267,
+        "num_of_artefacts_tagged_in": 6,
+        "avg_view_per_artefact": 44.5
+    },
+    {
+        "name": "Downtown",
+        "total_views": 2491,
+        "num_of_artefacts_tagged_in": 56,
+        "avg_view_per_artefact": 44.482142857142854
+    },
+    {
+        "name": "Fountain",
+        "total_views": 489,
+        "num_of_artefacts_tagged_in": 11,
+        "avg_view_per_artefact": 44.45454545454545
+    },
+    {
+        "name": "Luggage",
+        "total_views": 975,
+        "num_of_artefacts_tagged_in": 22,
+        "avg_view_per_artefact": 44.31818181818182
+    },
+    {
+        "name": "Slum",
+        "total_views": 221,
+        "num_of_artefacts_tagged_in": 5,
+        "avg_view_per_artefact": 44.2
+    },
+    {
+        "name": "Emblem",
+        "total_views": 5343,
+        "num_of_artefacts_tagged_in": 121,
+        "avg_view_per_artefact": 44.15702479338843
+    },
+    {
+        "name": "Burner",
+        "total_views": 309,
+        "num_of_artefacts_tagged_in": 7,
+        "avg_view_per_artefact": 44.142857142857146
+    },
+    {
+        "name": "Amplifier",
+        "total_views": 2247,
+        "num_of_artefacts_tagged_in": 51,
+        "avg_view_per_artefact": 44.05882352941177
+    },
+    {
+        "name": "Rubber Eraser",
+        "total_views": 5226,
+        "num_of_artefacts_tagged_in": 119,
+        "avg_view_per_artefact": 43.91596638655462
+    },
+    {
+        "name": "Bandana",
+        "total_views": 263,
+        "num_of_artefacts_tagged_in": 6,
+        "avg_view_per_artefact": 43.833333333333336
+    },
+    {
+        "name": "Wine",
+        "total_views": 1356,
+        "num_of_artefacts_tagged_in": 31,
+        "avg_view_per_artefact": 43.74193548387097
+    },
+    {
+        "name": "Briefcase",
+        "total_views": 1441,
+        "num_of_artefacts_tagged_in": 33,
+        "avg_view_per_artefact": 43.666666666666664
+    },
+    {
+        "name": "Drying Rack",
+        "total_views": 218,
+        "num_of_artefacts_tagged_in": 5,
+        "avg_view_per_artefact": 43.6
+    },
+    {
+        "name": "Id Cards",
+        "total_views": 4402,
+        "num_of_artefacts_tagged_in": 101,
+        "avg_view_per_artefact": 43.584158415841586
+    },
+    {
+        "name": "Face",
+        "total_views": 23334,
+        "num_of_artefacts_tagged_in": 536,
+        "avg_view_per_artefact": 43.53358208955224
+    },
+    {
+        "name": "Bush",
+        "total_views": 868,
+        "num_of_artefacts_tagged_in": 20,
+        "avg_view_per_artefact": 43.4
+    },
+    {
+        "name": "Swimwear",
+        "total_views": 434,
+        "num_of_artefacts_tagged_in": 10,
+        "avg_view_per_artefact": 43.4
+    },
+    {
+        "name": "Dock",
+        "total_views": 910,
+        "num_of_artefacts_tagged_in": 21,
+        "avg_view_per_artefact": 43.333333333333336
+    },
+    {
+        "name": "Soccer Ball",
+        "total_views": 260,
+        "num_of_artefacts_tagged_in": 6,
+        "avg_view_per_artefact": 43.333333333333336
+    },
+    {
+        "name": "Tabletop",
+        "total_views": 27358,
+        "num_of_artefacts_tagged_in": 632,
+        "avg_view_per_artefact": 43.287974683544306
+    },
+    {
+        "name": "Worship",
+        "total_views": 1943,
+        "num_of_artefacts_tagged_in": 45,
+        "avg_view_per_artefact": 43.17777777777778
+    },
+    {
+        "name": "Water",
+        "total_views": 15416,
+        "num_of_artefacts_tagged_in": 358,
+        "avg_view_per_artefact": 43.06145251396648
+    },
+    {
+        "name": "Arch Bridge",
+        "total_views": 859,
+        "num_of_artefacts_tagged_in": 20,
+        "avg_view_per_artefact": 42.95
+    },
+    {
+        "name": "Street",
+        "total_views": 4373,
+        "num_of_artefacts_tagged_in": 102,
+        "avg_view_per_artefact": 42.872549019607845
+    },
+    {
+        "name": "Peanut",
+        "total_views": 300,
+        "num_of_artefacts_tagged_in": 7,
+        "avg_view_per_artefact": 42.857142857142854
+    },
+    {
+        "name": "Villa",
+        "total_views": 299,
+        "num_of_artefacts_tagged_in": 7,
+        "avg_view_per_artefact": 42.714285714285715
+    },
+    {
+        "name": "Drinking Fountain",
+        "total_views": 256,
+        "num_of_artefacts_tagged_in": 6,
+        "avg_view_per_artefact": 42.666666666666664
+    },
+    {
+        "name": "Alley",
+        "total_views": 1317,
+        "num_of_artefacts_tagged_in": 31,
+        "avg_view_per_artefact": 42.483870967741936
+    },
+    {
+        "name": "Carton",
+        "total_views": 1232,
+        "num_of_artefacts_tagged_in": 29,
+        "avg_view_per_artefact": 42.48275862068966
+    },
+    {
+        "name": "Cloak",
+        "total_views": 636,
+        "num_of_artefacts_tagged_in": 15,
+        "avg_view_per_artefact": 42.4
+    },
+    {
+        "name": "Flyer",
+        "total_views": 26969,
+        "num_of_artefacts_tagged_in": 637,
+        "avg_view_per_artefact": 42.33751962323391
+    },
+    {
+        "name": "Bull",
+        "total_views": 634,
+        "num_of_artefacts_tagged_in": 15,
+        "avg_view_per_artefact": 42.266666666666666
+    },
+    {
+        "name": "Tire",
+        "total_views": 3972,
+        "num_of_artefacts_tagged_in": 94,
+        "avg_view_per_artefact": 42.255319148936174
+    },
+    {
+        "name": "Lighter",
+        "total_views": 3670,
+        "num_of_artefacts_tagged_in": 87,
+        "avg_view_per_artefact": 42.18390804597701
+    },
+    {
+        "name": "Coin",
+        "total_views": 22473,
+        "num_of_artefacts_tagged_in": 536,
+        "avg_view_per_artefact": 41.92723880597015
+    },
+    {
+        "name": "Tent",
+        "total_views": 670,
+        "num_of_artefacts_tagged_in": 16,
+        "avg_view_per_artefact": 41.875
+    },
+    {
+        "name": "Volcano",
+        "total_views": 502,
+        "num_of_artefacts_tagged_in": 12,
+        "avg_view_per_artefact": 41.833333333333336
+    },
+    {
+        "name": "Brake",
+        "total_views": 375,
+        "num_of_artefacts_tagged_in": 9,
+        "avg_view_per_artefact": 41.666666666666664
+    },
+    {
+        "name": "Palace",
+        "total_views": 1041,
+        "num_of_artefacts_tagged_in": 25,
+        "avg_view_per_artefact": 41.64
+    },
+    {
+        "name": "Conifer",
+        "total_views": 331,
+        "num_of_artefacts_tagged_in": 8,
+        "avg_view_per_artefact": 41.375
+    },
+    {
+        "name": "Brochure",
+        "total_views": 23890,
+        "num_of_artefacts_tagged_in": 579,
+        "avg_view_per_artefact": 41.26079447322971
+    },
+    {
+        "name": "Compass Math",
+        "total_views": 328,
+        "num_of_artefacts_tagged_in": 8,
+        "avg_view_per_artefact": 41
+    },
+    {
+        "name": "Wedding Gown",
+        "total_views": 532,
+        "num_of_artefacts_tagged_in": 13,
+        "avg_view_per_artefact": 40.92307692307692
+    },
+    {
+        "name": "Sweater",
+        "total_views": 900,
+        "num_of_artefacts_tagged_in": 22,
+        "avg_view_per_artefact": 40.90909090909091
+    },
+    {
+        "name": "Cap",
+        "total_views": 1264,
+        "num_of_artefacts_tagged_in": 31,
+        "avg_view_per_artefact": 40.774193548387096
+    },
+    {
+        "name": "Riding Boot",
+        "total_views": 325,
+        "num_of_artefacts_tagged_in": 8,
+        "avg_view_per_artefact": 40.625
+    },
+    {
+        "name": "Shirt",
+        "total_views": 1255,
+        "num_of_artefacts_tagged_in": 31,
+        "avg_view_per_artefact": 40.483870967741936
+    },
+    {
+        "name": "Nature",
+        "total_views": 34466,
+        "num_of_artefacts_tagged_in": 852,
+        "avg_view_per_artefact": 40.45305164319249
+    },
+    {
+        "name": "Road",
+        "total_views": 6382,
+        "num_of_artefacts_tagged_in": 158,
+        "avg_view_per_artefact": 40.392405063291136
+    },
+    {
+        "name": "Outdoors",
+        "total_views": 34907,
+        "num_of_artefacts_tagged_in": 866,
+        "avg_view_per_artefact": 40.30831408775982
+    },
+    {
+        "name": "Treasure",
+        "total_views": 5922,
+        "num_of_artefacts_tagged_in": 147,
+        "avg_view_per_artefact": 40.285714285714285
+    },
+    {
+        "name": "Green",
+        "total_views": 322,
+        "num_of_artefacts_tagged_in": 8,
+        "avg_view_per_artefact": 40.25
+    },
+    {
+        "name": "Adapter",
+        "total_views": 12214,
+        "num_of_artefacts_tagged_in": 304,
+        "avg_view_per_artefact": 40.17763157894737
+    },
+    {
+        "name": "Trademark",
+        "total_views": 10234,
+        "num_of_artefacts_tagged_in": 255,
+        "avg_view_per_artefact": 40.13333333333333
+    },
+    {
+        "name": "Ice",
+        "total_views": 1442,
+        "num_of_artefacts_tagged_in": 36,
+        "avg_view_per_artefact": 40.05555555555556
+    },
+    {
+        "name": "Silver",
+        "total_views": 3721,
+        "num_of_artefacts_tagged_in": 93,
+        "avg_view_per_artefact": 40.01075268817204
+    },
+    {
+        "name": "Switch",
+        "total_views": 6318,
+        "num_of_artefacts_tagged_in": 158,
+        "avg_view_per_artefact": 39.9873417721519
+    },
+    {
+        "name": "Floor Plan",
+        "total_views": 279,
+        "num_of_artefacts_tagged_in": 7,
+        "avg_view_per_artefact": 39.857142857142854
+    },
+    {
+        "name": "Belt",
+        "total_views": 4501,
+        "num_of_artefacts_tagged_in": 113,
+        "avg_view_per_artefact": 39.83185840707964
+    },
+    {
+        "name": "Reel",
+        "total_views": 637,
+        "num_of_artefacts_tagged_in": 16,
+        "avg_view_per_artefact": 39.8125
+    },
+    {
+        "name": "Text",
+        "total_views": 154250,
+        "num_of_artefacts_tagged_in": 3895,
+        "avg_view_per_artefact": 39.602053915275995
+    },
+    {
+        "name": "Logo",
+        "total_views": 10397,
+        "num_of_artefacts_tagged_in": 263,
+        "avg_view_per_artefact": 39.53231939163498
+    },
+    {
+        "name": "Duel",
+        "total_views": 1381,
+        "num_of_artefacts_tagged_in": 35,
+        "avg_view_per_artefact": 39.457142857142856
+    },
+    {
+        "name": "Light",
+        "total_views": 20161,
+        "num_of_artefacts_tagged_in": 511,
+        "avg_view_per_artefact": 39.454011741682976
+    },
+    {
+        "name": "High Heel",
+        "total_views": 355,
+        "num_of_artefacts_tagged_in": 9,
+        "avg_view_per_artefact": 39.44444444444444
+    },
+    {
+        "name": "Harbor",
+        "total_views": 1262,
+        "num_of_artefacts_tagged_in": 32,
+        "avg_view_per_artefact": 39.4375
+    },
+    {
+        "name": "Archaeology",
+        "total_views": 14708,
+        "num_of_artefacts_tagged_in": 373,
+        "avg_view_per_artefact": 39.43163538873995
+    },
+    {
+        "name": "Fir",
+        "total_views": 473,
+        "num_of_artefacts_tagged_in": 12,
+        "avg_view_per_artefact": 39.416666666666664
+    },
+    {
+        "name": "Clogs",
+        "total_views": 709,
+        "num_of_artefacts_tagged_in": 18,
+        "avg_view_per_artefact": 39.388888888888886
+    },
+    {
+        "name": "Fungus",
+        "total_views": 861,
+        "num_of_artefacts_tagged_in": 22,
+        "avg_view_per_artefact": 39.13636363636363
+    },
+    {
+        "name": "Scarf",
+        "total_views": 429,
+        "num_of_artefacts_tagged_in": 11,
+        "avg_view_per_artefact": 39
+    },
+    {
+        "name": "Wildlife",
+        "total_views": 3568,
+        "num_of_artefacts_tagged_in": 92,
+        "avg_view_per_artefact": 38.78260869565217
+    },
+    {
+        "name": "Bathtub",
+        "total_views": 1119,
+        "num_of_artefacts_tagged_in": 29,
+        "avg_view_per_artefact": 38.58620689655172
+    },
+    {
+        "name": "Sandal",
+        "total_views": 1040,
+        "num_of_artefacts_tagged_in": 27,
+        "avg_view_per_artefact": 38.51851851851852
+    },
+    {
+        "name": "Honey",
+        "total_views": 192,
+        "num_of_artefacts_tagged_in": 5,
+        "avg_view_per_artefact": 38.4
+    },
+    {
+        "name": "Food",
+        "total_views": 48682,
+        "num_of_artefacts_tagged_in": 1269,
+        "avg_view_per_artefact": 38.362490149724195
+    },
+    {
+        "name": "Wilderness",
+        "total_views": 306,
+        "num_of_artefacts_tagged_in": 8,
+        "avg_view_per_artefact": 38.25
+    },
+    {
+        "name": "Sidewalk",
+        "total_views": 762,
+        "num_of_artefacts_tagged_in": 20,
+        "avg_view_per_artefact": 38.1
+    },
+    {
+        "name": "Hug",
+        "total_views": 455,
+        "num_of_artefacts_tagged_in": 12,
+        "avg_view_per_artefact": 37.916666666666664
+    },
+    {
+        "name": "Machine Gun",
+        "total_views": 606,
+        "num_of_artefacts_tagged_in": 16,
+        "avg_view_per_artefact": 37.875
+    },
+    {
+        "name": "Skin",
+        "total_views": 2762,
+        "num_of_artefacts_tagged_in": 73,
+        "avg_view_per_artefact": 37.83561643835616
+    },
+    {
+        "name": "Marching",
+        "total_views": 189,
+        "num_of_artefacts_tagged_in": 5,
+        "avg_view_per_artefact": 37.8
+    },
+    {
+        "name": "Ammunition",
+        "total_views": 11764,
+        "num_of_artefacts_tagged_in": 312,
+        "avg_view_per_artefact": 37.705128205128204
+    },
+    {
+        "name": "Soil",
+        "total_views": 13115,
+        "num_of_artefacts_tagged_in": 348,
+        "avg_view_per_artefact": 37.6867816091954
+    },
+    {
+        "name": "Elephant",
+        "total_views": 1278,
+        "num_of_artefacts_tagged_in": 34,
+        "avg_view_per_artefact": 37.588235294117645
+    },
+    {
+        "name": "Highway",
+        "total_views": 225,
+        "num_of_artefacts_tagged_in": 6,
+        "avg_view_per_artefact": 37.5
+    },
+    {
+        "name": "Texture",
+        "total_views": 375,
+        "num_of_artefacts_tagged_in": 10,
+        "avg_view_per_artefact": 37.5
+    },
+    {
+        "name": "Wine Bottle",
+        "total_views": 187,
+        "num_of_artefacts_tagged_in": 5,
+        "avg_view_per_artefact": 37.4
+    },
+    {
+        "name": "Wagon",
+        "total_views": 8182,
+        "num_of_artefacts_tagged_in": 219,
+        "avg_view_per_artefact": 37.36073059360731
+    },
+    {
+        "name": "Fire Hydrant",
+        "total_views": 747,
+        "num_of_artefacts_tagged_in": 20,
+        "avg_view_per_artefact": 37.35
+    },
+    {
+        "name": "Altar",
+        "total_views": 261,
+        "num_of_artefacts_tagged_in": 7,
+        "avg_view_per_artefact": 37.285714285714285
+    },
+    {
+        "name": "Goggles",
+        "total_views": 2600,
+        "num_of_artefacts_tagged_in": 70,
+        "avg_view_per_artefact": 37.142857142857146
+    },
+    {
+        "name": "Adventure",
+        "total_views": 701,
+        "num_of_artefacts_tagged_in": 19,
+        "avg_view_per_artefact": 36.89473684210526
+    },
+    {
+        "name": "Painting",
+        "total_views": 81546,
+        "num_of_artefacts_tagged_in": 2216,
+        "avg_view_per_artefact": 36.79873646209386
+    },
+    {
+        "name": "Alarm Clock",
+        "total_views": 917,
+        "num_of_artefacts_tagged_in": 25,
+        "avg_view_per_artefact": 36.68
+    },
+    {
+        "name": "Bar Stool",
+        "total_views": 402,
+        "num_of_artefacts_tagged_in": 11,
+        "avg_view_per_artefact": 36.54545454545455
+    },
+    {
+        "name": "Pedestrian",
+        "total_views": 2337,
+        "num_of_artefacts_tagged_in": 64,
+        "avg_view_per_artefact": 36.515625
+    },
+    {
+        "name": "Document",
+        "total_views": 8980,
+        "num_of_artefacts_tagged_in": 250,
+        "avg_view_per_artefact": 35.92
+    },
+    {
+        "name": "Hydrant",
+        "total_views": 751,
+        "num_of_artefacts_tagged_in": 21,
+        "avg_view_per_artefact": 35.76190476190476
+    },
+    {
+        "name": "Bathing Cap",
+        "total_views": 249,
+        "num_of_artefacts_tagged_in": 7,
+        "avg_view_per_artefact": 35.57142857142857
+    },
+    {
+        "name": "Ocean",
+        "total_views": 1351,
+        "num_of_artefacts_tagged_in": 38,
+        "avg_view_per_artefact": 35.55263157894737
+    },
+    {
+        "name": "Gold Medal",
+        "total_views": 391,
+        "num_of_artefacts_tagged_in": 11,
+        "avg_view_per_artefact": 35.54545454545455
+    },
+    {
+        "name": "Steamer",
+        "total_views": 2769,
+        "num_of_artefacts_tagged_in": 78,
+        "avg_view_per_artefact": 35.5
+    },
+    {
+        "name": "Pen",
+        "total_views": 4995,
+        "num_of_artefacts_tagged_in": 141,
+        "avg_view_per_artefact": 35.42553191489362
+    },
+    {
+        "name": "Art",
+        "total_views": 179201,
+        "num_of_artefacts_tagged_in": 5060,
+        "avg_view_per_artefact": 35.415217391304346
+    },
+    {
+        "name": "Drawbridge",
+        "total_views": 177,
+        "num_of_artefacts_tagged_in": 5,
+        "avg_view_per_artefact": 35.4
+    },
+    {
+        "name": "Mining",
+        "total_views": 177,
+        "num_of_artefacts_tagged_in": 5,
+        "avg_view_per_artefact": 35.4
+    },
+    {
+        "name": "Ball",
+        "total_views": 1766,
+        "num_of_artefacts_tagged_in": 50,
+        "avg_view_per_artefact": 35.32
+    },
+    {
+        "name": "Airship",
+        "total_views": 875,
+        "num_of_artefacts_tagged_in": 25,
+        "avg_view_per_artefact": 35
+    },
+    {
+        "name": "Hair Drier",
+        "total_views": 2056,
+        "num_of_artefacts_tagged_in": 59,
+        "avg_view_per_artefact": 34.847457627118644
+    },
+    {
+        "name": "Lightbulb",
+        "total_views": 9163,
+        "num_of_artefacts_tagged_in": 263,
+        "avg_view_per_artefact": 34.840304182509506
+    },
+    {
+        "name": "Dome",
+        "total_views": 1358,
+        "num_of_artefacts_tagged_in": 39,
+        "avg_view_per_artefact": 34.82051282051282
+    },
+    {
+        "name": "Coat",
+        "total_views": 14270,
+        "num_of_artefacts_tagged_in": 410,
+        "avg_view_per_artefact": 34.80487804878049
+    },
+    {
+        "name": "Bath Towel",
+        "total_views": 208,
+        "num_of_artefacts_tagged_in": 6,
+        "avg_view_per_artefact": 34.666666666666664
+    },
+    {
+        "name": "Tarmac",
+        "total_views": 692,
+        "num_of_artefacts_tagged_in": 20,
+        "avg_view_per_artefact": 34.6
+    },
+    {
+        "name": "Shipping Container",
+        "total_views": 11863,
+        "num_of_artefacts_tagged_in": 343,
+        "avg_view_per_artefact": 34.58600583090379
+    },
+    {
+        "name": "Ring",
+        "total_views": 13919,
+        "num_of_artefacts_tagged_in": 403,
+        "avg_view_per_artefact": 34.53846153846154
+    },
+    {
+        "name": "Tie",
+        "total_views": 5928,
+        "num_of_artefacts_tagged_in": 172,
+        "avg_view_per_artefact": 34.46511627906977
+    },
+    {
+        "name": "Business Card",
+        "total_views": 9719,
+        "num_of_artefacts_tagged_in": 283,
+        "avg_view_per_artefact": 34.342756183745585
+    },
+    {
+        "name": "Blow Dryer",
+        "total_views": 2060,
+        "num_of_artefacts_tagged_in": 60,
+        "avg_view_per_artefact": 34.333333333333336
+    },
+    {
+        "name": "Plant",
+        "total_views": 35625,
+        "num_of_artefacts_tagged_in": 1039,
+        "avg_view_per_artefact": 34.287776708373435
+    },
+    {
+        "name": "Seesaw",
+        "total_views": 239,
+        "num_of_artefacts_tagged_in": 7,
+        "avg_view_per_artefact": 34.142857142857146
+    },
+    {
+        "name": "Snow",
+        "total_views": 1330,
+        "num_of_artefacts_tagged_in": 39,
+        "avg_view_per_artefact": 34.1025641025641
+    },
+    {
+        "name": "Blonde",
+        "total_views": 504,
+        "num_of_artefacts_tagged_in": 15,
+        "avg_view_per_artefact": 33.6
+    },
+    {
+        "name": "Keg",
+        "total_views": 973,
+        "num_of_artefacts_tagged_in": 29,
+        "avg_view_per_artefact": 33.55172413793103
+    },
+    {
+        "name": "Buckle",
+        "total_views": 3379,
+        "num_of_artefacts_tagged_in": 101,
+        "avg_view_per_artefact": 33.45544554455446
+    },
+    {
+        "name": "Kid",
+        "total_views": 367,
+        "num_of_artefacts_tagged_in": 11,
+        "avg_view_per_artefact": 33.36363636363637
+    },
+    {
+        "name": "Vegetation",
+        "total_views": 2559,
+        "num_of_artefacts_tagged_in": 77,
+        "avg_view_per_artefact": 33.23376623376623
+    },
+    {
+        "name": "Grenade",
+        "total_views": 1861,
+        "num_of_artefacts_tagged_in": 56,
+        "avg_view_per_artefact": 33.232142857142854
+    },
+    {
+        "name": "Overcoat",
+        "total_views": 11393,
+        "num_of_artefacts_tagged_in": 343,
+        "avg_view_per_artefact": 33.21574344023323
+    },
+    {
+        "name": "Monument",
+        "total_views": 929,
+        "num_of_artefacts_tagged_in": 28,
+        "avg_view_per_artefact": 33.17857142857143
+    },
+    {
+        "name": "Lute",
+        "total_views": 397,
+        "num_of_artefacts_tagged_in": 12,
+        "avg_view_per_artefact": 33.083333333333336
+    },
+    {
+        "name": "Kneeling",
+        "total_views": 562,
+        "num_of_artefacts_tagged_in": 17,
+        "avg_view_per_artefact": 33.05882352941177
+    },
+    {
+        "name": "Column",
+        "total_views": 4240,
+        "num_of_artefacts_tagged_in": 129,
+        "avg_view_per_artefact": 32.86821705426357
+    },
+    {
+        "name": "Barge",
+        "total_views": 687,
+        "num_of_artefacts_tagged_in": 21,
+        "avg_view_per_artefact": 32.714285714285715
+    },
+    {
+        "name": "Barrel",
+        "total_views": 2181,
+        "num_of_artefacts_tagged_in": 67,
+        "avg_view_per_artefact": 32.55223880597015
+    },
+    {
+        "name": "Operating Theatre",
+        "total_views": 260,
+        "num_of_artefacts_tagged_in": 8,
+        "avg_view_per_artefact": 32.5
+    },
+    {
+        "name": "Tape",
+        "total_views": 10744,
+        "num_of_artefacts_tagged_in": 331,
+        "avg_view_per_artefact": 32.45921450151057
+    },
+    {
+        "name": "Locket",
+        "total_views": 3709,
+        "num_of_artefacts_tagged_in": 115,
+        "avg_view_per_artefact": 32.25217391304348
+    },
+    {
+        "name": "Fisheye",
+        "total_views": 161,
+        "num_of_artefacts_tagged_in": 5,
+        "avg_view_per_artefact": 32.2
+    },
+    {
+        "name": "Ruins",
+        "total_views": 289,
+        "num_of_artefacts_tagged_in": 9,
+        "avg_view_per_artefact": 32.111111111111114
+    },
+    {
+        "name": "Cattle",
+        "total_views": 769,
+        "num_of_artefacts_tagged_in": 24,
+        "avg_view_per_artefact": 32.041666666666664
+    },
+    {
+        "name": "Pillar",
+        "total_views": 4377,
+        "num_of_artefacts_tagged_in": 137,
+        "avg_view_per_artefact": 31.94890510948905
+    },
+    {
+        "name": "Postage Stamp",
+        "total_views": 159,
+        "num_of_artefacts_tagged_in": 5,
+        "avg_view_per_artefact": 31.8
+    },
+    {
+        "name": "Flashlight",
+        "total_views": 952,
+        "num_of_artefacts_tagged_in": 30,
+        "avg_view_per_artefact": 31.733333333333334
+    },
+    {
+        "name": "Arch",
+        "total_views": 1329,
+        "num_of_artefacts_tagged_in": 42,
+        "avg_view_per_artefact": 31.642857142857142
+    },
+    {
+        "name": "Harmonica",
+        "total_views": 915,
+        "num_of_artefacts_tagged_in": 29,
+        "avg_view_per_artefact": 31.551724137931036
+    },
+    {
+        "name": "Officer",
+        "total_views": 851,
+        "num_of_artefacts_tagged_in": 27,
+        "avg_view_per_artefact": 31.51851851851852
+    },
+    {
+        "name": "Rug",
+        "total_views": 23478,
+        "num_of_artefacts_tagged_in": 748,
+        "avg_view_per_artefact": 31.387700534759357
+    },
+    {
+        "name": "Arched",
+        "total_views": 1189,
+        "num_of_artefacts_tagged_in": 38,
+        "avg_view_per_artefact": 31.289473684210527
+    },
+    {
+        "name": "Porch",
+        "total_views": 219,
+        "num_of_artefacts_tagged_in": 7,
+        "avg_view_per_artefact": 31.285714285714285
+    },
+    {
+        "name": "Jewelry",
+        "total_views": 31764,
+        "num_of_artefacts_tagged_in": 1018,
+        "avg_view_per_artefact": 31.202357563850686
+    },
+    {
+        "name": "Porthole",
+        "total_views": 559,
+        "num_of_artefacts_tagged_in": 18,
+        "avg_view_per_artefact": 31.055555555555557
+    },
+    {
+        "name": "Wine Glass",
+        "total_views": 526,
+        "num_of_artefacts_tagged_in": 17,
+        "avg_view_per_artefact": 30.941176470588236
+    },
+    {
+        "name": "Rifle",
+        "total_views": 247,
+        "num_of_artefacts_tagged_in": 8,
+        "avg_view_per_artefact": 30.875
+    },
+    {
+        "name": "Necklace",
+        "total_views": 1389,
+        "num_of_artefacts_tagged_in": 45,
+        "avg_view_per_artefact": 30.866666666666667
+    },
+    {
+        "name": "Strap",
+        "total_views": 7979,
+        "num_of_artefacts_tagged_in": 259,
+        "avg_view_per_artefact": 30.806949806949806
+    },
+    {
+        "name": "Cup",
+        "total_views": 4146,
+        "num_of_artefacts_tagged_in": 135,
+        "avg_view_per_artefact": 30.711111111111112
+    },
+    {
+        "name": "Suit",
+        "total_views": 8426,
+        "num_of_artefacts_tagged_in": 275,
+        "avg_view_per_artefact": 30.64
+    },
+    {
+        "name": "Soccer",
+        "total_views": 152,
+        "num_of_artefacts_tagged_in": 5,
+        "avg_view_per_artefact": 30.4
+    },
+    {
+        "name": "Ashtray",
+        "total_views": 1002,
+        "num_of_artefacts_tagged_in": 33,
+        "avg_view_per_artefact": 30.363636363636363
+    },
+    {
+        "name": "Rust",
+        "total_views": 784,
+        "num_of_artefacts_tagged_in": 26,
+        "avg_view_per_artefact": 30.153846153846153
+    },
+    {
+        "name": "Cardboard",
+        "total_views": 1627,
+        "num_of_artefacts_tagged_in": 54,
+        "avg_view_per_artefact": 30.12962962962963
+    },
+    {
+        "name": "Boot",
+        "total_views": 1354,
+        "num_of_artefacts_tagged_in": 45,
+        "avg_view_per_artefact": 30.08888888888889
+    },
+    {
+        "name": "Torpedo",
+        "total_views": 421,
+        "num_of_artefacts_tagged_in": 14,
+        "avg_view_per_artefact": 30.071428571428573
+    },
+    {
+        "name": "Symbol",
+        "total_views": 46302,
+        "num_of_artefacts_tagged_in": 1541,
+        "avg_view_per_artefact": 30.046722907203115
+    },
+    {
+        "name": "Girl",
+        "total_views": 510,
+        "num_of_artefacts_tagged_in": 17,
+        "avg_view_per_artefact": 30
+    },
+    {
+        "name": "Coffee Cup",
+        "total_views": 2636,
+        "num_of_artefacts_tagged_in": 88,
+        "avg_view_per_artefact": 29.954545454545453
+    },
+    {
+        "name": "Invertebrate",
+        "total_views": 5450,
+        "num_of_artefacts_tagged_in": 182,
+        "avg_view_per_artefact": 29.945054945054945
+    },
+    {
+        "name": "Bunker",
+        "total_views": 957,
+        "num_of_artefacts_tagged_in": 32,
+        "avg_view_per_artefact": 29.90625
+    },
+    {
+        "name": "Page",
+        "total_views": 16040,
+        "num_of_artefacts_tagged_in": 538,
+        "avg_view_per_artefact": 29.814126394052046
+    },
+    {
+        "name": "Balloon",
+        "total_views": 445,
+        "num_of_artefacts_tagged_in": 15,
+        "avg_view_per_artefact": 29.666666666666668
+    },
+    {
+        "name": "Cuff",
+        "total_views": 3821,
+        "num_of_artefacts_tagged_in": 129,
+        "avg_view_per_artefact": 29.62015503875969
+    },
+    {
+        "name": "Refinery",
+        "total_views": 266,
+        "num_of_artefacts_tagged_in": 9,
+        "avg_view_per_artefact": 29.555555555555557
+    },
+    {
+        "name": "Fire Screen",
+        "total_views": 353,
+        "num_of_artefacts_tagged_in": 12,
+        "avg_view_per_artefact": 29.416666666666668
+    },
+    {
+        "name": "Badge",
+        "total_views": 2937,
+        "num_of_artefacts_tagged_in": 100,
+        "avg_view_per_artefact": 29.37
+    },
+    {
+        "name": "Soup Bowl",
+        "total_views": 2903,
+        "num_of_artefacts_tagged_in": 99,
+        "avg_view_per_artefact": 29.32323232323232
+    },
+    {
+        "name": "Accessories",
+        "total_views": 63407,
+        "num_of_artefacts_tagged_in": 2163,
+        "avg_view_per_artefact": 29.314378178455847
+    },
+    {
+        "name": "Accessory",
+        "total_views": 60311,
+        "num_of_artefacts_tagged_in": 2058,
+        "avg_view_per_artefact": 29.30563654033042
+    },
+    {
+        "name": "Slope",
+        "total_views": 350,
+        "num_of_artefacts_tagged_in": 12,
+        "avg_view_per_artefact": 29.166666666666668
+    },
+    {
+        "name": "Horse",
+        "total_views": 6693,
+        "num_of_artefacts_tagged_in": 231,
+        "avg_view_per_artefact": 28.974025974025974
+    },
+    {
+        "name": "Freight Car",
+        "total_views": 5099,
+        "num_of_artefacts_tagged_in": 176,
+        "avg_view_per_artefact": 28.97159090909091
+    },
+    {
+        "name": "Tandem Bicycle",
+        "total_views": 518,
+        "num_of_artefacts_tagged_in": 18,
+        "avg_view_per_artefact": 28.77777777777778
+    },
+    {
+        "name": "Brush",
+        "total_views": 5325,
+        "num_of_artefacts_tagged_in": 186,
+        "avg_view_per_artefact": 28.629032258064516
+    },
+    {
+        "name": "Lace",
+        "total_views": 286,
+        "num_of_artefacts_tagged_in": 10,
+        "avg_view_per_artefact": 28.6
+    },
+    {
+        "name": "Gauge",
+        "total_views": 6944,
+        "num_of_artefacts_tagged_in": 243,
+        "avg_view_per_artefact": 28.5761316872428
+    },
+    {
+        "name": "Horseshoe",
+        "total_views": 171,
+        "num_of_artefacts_tagged_in": 6,
+        "avg_view_per_artefact": 28.5
+    },
+    {
+        "name": "Headband",
+        "total_views": 312,
+        "num_of_artefacts_tagged_in": 11,
+        "avg_view_per_artefact": 28.363636363636363
+    },
+    {
+        "name": "Mountain",
+        "total_views": 2257,
+        "num_of_artefacts_tagged_in": 80,
+        "avg_view_per_artefact": 28.2125
+    },
+    {
+        "name": "Bangles",
+        "total_views": 141,
+        "num_of_artefacts_tagged_in": 5,
+        "avg_view_per_artefact": 28.2
+    },
+    {
+        "name": "Baseball Bat",
+        "total_views": 4116,
+        "num_of_artefacts_tagged_in": 146,
+        "avg_view_per_artefact": 28.19178082191781
+    },
+    {
+        "name": "Egg",
+        "total_views": 1490,
+        "num_of_artefacts_tagged_in": 53,
+        "avg_view_per_artefact": 28.11320754716981
+    },
+    {
+        "name": "Night",
+        "total_views": 2822,
+        "num_of_artefacts_tagged_in": 101,
+        "avg_view_per_artefact": 27.940594059405942
+    },
+    {
+        "name": "Milk",
+        "total_views": 18881,
+        "num_of_artefacts_tagged_in": 676,
+        "avg_view_per_artefact": 27.930473372781066
+    },
+    {
+        "name": "Fuse",
+        "total_views": 3875,
+        "num_of_artefacts_tagged_in": 139,
+        "avg_view_per_artefact": 27.87769784172662
+    },
+    {
+        "name": "Trash Can",
+        "total_views": 223,
+        "num_of_artefacts_tagged_in": 8,
+        "avg_view_per_artefact": 27.875
+    },
+    {
+        "name": "Lobster",
+        "total_views": 388,
+        "num_of_artefacts_tagged_in": 14,
+        "avg_view_per_artefact": 27.714285714285715
+    },
+    {
+        "name": "Game",
+        "total_views": 3518,
+        "num_of_artefacts_tagged_in": 127,
+        "avg_view_per_artefact": 27.700787401574804
+    },
+    {
+        "name": "Seafood",
+        "total_views": 442,
+        "num_of_artefacts_tagged_in": 16,
+        "avg_view_per_artefact": 27.625
+    },
+    {
+        "name": "Pencil Box",
+        "total_views": 2914,
+        "num_of_artefacts_tagged_in": 106,
+        "avg_view_per_artefact": 27.49056603773585
+    },
+    {
+        "name": "Bowl",
+        "total_views": 10341,
+        "num_of_artefacts_tagged_in": 377,
+        "avg_view_per_artefact": 27.42970822281167
+    },
+    {
+        "name": "Smoke Pipe",
+        "total_views": 12476,
+        "num_of_artefacts_tagged_in": 456,
+        "avg_view_per_artefact": 27.359649122807017
+    },
+    {
+        "name": "Football",
+        "total_views": 245,
+        "num_of_artefacts_tagged_in": 9,
+        "avg_view_per_artefact": 27.22222222222222
+    },
+    {
+        "name": "Tiki",
+        "total_views": 1277,
+        "num_of_artefacts_tagged_in": 47,
+        "avg_view_per_artefact": 27.170212765957448
+    },
+    {
+        "name": "Military Uniform",
+        "total_views": 2811,
+        "num_of_artefacts_tagged_in": 104,
+        "avg_view_per_artefact": 27.028846153846153
+    },
+    {
+        "name": "Moon",
+        "total_views": 2297,
+        "num_of_artefacts_tagged_in": 85,
+        "avg_view_per_artefact": 27.023529411764706
+    },
+    {
+        "name": "Totem",
+        "total_views": 1405,
+        "num_of_artefacts_tagged_in": 52,
+        "avg_view_per_artefact": 27.01923076923077
+    },
+    {
+        "name": "Tree",
+        "total_views": 2773,
+        "num_of_artefacts_tagged_in": 103,
+        "avg_view_per_artefact": 26.92233009708738
+    },
+    {
+        "name": "Army",
+        "total_views": 1129,
+        "num_of_artefacts_tagged_in": 42,
+        "avg_view_per_artefact": 26.88095238095238
+    },
+    {
+        "name": "Ink Bottle",
+        "total_views": 1576,
+        "num_of_artefacts_tagged_in": 59,
+        "avg_view_per_artefact": 26.71186440677966
+    },
+    {
+        "name": "Slingshot",
+        "total_views": 961,
+        "num_of_artefacts_tagged_in": 36,
+        "avg_view_per_artefact": 26.694444444444443
+    },
+    {
+        "name": "Bomb",
+        "total_views": 4778,
+        "num_of_artefacts_tagged_in": 179,
+        "avg_view_per_artefact": 26.692737430167597
+    },
+    {
+        "name": "Snowflake",
+        "total_views": 293,
+        "num_of_artefacts_tagged_in": 11,
+        "avg_view_per_artefact": 26.636363636363637
+    },
+    {
+        "name": "Railing",
+        "total_views": 185,
+        "num_of_artefacts_tagged_in": 7,
+        "avg_view_per_artefact": 26.428571428571427
+    },
+    {
+        "name": "Laughing",
+        "total_views": 132,
+        "num_of_artefacts_tagged_in": 5,
+        "avg_view_per_artefact": 26.4
+    },
+    {
+        "name": "Sun Hat",
+        "total_views": 422,
+        "num_of_artefacts_tagged_in": 16,
+        "avg_view_per_artefact": 26.375
+    },
+    {
+        "name": "Armored",
+        "total_views": 1028,
+        "num_of_artefacts_tagged_in": 39,
+        "avg_view_per_artefact": 26.358974358974358
+    },
+    {
+        "name": "Hearth",
+        "total_views": 158,
+        "num_of_artefacts_tagged_in": 6,
+        "avg_view_per_artefact": 26.333333333333332
+    },
+    {
+        "name": "Dinosaur",
+        "total_views": 236,
+        "num_of_artefacts_tagged_in": 9,
+        "avg_view_per_artefact": 26.22222222222222
+    },
+    {
+        "name": "Tuxedo",
+        "total_views": 1204,
+        "num_of_artefacts_tagged_in": 46,
+        "avg_view_per_artefact": 26.17391304347826
+    },
+    {
+        "name": "T-Shirt",
+        "total_views": 156,
+        "num_of_artefacts_tagged_in": 6,
+        "avg_view_per_artefact": 26
+    },
+    {
+        "name": "Weather",
+        "total_views": 572,
+        "num_of_artefacts_tagged_in": 22,
+        "avg_view_per_artefact": 26
+    },
+    {
+        "name": "Soldier",
+        "total_views": 390,
+        "num_of_artefacts_tagged_in": 15,
+        "avg_view_per_artefact": 26
+    },
+    {
+        "name": "Turtle",
+        "total_views": 2126,
+        "num_of_artefacts_tagged_in": 82,
+        "avg_view_per_artefact": 25.926829268292682
+    },
+    {
+        "name": "Cane",
+        "total_views": 1218,
+        "num_of_artefacts_tagged_in": 47,
+        "avg_view_per_artefact": 25.914893617021278
+    },
+    {
+        "name": "Sport",
+        "total_views": 9633,
+        "num_of_artefacts_tagged_in": 372,
+        "avg_view_per_artefact": 25.89516129032258
+    },
+    {
+        "name": "Cork",
+        "total_views": 3155,
+        "num_of_artefacts_tagged_in": 122,
+        "avg_view_per_artefact": 25.860655737704917
+    },
+    {
+        "name": "Flower",
+        "total_views": 1267,
+        "num_of_artefacts_tagged_in": 49,
+        "avg_view_per_artefact": 25.857142857142858
+    },
+    {
+        "name": "Produce",
+        "total_views": 3756,
+        "num_of_artefacts_tagged_in": 146,
+        "avg_view_per_artefact": 25.726027397260275
+    },
+    {
+        "name": "Shaker",
+        "total_views": 16913,
+        "num_of_artefacts_tagged_in": 658,
+        "avg_view_per_artefact": 25.703647416413375
+    },
+    {
+        "name": "Watering Can",
+        "total_views": 231,
+        "num_of_artefacts_tagged_in": 9,
+        "avg_view_per_artefact": 25.666666666666668
+    },
+    {
+        "name": "Hot Dog",
+        "total_views": 128,
+        "num_of_artefacts_tagged_in": 5,
+        "avg_view_per_artefact": 25.6
+    },
+    {
+        "name": "Flag",
+        "total_views": 307,
+        "num_of_artefacts_tagged_in": 12,
+        "avg_view_per_artefact": 25.583333333333332
+    },
+    {
+        "name": "Mallet",
+        "total_views": 917,
+        "num_of_artefacts_tagged_in": 36,
+        "avg_view_per_artefact": 25.47222222222222
+    },
+    {
+        "name": "Grove",
+        "total_views": 127,
+        "num_of_artefacts_tagged_in": 5,
+        "avg_view_per_artefact": 25.4
+    },
+    {
+        "name": "Blanket",
+        "total_views": 177,
+        "num_of_artefacts_tagged_in": 7,
+        "avg_view_per_artefact": 25.285714285714285
+    },
+    {
+        "name": "Soap",
+        "total_views": 2096,
+        "num_of_artefacts_tagged_in": 83,
+        "avg_view_per_artefact": 25.253012048192772
+    },
+    {
+        "name": "Staircase",
+        "total_views": 226,
+        "num_of_artefacts_tagged_in": 9,
+        "avg_view_per_artefact": 25.11111111111111
+    },
+    {
+        "name": "Arm",
+        "total_views": 351,
+        "num_of_artefacts_tagged_in": 14,
+        "avg_view_per_artefact": 25.071428571428573
+    },
+    {
+        "name": "Diary",
+        "total_views": 3439,
+        "num_of_artefacts_tagged_in": 138,
+        "avg_view_per_artefact": 24.920289855072465
+    },
+    {
+        "name": "Nebula",
+        "total_views": 199,
+        "num_of_artefacts_tagged_in": 8,
+        "avg_view_per_artefact": 24.875
+    },
+    {
+        "name": "Water Bottle",
+        "total_views": 149,
+        "num_of_artefacts_tagged_in": 6,
+        "avg_view_per_artefact": 24.833333333333332
+    },
+    {
+        "name": "Juice",
+        "total_views": 173,
+        "num_of_artefacts_tagged_in": 7,
+        "avg_view_per_artefact": 24.714285714285715
+    },
+    {
+        "name": "Sports",
+        "total_views": 8598,
+        "num_of_artefacts_tagged_in": 350,
+        "avg_view_per_artefact": 24.565714285714286
+    },
+    {
+        "name": "Hammer",
+        "total_views": 16655,
+        "num_of_artefacts_tagged_in": 678,
+        "avg_view_per_artefact": 24.56489675516224
+    },
+    {
+        "name": "Linen",
+        "total_views": 1055,
+        "num_of_artefacts_tagged_in": 43,
+        "avg_view_per_artefact": 24.53488372093023
+    },
+    {
+        "name": "Buddha",
+        "total_views": 196,
+        "num_of_artefacts_tagged_in": 8,
+        "avg_view_per_artefact": 24.5
+    },
+    {
+        "name": "Stopwatch",
+        "total_views": 318,
+        "num_of_artefacts_tagged_in": 13,
+        "avg_view_per_artefact": 24.46153846153846
+    },
+    {
+        "name": "Meal",
+        "total_views": 3937,
+        "num_of_artefacts_tagged_in": 161,
+        "avg_view_per_artefact": 24.453416149068325
+    },
+    {
+        "name": "Pollution",
+        "total_views": 220,
+        "num_of_artefacts_tagged_in": 9,
+        "avg_view_per_artefact": 24.444444444444443
+    },
+    {
+        "name": "Bridge",
+        "total_views": 2925,
+        "num_of_artefacts_tagged_in": 120,
+        "avg_view_per_artefact": 24.375
+    },
+    {
+        "name": "Tablecloth",
+        "total_views": 146,
+        "num_of_artefacts_tagged_in": 6,
+        "avg_view_per_artefact": 24.333333333333332
+    },
+    {
+        "name": "Viaduct",
+        "total_views": 729,
+        "num_of_artefacts_tagged_in": 30,
+        "avg_view_per_artefact": 24.3
+    },
+    {
+        "name": "Flagstone",
+        "total_views": 266,
+        "num_of_artefacts_tagged_in": 11,
+        "avg_view_per_artefact": 24.181818181818183
+    },
+    {
+        "name": "Bandage",
+        "total_views": 701,
+        "num_of_artefacts_tagged_in": 29,
+        "avg_view_per_artefact": 24.17241379310345
+    },
+    {
+        "name": "Cyclist",
+        "total_views": 217,
+        "num_of_artefacts_tagged_in": 9,
+        "avg_view_per_artefact": 24.11111111111111
+    },
+    {
+        "name": "Sitting",
+        "total_views": 1591,
+        "num_of_artefacts_tagged_in": 66,
+        "avg_view_per_artefact": 24.106060606060606
+    },
+    {
+        "name": "Stein",
+        "total_views": 721,
+        "num_of_artefacts_tagged_in": 30,
+        "avg_view_per_artefact": 24.033333333333335
+    },
+    {
+        "name": "Comet",
+        "total_views": 336,
+        "num_of_artefacts_tagged_in": 14,
+        "avg_view_per_artefact": 24
+    },
+    {
+        "name": "Arrow",
+        "total_views": 22811,
+        "num_of_artefacts_tagged_in": 953,
+        "avg_view_per_artefact": 23.935991605456454
+    },
+    {
+        "name": "Jacket",
+        "total_views": 1474,
+        "num_of_artefacts_tagged_in": 62,
+        "avg_view_per_artefact": 23.774193548387096
+    },
+    {
+        "name": "Power Drill",
+        "total_views": 261,
+        "num_of_artefacts_tagged_in": 11,
+        "avg_view_per_artefact": 23.727272727272727
+    },
+    {
+        "name": "Sunglasses",
+        "total_views": 5665,
+        "num_of_artefacts_tagged_in": 240,
+        "avg_view_per_artefact": 23.604166666666668
+    },
+    {
+        "name": "Ornament",
+        "total_views": 2428,
+        "num_of_artefacts_tagged_in": 103,
+        "avg_view_per_artefact": 23.57281553398058
+    },
+    {
+        "name": "Drawing",
+        "total_views": 21105,
+        "num_of_artefacts_tagged_in": 897,
+        "avg_view_per_artefact": 23.528428093645484
+    },
+    {
+        "name": "Alloy Wheel",
+        "total_views": 776,
+        "num_of_artefacts_tagged_in": 33,
+        "avg_view_per_artefact": 23.515151515151516
+    },
+    {
+        "name": "Sheet Music",
+        "total_views": 188,
+        "num_of_artefacts_tagged_in": 8,
+        "avg_view_per_artefact": 23.5
+    },
+    {
+        "name": "Eruption",
+        "total_views": 116,
+        "num_of_artefacts_tagged_in": 5,
+        "avg_view_per_artefact": 23.2
+    },
+    {
+        "name": "Gravel",
+        "total_views": 162,
+        "num_of_artefacts_tagged_in": 7,
+        "avg_view_per_artefact": 23.142857142857142
+    },
+    {
+        "name": "Newspaper",
+        "total_views": 5043,
+        "num_of_artefacts_tagged_in": 218,
+        "avg_view_per_artefact": 23.13302752293578
+    },
+    {
+        "name": "Snowman",
+        "total_views": 208,
+        "num_of_artefacts_tagged_in": 9,
+        "avg_view_per_artefact": 23.11111111111111
+    },
+    {
+        "name": "Seed",
+        "total_views": 714,
+        "num_of_artefacts_tagged_in": 31,
+        "avg_view_per_artefact": 23.032258064516128
+    },
+    {
+        "name": "Sailor Suit",
+        "total_views": 161,
+        "num_of_artefacts_tagged_in": 7,
+        "avg_view_per_artefact": 23
+    },
+    {
+        "name": "Sled",
+        "total_views": 735,
+        "num_of_artefacts_tagged_in": 32,
+        "avg_view_per_artefact": 22.96875
+    },
+    {
+        "name": "Weapon",
+        "total_views": 147713,
+        "num_of_artefacts_tagged_in": 6450,
+        "avg_view_per_artefact": 22.90124031007752
+    },
+    {
+        "name": "Weaponry",
+        "total_views": 147356,
+        "num_of_artefacts_tagged_in": 6441,
+        "avg_view_per_artefact": 22.87781400403664
+    },
+    {
+        "name": "Apse",
+        "total_views": 183,
+        "num_of_artefacts_tagged_in": 8,
+        "avg_view_per_artefact": 22.875
+    },
+    {
+        "name": "Flute",
+        "total_views": 707,
+        "num_of_artefacts_tagged_in": 31,
+        "avg_view_per_artefact": 22.806451612903224
+    },
+    {
+        "name": "Troop",
+        "total_views": 205,
+        "num_of_artefacts_tagged_in": 9,
+        "avg_view_per_artefact": 22.77777777777778
+    },
+    {
+        "name": "Softball",
+        "total_views": 4345,
+        "num_of_artefacts_tagged_in": 191,
+        "avg_view_per_artefact": 22.74869109947644
+    },
+    {
+        "name": "Sink",
+        "total_views": 475,
+        "num_of_artefacts_tagged_in": 21,
+        "avg_view_per_artefact": 22.61904761904762
+    },
+    {
+        "name": "Baseball",
+        "total_views": 4458,
+        "num_of_artefacts_tagged_in": 198,
+        "avg_view_per_artefact": 22.515151515151516
+    },
+    {
+        "name": "Handsaw",
+        "total_views": 1911,
+        "num_of_artefacts_tagged_in": 85,
+        "avg_view_per_artefact": 22.48235294117647
+    },
+    {
+        "name": "Hacksaw",
+        "total_views": 1911,
+        "num_of_artefacts_tagged_in": 85,
+        "avg_view_per_artefact": 22.48235294117647
+    },
+    {
+        "name": "Injection",
+        "total_views": 3597,
+        "num_of_artefacts_tagged_in": 161,
+        "avg_view_per_artefact": 22.341614906832298
+    },
+    {
+        "name": "Horn",
+        "total_views": 1004,
+        "num_of_artefacts_tagged_in": 45,
+        "avg_view_per_artefact": 22.31111111111111
+    },
+    {
+        "name": "Maraca",
+        "total_views": 178,
+        "num_of_artefacts_tagged_in": 8,
+        "avg_view_per_artefact": 22.25
+    },
+    {
+        "name": "Stick",
+        "total_views": 4420,
+        "num_of_artefacts_tagged_in": 199,
+        "avg_view_per_artefact": 22.21105527638191
+    },
+    {
+        "name": "Anthracite",
+        "total_views": 244,
+        "num_of_artefacts_tagged_in": 11,
+        "avg_view_per_artefact": 22.181818181818183
+    },
+    {
+        "name": "Team Sport",
+        "total_views": 6142,
+        "num_of_artefacts_tagged_in": 277,
+        "avg_view_per_artefact": 22.173285198555956
+    },
+    {
+        "name": "China Cabinet",
+        "total_views": 264,
+        "num_of_artefacts_tagged_in": 12,
+        "avg_view_per_artefact": 22
+    },
+    {
+        "name": "Team",
+        "total_views": 5986,
+        "num_of_artefacts_tagged_in": 274,
+        "avg_view_per_artefact": 21.846715328467152
+    },
+    {
+        "name": "Dresser",
+        "total_views": 109,
+        "num_of_artefacts_tagged_in": 5,
+        "avg_view_per_artefact": 21.8
+    },
+    {
+        "name": "Alleyway",
+        "total_views": 174,
+        "num_of_artefacts_tagged_in": 8,
+        "avg_view_per_artefact": 21.75
+    },
+    {
+        "name": "Yard",
+        "total_views": 174,
+        "num_of_artefacts_tagged_in": 8,
+        "avg_view_per_artefact": 21.75
+    },
+    {
+        "name": "Tap",
+        "total_views": 195,
+        "num_of_artefacts_tagged_in": 9,
+        "avg_view_per_artefact": 21.666666666666668
+    },
+    {
+        "name": "Grain",
+        "total_views": 714,
+        "num_of_artefacts_tagged_in": 33,
+        "avg_view_per_artefact": 21.636363636363637
+    },
+    {
+        "name": "Grassland",
+        "total_views": 108,
+        "num_of_artefacts_tagged_in": 5,
+        "avg_view_per_artefact": 21.6
+    },
+    {
+        "name": "Glider",
+        "total_views": 107,
+        "num_of_artefacts_tagged_in": 5,
+        "avg_view_per_artefact": 21.4
+    },
+    {
+        "name": "Tapestry",
+        "total_views": 128,
+        "num_of_artefacts_tagged_in": 6,
+        "avg_view_per_artefact": 21.333333333333332
+    },
+    {
+        "name": "Coyote",
+        "total_views": 128,
+        "num_of_artefacts_tagged_in": 6,
+        "avg_view_per_artefact": 21.333333333333332
+    },
+    {
+        "name": "Shovel",
+        "total_views": 1294,
+        "num_of_artefacts_tagged_in": 61,
+        "avg_view_per_artefact": 21.21311475409836
+    },
+    {
+        "name": "Hoop",
+        "total_views": 762,
+        "num_of_artefacts_tagged_in": 36,
+        "avg_view_per_artefact": 21.166666666666668
+    },
+    {
+        "name": "Bar Counter",
+        "total_views": 105,
+        "num_of_artefacts_tagged_in": 5,
+        "avg_view_per_artefact": 21
+    },
+    {
+        "name": "Cushion",
+        "total_views": 3758,
+        "num_of_artefacts_tagged_in": 179,
+        "avg_view_per_artefact": 20.99441340782123
+    },
+    {
+        "name": "Turquoise",
+        "total_views": 188,
+        "num_of_artefacts_tagged_in": 9,
+        "avg_view_per_artefact": 20.88888888888889
+    },
+    {
+        "name": "Blazer",
+        "total_views": 1084,
+        "num_of_artefacts_tagged_in": 52,
+        "avg_view_per_artefact": 20.846153846153847
+    },
+    {
+        "name": "Goblet",
+        "total_views": 2871,
+        "num_of_artefacts_tagged_in": 138,
+        "avg_view_per_artefact": 20.804347826086957
+    },
+    {
+        "name": "Shower Faucet",
+        "total_views": 311,
+        "num_of_artefacts_tagged_in": 15,
+        "avg_view_per_artefact": 20.733333333333334
+    },
+    {
+        "name": "Teapot",
+        "total_views": 744,
+        "num_of_artefacts_tagged_in": 36,
+        "avg_view_per_artefact": 20.666666666666668
+    },
+    {
+        "name": "Tool",
+        "total_views": 67850,
+        "num_of_artefacts_tagged_in": 3284,
+        "avg_view_per_artefact": 20.660779537149818
+    },
+    {
+        "name": "Mirror",
+        "total_views": 227,
+        "num_of_artefacts_tagged_in": 11,
+        "avg_view_per_artefact": 20.636363636363637
+    },
+    {
+        "name": "Sign",
+        "total_views": 741,
+        "num_of_artefacts_tagged_in": 36,
+        "avg_view_per_artefact": 20.583333333333332
+    },
+    {
+        "name": "Sleeve",
+        "total_views": 1229,
+        "num_of_artefacts_tagged_in": 60,
+        "avg_view_per_artefact": 20.483333333333334
+    },
+    {
+        "name": "Blossom",
+        "total_views": 831,
+        "num_of_artefacts_tagged_in": 41,
+        "avg_view_per_artefact": 20.26829268292683
+    },
+    {
+        "name": "Ground",
+        "total_views": 304,
+        "num_of_artefacts_tagged_in": 15,
+        "avg_view_per_artefact": 20.266666666666666
+    },
+    {
+        "name": "Bell Tower",
+        "total_views": 182,
+        "num_of_artefacts_tagged_in": 9,
+        "avg_view_per_artefact": 20.22222222222222
+    },
+    {
+        "name": "Clutch Wheel",
+        "total_views": 202,
+        "num_of_artefacts_tagged_in": 10,
+        "avg_view_per_artefact": 20.2
+    },
+    {
+        "name": "Demolition",
+        "total_views": 121,
+        "num_of_artefacts_tagged_in": 6,
+        "avg_view_per_artefact": 20.166666666666668
+    },
+    {
+        "name": "Stage",
+        "total_views": 141,
+        "num_of_artefacts_tagged_in": 7,
+        "avg_view_per_artefact": 20.142857142857142
+    },
+    {
+        "name": "Tunnel",
+        "total_views": 362,
+        "num_of_artefacts_tagged_in": 18,
+        "avg_view_per_artefact": 20.11111111111111
+    },
+    {
+        "name": "Mineral",
+        "total_views": 1909,
+        "num_of_artefacts_tagged_in": 95,
+        "avg_view_per_artefact": 20.094736842105263
+    },
+    {
+        "name": "Dish",
+        "total_views": 2621,
+        "num_of_artefacts_tagged_in": 131,
+        "avg_view_per_artefact": 20.00763358778626
+    },
+    {
+        "name": "Broom",
+        "total_views": 220,
+        "num_of_artefacts_tagged_in": 11,
+        "avg_view_per_artefact": 20
+    },
+    {
+        "name": "Word",
+        "total_views": 4871,
+        "num_of_artefacts_tagged_in": 246,
+        "avg_view_per_artefact": 19.80081300813008
+    },
+    {
+        "name": "Sewer",
+        "total_views": 138,
+        "num_of_artefacts_tagged_in": 7,
+        "avg_view_per_artefact": 19.714285714285715
+    },
+    {
+        "name": "Long Sleeve",
+        "total_views": 781,
+        "num_of_artefacts_tagged_in": 40,
+        "avg_view_per_artefact": 19.525
+    },
+    {
+        "name": "Forge",
+        "total_views": 214,
+        "num_of_artefacts_tagged_in": 11,
+        "avg_view_per_artefact": 19.454545454545453
+    },
+    {
+        "name": "Bead",
+        "total_views": 948,
+        "num_of_artefacts_tagged_in": 49,
+        "avg_view_per_artefact": 19.346938775510203
+    },
+    {
+        "name": "Letter",
+        "total_views": 1175,
+        "num_of_artefacts_tagged_in": 61,
+        "avg_view_per_artefact": 19.262295081967213
+    },
+    {
+        "name": "Crystal",
+        "total_views": 3013,
+        "num_of_artefacts_tagged_in": 157,
+        "avg_view_per_artefact": 19.191082802547772
+    },
+    {
+        "name": "Pottery",
+        "total_views": 37628,
+        "num_of_artefacts_tagged_in": 1972,
+        "avg_view_per_artefact": 19.081135902636916
+    },
+    {
+        "name": "Banana",
+        "total_views": 722,
+        "num_of_artefacts_tagged_in": 38,
+        "avg_view_per_artefact": 19
+    },
+    {
+        "name": "Bear",
+        "total_views": 133,
+        "num_of_artefacts_tagged_in": 7,
+        "avg_view_per_artefact": 19
+    },
+    {
+        "name": "Envelope",
+        "total_views": 1737,
+        "num_of_artefacts_tagged_in": 92,
+        "avg_view_per_artefact": 18.880434782608695
+    },
+    {
+        "name": "Sweets",
+        "total_views": 1831,
+        "num_of_artefacts_tagged_in": 97,
+        "avg_view_per_artefact": 18.876288659793815
+    },
+    {
+        "name": "Headlight",
+        "total_views": 132,
+        "num_of_artefacts_tagged_in": 7,
+        "avg_view_per_artefact": 18.857142857142858
+    },
+    {
+        "name": "Leaf",
+        "total_views": 508,
+        "num_of_artefacts_tagged_in": 27,
+        "avg_view_per_artefact": 18.814814814814813
+    },
+    {
+        "name": "Number",
+        "total_views": 862,
+        "num_of_artefacts_tagged_in": 46,
+        "avg_view_per_artefact": 18.73913043478261
+    },
+    {
+        "name": "Winter",
+        "total_views": 337,
+        "num_of_artefacts_tagged_in": 18,
+        "avg_view_per_artefact": 18.72222222222222
+    },
+    {
+        "name": "Handwriting",
+        "total_views": 2801,
+        "num_of_artefacts_tagged_in": 151,
+        "avg_view_per_artefact": 18.549668874172184
+    },
+    {
+        "name": "Water Jug",
+        "total_views": 369,
+        "num_of_artefacts_tagged_in": 20,
+        "avg_view_per_artefact": 18.45
+    },
+    {
+        "name": "Khaki",
+        "total_views": 424,
+        "num_of_artefacts_tagged_in": 23,
+        "avg_view_per_artefact": 18.434782608695652
+    },
+    {
+        "name": "Brewery",
+        "total_views": 129,
+        "num_of_artefacts_tagged_in": 7,
+        "avg_view_per_artefact": 18.428571428571427
+    },
+    {
+        "name": "Golf",
+        "total_views": 534,
+        "num_of_artefacts_tagged_in": 29,
+        "avg_view_per_artefact": 18.413793103448278
+    },
+    {
+        "name": "Corridor",
+        "total_views": 404,
+        "num_of_artefacts_tagged_in": 22,
+        "avg_view_per_artefact": 18.363636363636363
+    },
+    {
+        "name": "Brass Section",
+        "total_views": 1596,
+        "num_of_artefacts_tagged_in": 87,
+        "avg_view_per_artefact": 18.344827586206897
+    },
+    {
+        "name": "Quartz",
+        "total_views": 311,
+        "num_of_artefacts_tagged_in": 17,
+        "avg_view_per_artefact": 18.294117647058822
+    },
+    {
+        "name": "Diploma",
+        "total_views": 585,
+        "num_of_artefacts_tagged_in": 32,
+        "avg_view_per_artefact": 18.28125
+    },
+    {
+        "name": "Urn",
+        "total_views": 2417,
+        "num_of_artefacts_tagged_in": 133,
+        "avg_view_per_artefact": 18.172932330827066
+    },
+    {
+        "name": "Platter",
+        "total_views": 545,
+        "num_of_artefacts_tagged_in": 30,
+        "avg_view_per_artefact": 18.166666666666668
+    },
+    {
+        "name": "Flight",
+        "total_views": 109,
+        "num_of_artefacts_tagged_in": 6,
+        "avg_view_per_artefact": 18.166666666666668
+    },
+    {
+        "name": "Confectionery",
+        "total_views": 1739,
+        "num_of_artefacts_tagged_in": 96,
+        "avg_view_per_artefact": 18.114583333333332
+    },
+    {
+        "name": "Hair",
+        "total_views": 163,
+        "num_of_artefacts_tagged_in": 9,
+        "avg_view_per_artefact": 18.11111111111111
+    },
+    {
+        "name": "Razor",
+        "total_views": 5676,
+        "num_of_artefacts_tagged_in": 315,
+        "avg_view_per_artefact": 18.01904761904762
+    },
+    {
+        "name": "Digital Clock",
+        "total_views": 90,
+        "num_of_artefacts_tagged_in": 5,
+        "avg_view_per_artefact": 18
+    },
+    {
+        "name": "Crate",
+        "total_views": 502,
+        "num_of_artefacts_tagged_in": 28,
+        "avg_view_per_artefact": 17.928571428571427
+    },
+    {
+        "name": "Axe",
+        "total_views": 6240,
+        "num_of_artefacts_tagged_in": 349,
+        "avg_view_per_artefact": 17.879656160458453
+    },
+    {
+        "name": "Woodland",
+        "total_views": 178,
+        "num_of_artefacts_tagged_in": 10,
+        "avg_view_per_artefact": 17.8
+    },
+    {
+        "name": "Skirt",
+        "total_views": 391,
+        "num_of_artefacts_tagged_in": 22,
+        "avg_view_per_artefact": 17.772727272727273
+    },
+    {
+        "name": "Raincoat",
+        "total_views": 142,
+        "num_of_artefacts_tagged_in": 8,
+        "avg_view_per_artefact": 17.75
+    },
+    {
+        "name": "Dynamite",
+        "total_views": 797,
+        "num_of_artefacts_tagged_in": 45,
+        "avg_view_per_artefact": 17.711111111111112
+    },
+    {
+        "name": "Insect",
+        "total_views": 2067,
+        "num_of_artefacts_tagged_in": 117,
+        "avg_view_per_artefact": 17.666666666666668
+    },
+    {
+        "name": "Funeral",
+        "total_views": 265,
+        "num_of_artefacts_tagged_in": 15,
+        "avg_view_per_artefact": 17.666666666666668
+    },
+    {
+        "name": "Platinum",
+        "total_views": 123,
+        "num_of_artefacts_tagged_in": 7,
+        "avg_view_per_artefact": 17.571428571428573
+    },
+    {
+        "name": "Porcelain",
+        "total_views": 16005,
+        "num_of_artefacts_tagged_in": 911,
+        "avg_view_per_artefact": 17.56860592755214
+    },
+    {
+        "name": "Lens Cap",
+        "total_views": 650,
+        "num_of_artefacts_tagged_in": 37,
+        "avg_view_per_artefact": 17.56756756756757
+    },
+    {
+        "name": "Jug",
+        "total_views": 3711,
+        "num_of_artefacts_tagged_in": 212,
+        "avg_view_per_artefact": 17.504716981132077
+    },
+    {
+        "name": "Lamp Post",
+        "total_views": 140,
+        "num_of_artefacts_tagged_in": 8,
+        "avg_view_per_artefact": 17.5
+    },
+    {
+        "name": "Construction",
+        "total_views": 384,
+        "num_of_artefacts_tagged_in": 22,
+        "avg_view_per_artefact": 17.454545454545453
+    },
+    {
+        "name": "Wall",
+        "total_views": 157,
+        "num_of_artefacts_tagged_in": 9,
+        "avg_view_per_artefact": 17.444444444444443
+    },
+    {
+        "name": "Lumber",
+        "total_views": 191,
+        "num_of_artefacts_tagged_in": 11,
+        "avg_view_per_artefact": 17.363636363636363
+    },
+    {
+        "name": "Sword",
+        "total_views": 14989,
+        "num_of_artefacts_tagged_in": 864,
+        "avg_view_per_artefact": 17.34837962962963
+    },
+    {
+        "name": "Screw",
+        "total_views": 3827,
+        "num_of_artefacts_tagged_in": 221,
+        "avg_view_per_artefact": 17.316742081447963
+    },
+    {
+        "name": "Mail",
+        "total_views": 986,
+        "num_of_artefacts_tagged_in": 57,
+        "avg_view_per_artefact": 17.29824561403509
+    },
+    {
+        "name": "Buggy",
+        "total_views": 119,
+        "num_of_artefacts_tagged_in": 7,
+        "avg_view_per_artefact": 17
+    },
+    {
+        "name": "Sketch",
+        "total_views": 5714,
+        "num_of_artefacts_tagged_in": 337,
+        "avg_view_per_artefact": 16.955489614243323
+    },
+    {
+        "name": "File Binder",
+        "total_views": 2161,
+        "num_of_artefacts_tagged_in": 128,
+        "avg_view_per_artefact": 16.8828125
+    },
+    {
+        "name": "Plastic Wrap",
+        "total_views": 286,
+        "num_of_artefacts_tagged_in": 17,
+        "avg_view_per_artefact": 16.823529411764707
+    },
+    {
+        "name": "Shopping Bag",
+        "total_views": 84,
+        "num_of_artefacts_tagged_in": 5,
+        "avg_view_per_artefact": 16.8
+    },
+    {
+        "name": "Beard",
+        "total_views": 819,
+        "num_of_artefacts_tagged_in": 49,
+        "avg_view_per_artefact": 16.714285714285715
+    },
+    {
+        "name": "Bead Necklace",
+        "total_views": 351,
+        "num_of_artefacts_tagged_in": 21,
+        "avg_view_per_artefact": 16.714285714285715
+    },
+    {
+        "name": "Monastery",
+        "total_views": 116,
+        "num_of_artefacts_tagged_in": 7,
+        "avg_view_per_artefact": 16.571428571428573
+    },
+    {
+        "name": "Spotlight",
+        "total_views": 115,
+        "num_of_artefacts_tagged_in": 7,
+        "avg_view_per_artefact": 16.428571428571427
+    },
+    {
+        "name": "Sack",
+        "total_views": 574,
+        "num_of_artefacts_tagged_in": 35,
+        "avg_view_per_artefact": 16.4
+    },
+    {
+        "name": "Alphabet",
+        "total_views": 1170,
+        "num_of_artefacts_tagged_in": 72,
+        "avg_view_per_artefact": 16.25
+    },
+    {
+        "name": "Cylinder",
+        "total_views": 7421,
+        "num_of_artefacts_tagged_in": 458,
+        "avg_view_per_artefact": 16.20305676855895
+    },
+    {
+        "name": "File Folder",
+        "total_views": 1637,
+        "num_of_artefacts_tagged_in": 102,
+        "avg_view_per_artefact": 16.04901960784314
+    },
+    {
+        "name": "Calligraphy",
+        "total_views": 545,
+        "num_of_artefacts_tagged_in": 34,
+        "avg_view_per_artefact": 16.029411764705884
+    },
+    {
+        "name": "White Board",
+        "total_views": 1201,
+        "num_of_artefacts_tagged_in": 75,
+        "avg_view_per_artefact": 16.013333333333332
+    },
+    {
+        "name": "Glasses",
+        "total_views": 4937,
+        "num_of_artefacts_tagged_in": 309,
+        "avg_view_per_artefact": 15.977346278317151
+    },
+    {
+        "name": "Gemstone",
+        "total_views": 2269,
+        "num_of_artefacts_tagged_in": 143,
+        "avg_view_per_artefact": 15.867132867132867
+    },
+    {
+        "name": "Farm Plow",
+        "total_views": 238,
+        "num_of_artefacts_tagged_in": 15,
+        "avg_view_per_artefact": 15.866666666666667
+    },
+    {
+        "name": "Hot Air Balloon",
+        "total_views": 1650,
+        "num_of_artefacts_tagged_in": 104,
+        "avg_view_per_artefact": 15.865384615384615
+    },
+    {
+        "name": "Frying Pan",
+        "total_views": 111,
+        "num_of_artefacts_tagged_in": 7,
+        "avg_view_per_artefact": 15.857142857142858
+    },
+    {
+        "name": "Wok",
+        "total_views": 111,
+        "num_of_artefacts_tagged_in": 7,
+        "avg_view_per_artefact": 15.857142857142858
+    },
+    {
+        "name": "Candle",
+        "total_views": 111,
+        "num_of_artefacts_tagged_in": 7,
+        "avg_view_per_artefact": 15.857142857142858
+    },
+    {
+        "name": "Key",
+        "total_views": 773,
+        "num_of_artefacts_tagged_in": 49,
+        "avg_view_per_artefact": 15.775510204081632
+    },
+    {
+        "name": "Fruit",
+        "total_views": 1810,
+        "num_of_artefacts_tagged_in": 115,
+        "avg_view_per_artefact": 15.73913043478261
+    },
+    {
+        "name": "Pillow",
+        "total_views": 942,
+        "num_of_artefacts_tagged_in": 60,
+        "avg_view_per_artefact": 15.7
+    },
+    {
+        "name": "Leash",
+        "total_views": 688,
+        "num_of_artefacts_tagged_in": 44,
+        "avg_view_per_artefact": 15.636363636363637
+    },
+    {
+        "name": "Drive Shaft",
+        "total_views": 1780,
+        "num_of_artefacts_tagged_in": 114,
+        "avg_view_per_artefact": 15.614035087719298
+    },
+    {
+        "name": "Bullet",
+        "total_views": 4202,
+        "num_of_artefacts_tagged_in": 270,
+        "avg_view_per_artefact": 15.562962962962963
+    },
+    {
+        "name": "Milk Can",
+        "total_views": 433,
+        "num_of_artefacts_tagged_in": 28,
+        "avg_view_per_artefact": 15.464285714285714
+    },
+    {
+        "name": "Bugle",
+        "total_views": 170,
+        "num_of_artefacts_tagged_in": 11,
+        "avg_view_per_artefact": 15.454545454545455
+    },
+    {
+        "name": "Farm",
+        "total_views": 247,
+        "num_of_artefacts_tagged_in": 16,
+        "avg_view_per_artefact": 15.4375
+    },
+    {
+        "name": "Cowbell",
+        "total_views": 339,
+        "num_of_artefacts_tagged_in": 22,
+        "avg_view_per_artefact": 15.409090909090908
+    },
+    {
+        "name": "Wolf",
+        "total_views": 77,
+        "num_of_artefacts_tagged_in": 5,
+        "avg_view_per_artefact": 15.4
+    },
+    {
+        "name": "Suspension Bridge",
+        "total_views": 122,
+        "num_of_artefacts_tagged_in": 8,
+        "avg_view_per_artefact": 15.25
+    },
+    {
+        "name": "Blade",
+        "total_views": 59410,
+        "num_of_artefacts_tagged_in": 3971,
+        "avg_view_per_artefact": 14.960967010828506
+    },
+    {
+        "name": "Coal",
+        "total_views": 687,
+        "num_of_artefacts_tagged_in": 46,
+        "avg_view_per_artefact": 14.934782608695652
+    },
+    {
+        "name": "Saucer",
+        "total_views": 1460,
+        "num_of_artefacts_tagged_in": 98,
+        "avg_view_per_artefact": 14.89795918367347
+    },
+    {
+        "name": "Vegetable",
+        "total_views": 3433,
+        "num_of_artefacts_tagged_in": 231,
+        "avg_view_per_artefact": 14.86147186147186
+    },
+    {
+        "name": "Spoon",
+        "total_views": 9675,
+        "num_of_artefacts_tagged_in": 652,
+        "avg_view_per_artefact": 14.838957055214724
+    },
+    {
+        "name": "Sea Waves",
+        "total_views": 177,
+        "num_of_artefacts_tagged_in": 12,
+        "avg_view_per_artefact": 14.75
+    },
+    {
+        "name": "Jar",
+        "total_views": 23422,
+        "num_of_artefacts_tagged_in": 1588,
+        "avg_view_per_artefact": 14.749370277078086
+    },
+    {
+        "name": "Rock",
+        "total_views": 5254,
+        "num_of_artefacts_tagged_in": 358,
+        "avg_view_per_artefact": 14.675977653631286
+    },
+    {
+        "name": "Nut",
+        "total_views": 1056,
+        "num_of_artefacts_tagged_in": 72,
+        "avg_view_per_artefact": 14.666666666666666
+    },
+    {
+        "name": "Concrete",
+        "total_views": 73,
+        "num_of_artefacts_tagged_in": 5,
+        "avg_view_per_artefact": 14.6
+    },
+    {
+        "name": "Foil",
+        "total_views": 101,
+        "num_of_artefacts_tagged_in": 7,
+        "avg_view_per_artefact": 14.428571428571429
+    },
+    {
+        "name": "Mountain Range",
+        "total_views": 346,
+        "num_of_artefacts_tagged_in": 24,
+        "avg_view_per_artefact": 14.416666666666666
+    },
+    {
+        "name": "Driftwood",
+        "total_views": 331,
+        "num_of_artefacts_tagged_in": 23,
+        "avg_view_per_artefact": 14.391304347826088
+    },
+    {
+        "name": "Plastic Bag",
+        "total_views": 171,
+        "num_of_artefacts_tagged_in": 12,
+        "avg_view_per_artefact": 14.25
+    },
+    {
+        "name": "Clamp",
+        "total_views": 2455,
+        "num_of_artefacts_tagged_in": 173,
+        "avg_view_per_artefact": 14.190751445086706
+    },
+    {
+        "name": "Shelf",
+        "total_views": 3418,
+        "num_of_artefacts_tagged_in": 243,
+        "avg_view_per_artefact": 14.065843621399177
+    },
+    {
+        "name": "Glove",
+        "total_views": 478,
+        "num_of_artefacts_tagged_in": 34,
+        "avg_view_per_artefact": 14.058823529411764
+    },
+    {
+        "name": "Cracker",
+        "total_views": 98,
+        "num_of_artefacts_tagged_in": 7,
+        "avg_view_per_artefact": 14
+    },
+    {
+        "name": "Ticket",
+        "total_views": 558,
+        "num_of_artefacts_tagged_in": 40,
+        "avg_view_per_artefact": 13.95
+    },
+    {
+        "name": "Golf Club",
+        "total_views": 279,
+        "num_of_artefacts_tagged_in": 20,
+        "avg_view_per_artefact": 13.95
+    },
+    {
+        "name": "Cassette",
+        "total_views": 153,
+        "num_of_artefacts_tagged_in": 11,
+        "avg_view_per_artefact": 13.909090909090908
+    },
+    {
+        "name": "Chess",
+        "total_views": 952,
+        "num_of_artefacts_tagged_in": 69,
+        "avg_view_per_artefact": 13.797101449275363
+    },
+    {
+        "name": "Bracelet",
+        "total_views": 2370,
+        "num_of_artefacts_tagged_in": 173,
+        "avg_view_per_artefact": 13.699421965317919
+    },
+    {
+        "name": "Ceiling Light",
+        "total_views": 95,
+        "num_of_artefacts_tagged_in": 7,
+        "avg_view_per_artefact": 13.571428571428571
+    },
+    {
+        "name": "Glass",
+        "total_views": 9982,
+        "num_of_artefacts_tagged_in": 736,
+        "avg_view_per_artefact": 13.5625
+    },
+    {
+        "name": "Peak",
+        "total_views": 271,
+        "num_of_artefacts_tagged_in": 20,
+        "avg_view_per_artefact": 13.55
+    },
+    {
+        "name": "Bread",
+        "total_views": 4221,
+        "num_of_artefacts_tagged_in": 312,
+        "avg_view_per_artefact": 13.528846153846153
+    },
+    {
+        "name": "Knife",
+        "total_views": 16296,
+        "num_of_artefacts_tagged_in": 1205,
+        "avg_view_per_artefact": 13.523651452282158
+    },
+    {
+        "name": "Dollar",
+        "total_views": 173,
+        "num_of_artefacts_tagged_in": 13,
+        "avg_view_per_artefact": 13.307692307692308
+    },
+    {
+        "name": "Pin",
+        "total_views": 2218,
+        "num_of_artefacts_tagged_in": 167,
+        "avg_view_per_artefact": 13.281437125748504
+    },
+    {
+        "name": "Plastic",
+        "total_views": 185,
+        "num_of_artefacts_tagged_in": 14,
+        "avg_view_per_artefact": 13.214285714285714
+    },
+    {
+        "name": "Mat",
+        "total_views": 250,
+        "num_of_artefacts_tagged_in": 19,
+        "avg_view_per_artefact": 13.157894736842104
+    },
+    {
+        "name": "Blouse",
+        "total_views": 92,
+        "num_of_artefacts_tagged_in": 7,
+        "avg_view_per_artefact": 13.142857142857142
+    },
+    {
+        "name": "Origami",
+        "total_views": 656,
+        "num_of_artefacts_tagged_in": 50,
+        "avg_view_per_artefact": 13.12
+    },
+    {
+        "name": "Musician",
+        "total_views": 223,
+        "num_of_artefacts_tagged_in": 17,
+        "avg_view_per_artefact": 13.117647058823529
+    },
+    {
+        "name": "Protest",
+        "total_views": 118,
+        "num_of_artefacts_tagged_in": 9,
+        "avg_view_per_artefact": 13.11111111111111
+    },
+    {
+        "name": "Parade",
+        "total_views": 170,
+        "num_of_artefacts_tagged_in": 13,
+        "avg_view_per_artefact": 13.076923076923077
+    },
+    {
+        "name": "Pencil",
+        "total_views": 311,
+        "num_of_artefacts_tagged_in": 24,
+        "avg_view_per_artefact": 12.958333333333334
+    },
+    {
+        "name": "Fountain Pen",
+        "total_views": 167,
+        "num_of_artefacts_tagged_in": 13,
+        "avg_view_per_artefact": 12.846153846153847
+    },
+    {
+        "name": "Diamond",
+        "total_views": 501,
+        "num_of_artefacts_tagged_in": 39,
+        "avg_view_per_artefact": 12.846153846153847
+    },
+    {
+        "name": "Blackboard",
+        "total_views": 228,
+        "num_of_artefacts_tagged_in": 18,
+        "avg_view_per_artefact": 12.666666666666666
+    },
+    {
+        "name": "Arrowhead",
+        "total_views": 1429,
+        "num_of_artefacts_tagged_in": 113,
+        "avg_view_per_artefact": 12.646017699115044
+    },
+    {
+        "name": "Dress Shirt",
+        "total_views": 162,
+        "num_of_artefacts_tagged_in": 13,
+        "avg_view_per_artefact": 12.461538461538462
+    },
+    {
+        "name": "Prayer Beads",
+        "total_views": 98,
+        "num_of_artefacts_tagged_in": 8,
+        "avg_view_per_artefact": 12.25
+    },
+    {
+        "name": "Rosary",
+        "total_views": 98,
+        "num_of_artefacts_tagged_in": 8,
+        "avg_view_per_artefact": 12.25
+    },
+    {
+        "name": "Washer",
+        "total_views": 318,
+        "num_of_artefacts_tagged_in": 26,
+        "avg_view_per_artefact": 12.23076923076923
+    },
+    {
+        "name": "Herbal",
+        "total_views": 73,
+        "num_of_artefacts_tagged_in": 6,
+        "avg_view_per_artefact": 12.166666666666666
+    },
+    {
+        "name": "Wallet",
+        "total_views": 2305,
+        "num_of_artefacts_tagged_in": 191,
+        "avg_view_per_artefact": 12.06806282722513
+    },
+    {
+        "name": "Camera Lens",
+        "total_views": 398,
+        "num_of_artefacts_tagged_in": 33,
+        "avg_view_per_artefact": 12.06060606060606
+    },
+    {
+        "name": "River",
+        "total_views": 673,
+        "num_of_artefacts_tagged_in": 56,
+        "avg_view_per_artefact": 12.017857142857142
+    },
+    {
+        "name": "Hose",
+        "total_views": 191,
+        "num_of_artefacts_tagged_in": 16,
+        "avg_view_per_artefact": 11.9375
+    },
+    {
+        "name": "Oars",
+        "total_views": 2371,
+        "num_of_artefacts_tagged_in": 200,
+        "avg_view_per_artefact": 11.855
+    },
+    {
+        "name": "Cardigan",
+        "total_views": 59,
+        "num_of_artefacts_tagged_in": 5,
+        "avg_view_per_artefact": 11.8
+    },
+    {
+        "name": "Bracket",
+        "total_views": 270,
+        "num_of_artefacts_tagged_in": 23,
+        "avg_view_per_artefact": 11.73913043478261
+    },
+    {
+        "name": "Tachometer",
+        "total_views": 844,
+        "num_of_artefacts_tagged_in": 72,
+        "avg_view_per_artefact": 11.722222222222221
+    },
+    {
+        "name": "Cow",
+        "total_views": 281,
+        "num_of_artefacts_tagged_in": 24,
+        "avg_view_per_artefact": 11.708333333333334
+    },
+    {
+        "name": "Handle",
+        "total_views": 1906,
+        "num_of_artefacts_tagged_in": 163,
+        "avg_view_per_artefact": 11.693251533742332
+    },
+    {
+        "name": "Crossword Puzzle",
+        "total_views": 70,
+        "num_of_artefacts_tagged_in": 6,
+        "avg_view_per_artefact": 11.666666666666666
+    },
+    {
+        "name": "Hourglass",
+        "total_views": 359,
+        "num_of_artefacts_tagged_in": 31,
+        "avg_view_per_artefact": 11.580645161290322
+    },
+    {
+        "name": "Dam",
+        "total_views": 149,
+        "num_of_artefacts_tagged_in": 13,
+        "avg_view_per_artefact": 11.461538461538462
+    },
+    {
+        "name": "Mustache",
+        "total_views": 103,
+        "num_of_artefacts_tagged_in": 9,
+        "avg_view_per_artefact": 11.444444444444445
+    },
+    {
+        "name": "Deodorant",
+        "total_views": 91,
+        "num_of_artefacts_tagged_in": 8,
+        "avg_view_per_artefact": 11.375
+    },
+    {
+        "name": "Agate",
+        "total_views": 248,
+        "num_of_artefacts_tagged_in": 22,
+        "avg_view_per_artefact": 11.272727272727273
+    },
+    {
+        "name": "Brooch",
+        "total_views": 202,
+        "num_of_artefacts_tagged_in": 18,
+        "avg_view_per_artefact": 11.222222222222221
+    },
+    {
+        "name": "Solar Panels",
+        "total_views": 78,
+        "num_of_artefacts_tagged_in": 7,
+        "avg_view_per_artefact": 11.142857142857142
+    },
+    {
+        "name": "Can Opener",
+        "total_views": 167,
+        "num_of_artefacts_tagged_in": 15,
+        "avg_view_per_artefact": 11.133333333333333
+    },
+    {
+        "name": "Banner",
+        "total_views": 111,
+        "num_of_artefacts_tagged_in": 10,
+        "avg_view_per_artefact": 11.1
+    },
+    {
+        "name": "Dating",
+        "total_views": 153,
+        "num_of_artefacts_tagged_in": 14,
+        "avg_view_per_artefact": 10.928571428571429
+    },
+    {
+        "name": "Herbs",
+        "total_views": 76,
+        "num_of_artefacts_tagged_in": 7,
+        "avg_view_per_artefact": 10.857142857142858
+    },
+    {
+        "name": "Napkin",
+        "total_views": 97,
+        "num_of_artefacts_tagged_in": 9,
+        "avg_view_per_artefact": 10.777777777777779
+    },
+    {
+        "name": "Cutlery",
+        "total_views": 18327,
+        "num_of_artefacts_tagged_in": 1712,
+        "avg_view_per_artefact": 10.705023364485982
+    },
+    {
+        "name": "Sponge",
+        "total_views": 64,
+        "num_of_artefacts_tagged_in": 6,
+        "avg_view_per_artefact": 10.666666666666666
+    },
+    {
+        "name": "Walnut",
+        "total_views": 169,
+        "num_of_artefacts_tagged_in": 16,
+        "avg_view_per_artefact": 10.5625
+    },
+    {
+        "name": "Wrench",
+        "total_views": 556,
+        "num_of_artefacts_tagged_in": 53,
+        "avg_view_per_artefact": 10.49056603773585
+    },
+    {
+        "name": "Postcard",
+        "total_views": 218,
+        "num_of_artefacts_tagged_in": 21,
+        "avg_view_per_artefact": 10.380952380952381
+    },
+    {
+        "name": "Waterfall",
+        "total_views": 71,
+        "num_of_artefacts_tagged_in": 7,
+        "avg_view_per_artefact": 10.142857142857142
+    },
+    {
+        "name": "Ditch",
+        "total_views": 71,
+        "num_of_artefacts_tagged_in": 7,
+        "avg_view_per_artefact": 10.142857142857142
+    },
+    {
+        "name": "Paddle",
+        "total_views": 283,
+        "num_of_artefacts_tagged_in": 28,
+        "avg_view_per_artefact": 10.107142857142858
+    },
+    {
+        "name": "Music Band",
+        "total_views": 50,
+        "num_of_artefacts_tagged_in": 5,
+        "avg_view_per_artefact": 10
+    },
+    {
+        "name": "Crypt",
+        "total_views": 139,
+        "num_of_artefacts_tagged_in": 14,
+        "avg_view_per_artefact": 9.928571428571429
+    },
+    {
+        "name": "Letter Opener",
+        "total_views": 6560,
+        "num_of_artefacts_tagged_in": 666,
+        "avg_view_per_artefact": 9.84984984984985
+    },
+    {
+        "name": "Wedge",
+        "total_views": 720,
+        "num_of_artefacts_tagged_in": 74,
+        "avg_view_per_artefact": 9.72972972972973
+    },
+    {
+        "name": "Knot",
+        "total_views": 68,
+        "num_of_artefacts_tagged_in": 7,
+        "avg_view_per_artefact": 9.714285714285714
+    },
+    {
+        "name": "Sock",
+        "total_views": 86,
+        "num_of_artefacts_tagged_in": 9,
+        "avg_view_per_artefact": 9.555555555555555
+    },
+    {
+        "name": "Clam",
+        "total_views": 267,
+        "num_of_artefacts_tagged_in": 28,
+        "avg_view_per_artefact": 9.535714285714286
+    },
+    {
+        "name": "Measurements",
+        "total_views": 57,
+        "num_of_artefacts_tagged_in": 6,
+        "avg_view_per_artefact": 9.5
+    },
+    {
+        "name": "Slug",
+        "total_views": 47,
+        "num_of_artefacts_tagged_in": 5,
+        "avg_view_per_artefact": 9.4
+    },
+    {
+        "name": "Gourd",
+        "total_views": 673,
+        "num_of_artefacts_tagged_in": 74,
+        "avg_view_per_artefact": 9.094594594594595
+    },
+    {
+        "name": "Tortoise",
+        "total_views": 208,
+        "num_of_artefacts_tagged_in": 23,
+        "avg_view_per_artefact": 9.043478260869565
+    },
+    {
+        "name": "Axle",
+        "total_views": 401,
+        "num_of_artefacts_tagged_in": 45,
+        "avg_view_per_artefact": 8.911111111111111
+    },
+    {
+        "name": "Vase",
+        "total_views": 9239,
+        "num_of_artefacts_tagged_in": 1037,
+        "avg_view_per_artefact": 8.909353905496625
+    },
+    {
+        "name": "Pearl",
+        "total_views": 62,
+        "num_of_artefacts_tagged_in": 7,
+        "avg_view_per_artefact": 8.857142857142858
+    },
+    {
+        "name": "Necktie",
+        "total_views": 147,
+        "num_of_artefacts_tagged_in": 17,
+        "avg_view_per_artefact": 8.647058823529411
+    },
+    {
+        "name": "Beak",
+        "total_views": 43,
+        "num_of_artefacts_tagged_in": 5,
+        "avg_view_per_artefact": 8.6
+    },
+    {
+        "name": "Drain",
+        "total_views": 60,
+        "num_of_artefacts_tagged_in": 7,
+        "avg_view_per_artefact": 8.571428571428571
+    },
+    {
+        "name": "Valley",
+        "total_views": 60,
+        "num_of_artefacts_tagged_in": 7,
+        "avg_view_per_artefact": 8.571428571428571
+    },
+    {
+        "name": "Limestone",
+        "total_views": 161,
+        "num_of_artefacts_tagged_in": 19,
+        "avg_view_per_artefact": 8.473684210526315
+    },
+    {
+        "name": "Canal",
+        "total_views": 101,
+        "num_of_artefacts_tagged_in": 12,
+        "avg_view_per_artefact": 8.416666666666666
+    },
+    {
+        "name": "Spear",
+        "total_views": 3626,
+        "num_of_artefacts_tagged_in": 431,
+        "avg_view_per_artefact": 8.412993039443155
+    },
+    {
+        "name": "Standing",
+        "total_views": 134,
+        "num_of_artefacts_tagged_in": 16,
+        "avg_view_per_artefact": 8.375
+    },
+    {
+        "name": "Beer Glass",
+        "total_views": 241,
+        "num_of_artefacts_tagged_in": 29,
+        "avg_view_per_artefact": 8.310344827586206
+    },
+    {
+        "name": "Frisbee",
+        "total_views": 41,
+        "num_of_artefacts_tagged_in": 5,
+        "avg_view_per_artefact": 8.2
+    },
+    {
+        "name": "Planter",
+        "total_views": 103,
+        "num_of_artefacts_tagged_in": 13,
+        "avg_view_per_artefact": 7.923076923076923
+    },
+    {
+        "name": "Scissors",
+        "total_views": 12421,
+        "num_of_artefacts_tagged_in": 1572,
+        "avg_view_per_artefact": 7.901399491094147
+    },
+    {
+        "name": "Potato",
+        "total_views": 227,
+        "num_of_artefacts_tagged_in": 29,
+        "avg_view_per_artefact": 7.827586206896552
+    },
+    {
+        "name": "Wax Seal",
+        "total_views": 288,
+        "num_of_artefacts_tagged_in": 37,
+        "avg_view_per_artefact": 7.783783783783784
+    },
+    {
+        "name": "Potted Plant",
+        "total_views": 639,
+        "num_of_artefacts_tagged_in": 83,
+        "avg_view_per_artefact": 7.698795180722891
+    },
+    {
+        "name": "Pliers",
+        "total_views": 690,
+        "num_of_artefacts_tagged_in": 90,
+        "avg_view_per_artefact": 7.666666666666667
+    },
+    {
+        "name": "Star Symbol",
+        "total_views": 114,
+        "num_of_artefacts_tagged_in": 15,
+        "avg_view_per_artefact": 7.6
+    },
+    {
+        "name": "Router",
+        "total_views": 38,
+        "num_of_artefacts_tagged_in": 5,
+        "avg_view_per_artefact": 7.6
+    },
+    {
+        "name": "Tombstone",
+        "total_views": 91,
+        "num_of_artefacts_tagged_in": 12,
+        "avg_view_per_artefact": 7.583333333333333
+    },
+    {
+        "name": "Sticker",
+        "total_views": 37,
+        "num_of_artefacts_tagged_in": 5,
+        "avg_view_per_artefact": 7.4
+    },
+    {
+        "name": "Storm",
+        "total_views": 59,
+        "num_of_artefacts_tagged_in": 8,
+        "avg_view_per_artefact": 7.375
+    },
+    {
+        "name": "Antler",
+        "total_views": 103,
+        "num_of_artefacts_tagged_in": 14,
+        "avg_view_per_artefact": 7.357142857142857
+    },
+    {
+        "name": "Wooden Spoon",
+        "total_views": 742,
+        "num_of_artefacts_tagged_in": 102,
+        "avg_view_per_artefact": 7.2745098039215685
+    },
+    {
+        "name": "Doormat",
+        "total_views": 72,
+        "num_of_artefacts_tagged_in": 10,
+        "avg_view_per_artefact": 7.2
+    },
+    {
+        "name": "Magnifying",
+        "total_views": 338,
+        "num_of_artefacts_tagged_in": 47,
+        "avg_view_per_artefact": 7.191489361702128
+    },
+    {
+        "name": "Pear",
+        "total_views": 294,
+        "num_of_artefacts_tagged_in": 41,
+        "avg_view_per_artefact": 7.170731707317073
+    },
+    {
+        "name": "Tomb",
+        "total_views": 129,
+        "num_of_artefacts_tagged_in": 18,
+        "avg_view_per_artefact": 7.166666666666667
+    },
+    {
+        "name": "Loft",
+        "total_views": 106,
+        "num_of_artefacts_tagged_in": 15,
+        "avg_view_per_artefact": 7.066666666666666
+    },
+    {
+        "name": "Trowel",
+        "total_views": 365,
+        "num_of_artefacts_tagged_in": 52,
+        "avg_view_per_artefact": 7.019230769230769
+    },
+    {
+        "name": "Shears",
+        "total_views": 4627,
+        "num_of_artefacts_tagged_in": 670,
+        "avg_view_per_artefact": 6.905970149253731
+    },
+    {
+        "name": "Hoe",
+        "total_views": 358,
+        "num_of_artefacts_tagged_in": 52,
+        "avg_view_per_artefact": 6.884615384615385
+    },
+    {
+        "name": "Tray",
+        "total_views": 197,
+        "num_of_artefacts_tagged_in": 29,
+        "avg_view_per_artefact": 6.793103448275862
+    },
+    {
+        "name": "Wand",
+        "total_views": 2248,
+        "num_of_artefacts_tagged_in": 340,
+        "avg_view_per_artefact": 6.6117647058823525
+    },
+    {
+        "name": "Slate",
+        "total_views": 500,
+        "num_of_artefacts_tagged_in": 76,
+        "avg_view_per_artefact": 6.578947368421052
+    },
+    {
+        "name": "Attic",
+        "total_views": 92,
+        "num_of_artefacts_tagged_in": 14,
+        "avg_view_per_artefact": 6.571428571428571
+    },
+    {
+        "name": "Flying",
+        "total_views": 444,
+        "num_of_artefacts_tagged_in": 68,
+        "avg_view_per_artefact": 6.529411764705882
+    },
+    {
+        "name": "Petal",
+        "total_views": 97,
+        "num_of_artefacts_tagged_in": 15,
+        "avg_view_per_artefact": 6.466666666666667
+    },
+    {
+        "name": "Rattle",
+        "total_views": 190,
+        "num_of_artefacts_tagged_in": 30,
+        "avg_view_per_artefact": 6.333333333333333
+    },
+    {
+        "name": "Putter",
+        "total_views": 44,
+        "num_of_artefacts_tagged_in": 7,
+        "avg_view_per_artefact": 6.285714285714286
+    },
+    {
+        "name": "Hair Slide",
+        "total_views": 251,
+        "num_of_artefacts_tagged_in": 40,
+        "avg_view_per_artefact": 6.275
+    },
+    {
+        "name": "Screwdriver",
+        "total_views": 892,
+        "num_of_artefacts_tagged_in": 147,
+        "avg_view_per_artefact": 6.068027210884353
+    },
+    {
+        "name": "Anvil",
+        "total_views": 400,
+        "num_of_artefacts_tagged_in": 66,
+        "avg_view_per_artefact": 6.0606060606060606
+    },
+    {
+        "name": "Signature",
+        "total_views": 42,
+        "num_of_artefacts_tagged_in": 7,
+        "avg_view_per_artefact": 6
+    },
+    {
+        "name": "Autograph",
+        "total_views": 42,
+        "num_of_artefacts_tagged_in": 7,
+        "avg_view_per_artefact": 6
+    },
+    {
+        "name": "Sliced",
+        "total_views": 29,
+        "num_of_artefacts_tagged_in": 5,
+        "avg_view_per_artefact": 5.8
+    },
+    {
+        "name": "Box Turtle",
+        "total_views": 40,
+        "num_of_artefacts_tagged_in": 7,
+        "avg_view_per_artefact": 5.714285714285714
+    },
+    {
+        "name": "Cliff",
+        "total_views": 56,
+        "num_of_artefacts_tagged_in": 10,
+        "avg_view_per_artefact": 5.6
+    },
+    {
+        "name": "Mattock",
+        "total_views": 50,
+        "num_of_artefacts_tagged_in": 9,
+        "avg_view_per_artefact": 5.555555555555555
+    },
+    {
+        "name": "Fork",
+        "total_views": 2534,
+        "num_of_artefacts_tagged_in": 470,
+        "avg_view_per_artefact": 5.391489361702128
+    },
+    {
+        "name": "Baton",
+        "total_views": 323,
+        "num_of_artefacts_tagged_in": 60,
+        "avg_view_per_artefact": 5.383333333333334
+    },
+    {
+        "name": "Dredger",
+        "total_views": 26,
+        "num_of_artefacts_tagged_in": 5,
+        "avg_view_per_artefact": 5.2
+    },
+    {
+        "name": "Reading",
+        "total_views": 26,
+        "num_of_artefacts_tagged_in": 5,
+        "avg_view_per_artefact": 5.2
+    },
+    {
+        "name": "Postal Office",
+        "total_views": 31,
+        "num_of_artefacts_tagged_in": 6,
+        "avg_view_per_artefact": 5.166666666666667
+    },
+    {
+        "name": "RAM Memory",
+        "total_views": 55,
+        "num_of_artefacts_tagged_in": 11,
+        "avg_view_per_artefact": 5
+    },
+    {
+        "name": "Obelisk",
+        "total_views": 21,
+        "num_of_artefacts_tagged_in": 5,
+        "avg_view_per_artefact": 4.2
+    },
+    {
+        "name": "Chocolate",
+        "total_views": 113,
+        "num_of_artefacts_tagged_in": 30,
+        "avg_view_per_artefact": 3.7666666666666666
+    },
+    {
+        "name": "Submarine",
+        "total_views": 19,
+        "num_of_artefacts_tagged_in": 6,
+        "avg_view_per_artefact": 3.1666666666666665
+    },
+    {
+        "name": "Fudge",
+        "total_views": 25,
+        "num_of_artefacts_tagged_in": 8,
+        "avg_view_per_artefact": 3.125
+    }
+]
