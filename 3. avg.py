@@ -1,8 +1,5 @@
 import json
 file = open('./labels_data.json')
-  
-# returns JSON object as 
-# a dictionary
 data = json.load(file)
 
 proper_labels = []
