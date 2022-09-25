@@ -5,7 +5,7 @@ import time
 start = time.time()
 
 data = []
-with open('./prelim_data_set_1.json', encoding="utf8") as f:
+with open('./actual_data.json', encoding="utf8") as f:
     for line in f:
         data.append(json.loads(line))
 
@@ -17,17 +17,15 @@ def find_primary_description(objects):
 
     for object in objects:  
         
+        return_data = ''
+
         try:
-            is_primary = object['primary']
+            return_data += object['value']               
+
         except:
             continue
-        
-        if is_primary == True:
-            return object['value']
-        else:
-            continue
-    
-    return ''
+            
+    return return_data
 
 
 for obj in data:
@@ -46,8 +44,6 @@ for obj in data:
         description = find_primary_description(obj['_source']['description'])
     except:
         description = ''
-
-
 
     try:
         count = 0
@@ -69,9 +65,10 @@ for obj in data:
 
     new_obj = {'id': id, 'total_views': total_views, 'description': description, 'image_count': length_of_images, 'labels': labels}
     all_data.append(new_obj)
+
+    counter += 1
+    print(counter)
     # json.dump(new_obj, new_data_file)
-
-
 
 
 json.dump(all_data, new_data_file)
